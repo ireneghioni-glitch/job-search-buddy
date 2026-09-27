@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+job-venv/
+
+.env
+*.env
+
+.pytest_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+
+# Ignore profile file with personal
+profile/01_profile.md
