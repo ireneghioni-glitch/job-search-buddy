@@ -1,0 +1,141 @@
+Title: Principal Computational Methodologist (Belgium)
+Company: UCB
+Location: Anderlecht, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4433886504
+Posted: 2026-09-21
+Site: linkedin
+Search query: Cheminformatics
+----------------------------------------
+
+**Make your mark for patients** 
+
+
+
+
+ We are looking for a
+ **Principal Computational Methodologist** 
+ who is curious, collaborative, and impact\-driven to join our
+ **Advanced Methods and Data Science** 
+ team within Biometrics and Data Science, based in any of our Brussels (Belgium), Slough (UK) or Raleigh (US).
+ 
+
+
+
+  
+
+
+
+
+
+**About The Role** 
+
+
+
+
+ You will help shape how advanced AI, machine learning, and computational methods support clinical development. You will design, validate, and deploy models that help teams make evidence\-based decisions in areas such as biomarker discovery, clinical trial design, operational efficiency, and patient experience. You will guide scientific thinking, turn complex methods into practical solutions, and help build scalable tools that meet scientific, technical, and regulatory expectations.
+ 
+
+
+
+  
+
+
+
+
+
+**Who You Will Work With** 
+
+
+
+
+ You will join Advanced Methods and Data Science, part of Biometrics and Data Science within Patient Evidence. You will work with clinical, statistical, molecular, operational, engineering, IT, governance, and compliance colleagues across countries. You will also connect with academic, technology, and industry partners. Together, you will explore new methods, share scientific learning, and support teams that use data to improve decision\-making across the drug development value chain.
+ 
+
+
+
+  
+
+
+
+
+
+**What You Will Do** 
+
+
+
+* You will lead AI and machine learning projects that address clinical development, biomarker, operational, and decision\-support needs.
+* You will design, build, test, and refine modern deep learning models for text, graphs, biological sequences, and clinical data.
+* You will develop generative AI applications using foundation models, pre\-trained models, and large language models.
+* You will run rigorous, reproducible AI experiments on internal and public datasets to generate publishable scientific results.
+* You will partner with engineering teams to package methods into applications, platforms, and scalable validated solutions.
+* You will mentor colleagues, share knowledge, and represent the team through publications, presentations, and external collaborations.
+
+
+
+  
+
+
+
+
+
+**Interested? For this role, we are looking for the following education, experience, and skills:** 
+
+
+
+* You have a PhD in Statistics, Computer Science, Engineering, Computational Biology, Statistical Genetics, Mathematics, or a related scientific field.
+* You bring experience in industry, ideally within pharma, clinical development, life sciences, or another regulated data\-focused environment.
+* You can program confidently in Python, R, or similar languages, and you can support others with practical coding guidance.
+* You understand supervised, unsupervised, Bayesian, and deep learning methods, and can apply them to real\-world scientific questions.
+* You have experience with ML infrastructure, reproducible research, Linux or HPC environments, and software or platform development.
+* You communicate clearly with scientific, technical, medical, and business partners, and enjoy working in a collaborative, multidisciplinary team.
+
+
+
+ Are you ready to ‘go beyond’ to create value and make your mark for patients? If this sounds like you, then we would love to hear from you!
+ 
+
+
+
+  
+
+
+
+
+
+**About Us** 
+
+
+
+
+ UCB is a global biopharmaceutical company, focusing on neurology and immunology. We are over 9\.000 people in all four corners of the globe, inspired by patients and driven by science.
+ 
+
+
+
+  
+
+
+
+
+
+**Why work with us?** 
+
+
+
+
+ At UCB, we don’t just complete tasks, we create value. We aren’t afraid to push forward, collaborate, and innovate to make our mark for patients. We have a caring, supportive culture where everyone feels included, respected, and has equal opportunities to do their best work. We ‘go beyond’ to create value for our patients, and always with a human focus, whether that’s on our patients, our employees, or our planet. Working for us, you will discover a place where you can grow, and have the freedom to carve your own career path to achieve your full potential.
+ 
+
+
+
+ At UCB, we’ve embraced a hybrid\-first approach to work, bringing teams together in local hubs to foster collaborative curiosity. Unless expressly stated in the description or precluded by the nature of the position, roles are hybrid with 40% of your time spent in the office.
+ 
+
+
+
+ UCB is an equal opportunity employer. All employment decisions will be made without regard to any characteristic protected by applicable laws.
+ 
+
+
+
+ Should you require any adjustments to our process to assist you in demonstrating your strengths and capabilities contact us on EMEA\-Reasonable\_Accommodation@ucb.com. Please note should your enquiry not relate to adjustments; we will not be able to support you through this channel.

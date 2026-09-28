@@ -1,0 +1,106 @@
+Title: Senior EDA R&D Engineer – Computational Electromagnetics and Quantum Systems
+Company: Keysight Technologies
+Location: 
+URL: https://www.linkedin.com/jobs/view/4470503042
+Posted: 2026-09-25
+Site: linkedin
+Search query: Digital R&D Scientist
+----------------------------------------
+
+**Overview**
+ Keysight is at the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our \~16,800 employees create world\-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more about what we do.
+   
+
+  
+
+ Our award\-winning culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry\-first solutions. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.
+   
+
+  
+
+ We are seeking a
+ **Senior R\&D Engineer** 
+ to contribute to the development of the next generation of computational electromagnetic (CEM) solvers that power Keysight's simulation portfolio. This role focuses on the core numerical engine, including Finite Element Methods (FEM), Method of Moments (MoM), Finite Difference Time Domain (FDTD), sparse matrix solvers, meshing technologies, eigenvalue and eigenmode analysis, high\-performance parallel computing, and advanced boundary condition formulations.
+   
+
+  
+
+ The ideal candidate will have a strong foundation in computational electromagnetics, numerical methods, scientific computing, and software engineering, with a passion for developing robust, scalable, and high\-performance simulation technology. You will work on the numerical infrastructure and algorithms that enable the efficient and accurate solution of Maxwell's equations for complex electromagnetic systems.
+   
+
+  
+
+ A major focus of this role is enabling simulation technologies for
+ **superconducting quantum processors, resonators, couplers, packaging structures, control and readout networks, and cryogenic microwave environments.**
+ While the end applications are quantum\-focused, the work itself centers on advancing the
+ **solver infrastructure, numerical algorithms, and software architecture** 
+ that make these capabilities possible. You will work alongside experts in computational electromagnetics, quantum engineering, applied mathematics, and scientific software development to create scalable, production\-grade simulation technology used by researchers and engineers developing the next generation of quantum computing systems.
+   
+
+  
+
+**Responsibilities**
+ You will collaborate with multiple Keysight R\&D organizations to:
+   
+
+  
+
+* Extend computational EM capabilities across Keysight simulation products
+* Improve EM\-circuit\-system co\-simulation workflows
+* Develop methodologies for advanced packaging, RF/microwave systems, and quantum technologies
+* Create scalable simulation approaches that leverage modern HPC architectures
+* Translate emerging customer requirements into reusable EDA capabilities
+
+
+ Quantum computing is the main application area, but the primary objective is the advancement of computational EM technologies that support a broad range of engineering domains.
+   
+
+  
+
+**Key Responsibilities**
+* Work with existing EDA product teams including computational EM, Quantum, RF/microwave, and circuit simulation groups to define and develop new simulation capabilities.
+* Develop and validate advanced computational electromagnetic workflows for challenging multi\-scale and multi\-physics problems.
+* Collaborate with software engineering teams to transform simulation methodologies into product features and production\-quality solutions.
+* Apply computational EM techniques to emerging technology areas including quantum computing, superconducting devices, advanced packaging, high\-frequency interconnects, and cryogenic systems.
+* Create validated application workflows demonstrating end\-to\-end design methodologies from layout through EM simulation and system\-level analysis.
+* Improve scalability and performance of simulation workflows through efficient modeling strategies and HPC technologies.
+* Correlate simulation results against measurement data, analytical models, and published results.
+* Partner with customers and internal application teams to identify future simulation requirements and product opportunities.
+* Produce technical documentation, validation examples, and reference workflows that accelerate customer adoption.
+
+
+**Qualifications**
+**Required Skills \& Experience**
+* Bachelor's degree in Physics, Engineering, or a related technical field. Advanced degrees (Master's or PhD) are preferred.
+* Strong experience in computational electromagnetics, electromagnetic simulation, or numerical modeling.
+* Experience with one or more commercial EM simulation environments including:
+* ADS
+* EMPro
+* HFSS
+* CST
+* COMSOL
+* Similar electromagnetic analysis tools.
+
+
+**Strong Understanding Of**
+* Electromagnetic field theory
+* RF/microwave engineering
+* Numerical simulation methods
+* Model validation techniques
+* Circuit and system\-level interaction with EM models
+* Experience developing or validating simulation workflows for complex engineering systems.
+* Ability to translate customer requirements into simulation methodologies, product concepts, and software requirements.
+* Strong software and automation skills using Python and/or C\+\+.
+* Experience working across multidisciplinary engineering teams.
+
+
+**Preferred Qualifications**
+* Experience applying computational EM methods to quantum technologies, superconducting circuits, or cryogenic systems.
+* Experience with large\-scale simulation and HPC environments.
+* Knowledge of reduced\-order modeling, parameter extraction, model generation, or surrogate modeling techniques.
+* Familiarity with EDA workflows spanning layout, EM simulation, circuit simulation, and system analysis.
+* Background in multi\-physics simulation involving thermal, mechanical, or quantum effects.
+* Experience collaborating with software development organizations to deliver commercial EDA capabilities.
+
+
+ Careers Privacy Statement\*\*\*Keysight is an Equal Opportunity Employer.\*\*\*

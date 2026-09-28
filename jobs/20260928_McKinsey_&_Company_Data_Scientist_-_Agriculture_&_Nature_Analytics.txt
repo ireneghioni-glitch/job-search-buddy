@@ -1,0 +1,80 @@
+Title: Data Scientist - Agriculture & Nature Analytics
+Company: McKinsey & Company
+Location: Brussels, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4461798448
+Posted: 2026-09-23
+Site: linkedin
+Search query: Data Scientist Chemistry
+----------------------------------------
+
+**Who You'll Work With**
+ Driving lasting impact and building long\-term capabilities with our clients is not easy work. You are the kind of person who thrives in a high performance/high reward culture \- doing hard things, picking yourself up when you stumble, and having the resilience to try another way forward.
+   
+
+  
+
+ In return for your drive, determination, and curiosity, we'll provide the resources, mentorship, and opportunities you need to become a stronger leader faster than you ever thought possible. Your colleagues—at all levels—will invest deeply in your development, just as much as they invest in delivering exceptional results for clients. Every day, you'll receive apprenticeship, coaching, and exposure that will accelerate your growth in ways you won’t find anywhere else.
+   
+
+  
+
+ When you join us, you will have:
+   
+
+  
+
+* Continuous learning: Our learning and apprenticeship culture, backed by structured programs, is all about helping you grow while creating an environment where feedback is clear, actionable, and focused on your development. The real magic happens when you take the input from others to heart and embrace the fast\-paced learning experience, owning your journey.
+* A voice that matters: From day one, we value your ideas and contributions. You’ll make a tangible impact by offering innovative ideas and practical solutions, all while upholding our unwavering commitment to ethics and integrity. We not only encourage diverse perspectives, but they are critical in driving us toward the best possible outcomes.
+* Global community: With colleagues across 65\+ countries and over 100 different nationalities, our firm’s diversity fuels creativity and helps us come up with the best solutions for our clients. Plus, you’ll have the opportunity to learn from exceptional colleagues with diverse backgrounds and experiences.
+* World\-class benefits: On top of a competitive salary (based on your location, experience, and skills), we provide a comprehensive benefits package to enable holistic well\-being for you and your family.
+
+
+**Your Impact**
+ You’ll work with McKinsey’s agricultural and nature analytics team (ACRE) in Brussels, Belgium, part of our Agriculture Practice and Nature \& Natural Capital Service Line.
+   
+
+  
+
+ Our Agriculture Practice advises agribusiness, consumer food, government, and investor clients on strategic, marketing \& sales, and operations issues, helping support industry\-shaping decisions that impact the future of global food production.
+   
+
+  
+
+ The Nature \& Natural Capital Service Line helps corporations, public\-sector actors and institutions in enabling nature\-positive outcomes by integrating biodiversity, land use, water, and ecosystem information into strategy, investment decisions, and operations.
+   
+
+  
+
+ Within this group, ACRE is a team of \~30 expert consultants, data scientists, and engineers focused on bringing cutting\-edge analytics to our clients. We apply real\-time data and advanced analytics or AI – generally predictive or geospatial in nature – to solve the biggest problems currently facing global agriculture and nature.
+   
+
+  
+
+ You will leverage industry knowledge and analytical expertise to provide insights both to clients as part of client service teams and within the ACRE team by strengthening the core products and algorithms we build for clients. You can expect to split your time delivering impact at clients (either remotely or on site) and building up ACRE’s core analytical offerings.
+   
+
+  
+
+ In the agriculture sector, issues to solve could include determining the suitability of growing different types of crops across different geographies, using local agronomic data and satellite imagery to determine market potential for input products, or optimizing farm operations using yield forecasting. For the nature sector, you may help public\-sector clients from low\- and middle\-income clients define their nature conservation strategy, supporting them through geospatial analysis and your domain knowledge.
+   
+
+  
+
+ Along the way, you will receive best\-in\-class training in structuring business problems and serving as a client adviser, develop tech\-skills through (in\-person) trainings curated by big\-tech companies, and have opportunities to work closely with and learn from our senior agriculture and nature leaders and industry players that are shaping the future of these fields. You will get access to unparalleled career acceleration, with a huge amount of ownership and responsibility from the get\-go in a collaborative, diverse, non\-hierarchical environment. You will get the opportunity to travel to client sites and attend in\-person trainings, locally and around the world. Lastly, you will be able to provide direct and measurable impact towards solving some of the largest problems facing the global food\-system and natural ecosystems.
+   
+
+  
+
+**Your Qualifications and Skills**
+* Master’s in a quantitative agriculture\- or nature\-related field
+* Strong experience with agronomy/crop science, animal sciences and farm\-level production systems, AND/OR nature\- and natural\-capital–related topics, such as biodiversity, land use, water systems, ecosystem services, or nature\-related risk and impact assessment, preferred
+* Geospatial and spatiotemporal analysis, remote sensing, image processing, preferred
+* Strong analytical and problem\-solving skills, paired with the ability to develop creative and efficient solutions
+* Clean, efficient coding abilities in Python ideally with experience parallel processing and using cloud computing resources
+* Ability to design and develop geospatial workflows and pipelines for data analysis and processing; ability to use version\-control \& collaboration tools
+* Strong multitasking and parallel development abilities
+* Strong interpersonal communication skills
+* Creative, naturally curious, and willing to take intellectual risks
+* Able to work under competing, quickly\-changing priorities, manage expectations effectively and support the team under pressure
+* Self\-management skills and ability to work as part of an Agile team preferred
+* Willingness to travel up to 50%

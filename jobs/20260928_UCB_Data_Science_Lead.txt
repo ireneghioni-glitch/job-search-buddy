@@ -1,0 +1,108 @@
+Title: Data Science Lead
+Company: UCB
+Location: Anderlecht, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4371053909
+Posted: 2026-09-19
+Site: linkedin
+Search query: PhD machine learning chemistry
+----------------------------------------
+
+**Make your mark for patients**
+ To strengthen our
+ **Global Advanced Analytics** 
+ team, we are looking for an
+ **adaptable, collaborative individual with an intrapreneurial mindset** 
+ for our
+ **Data Science Lead** 
+ opening
+ **.** 
+ This hybrid role is based in our headquarters in
+ **Anderlecth, Brussels, Belgium** 
+ requiring 40% onsite presence and 5\-10% international/ domestic travel.
+   
+
+  
+
+**About The Role**
+ You will help to inform on the
+ **commercial viability of various assets** 
+ in development.You will be responsible for making exceptional business impact with the use of secondary data and insights development through advanced analytics methods, enabling an increased use of data and, where applicable, reducing the necessity for building primary data. You will also be responsible for managing and implementing advanced analytics/AI projects to ensure successful delivery. You will oversee the ongoing operations of advanced analytics solutions to ensure that models continue to work and scale them up with additional demand and applications. You will serve as the subject matter expert for Advanced Analytics/AI capabilities in support of business needs within Patient Solutions and Patient Evidence.
+   
+
+  
+
+**Who you’ll work with**
+ You will co\-create with Integrated Insights Leads from
+ **early asset and late stage (Phase 0\-3\) teams** 
+ , Real world evidence teams, Translational Medicine and Bioinformatics, Clinical operations, clinical recruitment, and asset teams, new product planning teams, Commercial teams, Medical Affairs, Market Access, Finance, and IT. Externally, you will work with data and analytics vendors and partners.
+   
+
+  
+
+**What you’ll do**
+* Analytics Leadership: Provide clear expertise for opportunities to leverage advanced analytics, especially where they are advantageous to reducing the need for primary data or have high marginal impact
+* Deliver the most impactful data and analytics projects that:
++ address the most compelling business questions, and/or
++ identify new opportunities for patients and UCB through effective visual displays of quantitative and qualitative information
+
+* Partnership and Collaboration: Be the key strategic partner for functional stakeholders and co\-create plans and priorities for data and advanced analytics with them together with the Patient Solutions and Evidence Leads. Ensure tight relationships and collaboration with IT, Data Office, and other Analytics teams using relevant data sources.
+* Team Leadership . Serve as a mentor and guide to more junior data scientists and translators in demonstrating the application of cutting\-edge analytics, clear communication and presentation of insights and practical/pragmatic implementation of key recommendations
+* Drive the execution of regional and local data\-driven insights research and data analytics plans and priorities
+* Foster a strong data science community with significant business acumen and communication skills across Hubs and Engine and Supervise the conduct of advanced analytics studies in a collaborative manner ensuring that the study methodology is appropriate to deliver reliable results.
+* Improve the team’s partnership with, and impact on, key internal (UCB) and external stakeholders within the specific area of focus by:
++ developing and executing a communication and collaboration plan with key UCB stakeholders
++ increasing personal and the Advanced Analytics team’s knowledge of the business by ensuring that she/he and each team member has direct interaction with patients and/or other external stakeholders
+
+* Attract , retain, motivate, and develop key talent for the Advanced Analytics team; coach and develop team members
+* Drive deep partnership with the Hub insights team and other “fellow” Engines and insights generating functions (e.g. regional analytics teams) allowing for a joined delivery of cross\-functional, deep impactful insights
+* Be a champion for a data\-driven, decision\-making culture
+
+
+**Interested? For this role we’re looking for the following education, experience and skills**
+**Minimum Experience/Skills Required:**
+* Bachelor's degree in quantitative area
+* Minimum of 8\-10\+ years experience applying predictive modeling techniques such as ML, decision trees, ensemble learning, neural networks etc, and data transformation such as data cleansing and integration, fuzzy matching, etc., is required
+* Minimum of 8\-10\+ years of experience developing program/project plans and leading programs/projects from initiation to implementation is required
+* At least 8 years of experience working with real world data (Claims data, EMR, IQVIA, \-omics, etc)
+* Minimum of 8\-10\+ years of experience with programming and application development using Python or R is preferred
+
+
+**Preferred Experience/Skills:**
+* Master/Doctor’s degree in quantitative area
+* Knowledge of pharmaceutical industry, ideally specialty pharma and biologic treatments
+* Deep expertise in leveraging data science methodologies within the Research and Development and Clinical trials sphere of the pharmaceutical industry. The Go\-to\-Market domain encompasses the commercial, medical, and market access facets of the business
+* Expertise in analyzing a range of large, secondary transactional databases, unstructured data or other computationally difficult challenges
+* You are a structured problem solver
+* Possess an 80/20 mindset to push for fast model iterations
+* Interpret model results and identify potential model errors (e.g., overfitting, model bias, correlation vs causation)
+* Global role, so willingness and flexibility to work across geographies / time zones (sometimes outside of core hours)
+
+
+ Are you ready to ‘go beyond’ to create value and make your mark for patients? If this sounds like you, then we would love to hear from you!
+   
+
+  
+
+**About Us**
+ UCB is a global biopharmaceutical company, focusing on neurology and immunology. We are over 9\.000 people in all four corners of the globe, inspired by patients and driven by science.
+   
+
+  
+
+**Why work with us?**
+ At UCB, we don’t just complete tasks, we create value. We aren’t afraid to push forward, collaborate, and innovate to make our mark for patients. We have a caring, supportive culture where everyone feels included, respected, and has equal opportunities to do their best work. We ‘go beyond’ to create value for our patients, and always with a human focus, whether that’s on our patients, our employees, or our planet. Working for us, you will discover a place where you can grow, and have the freedom to carve your own career path to achieve your full potential.
+   
+
+  
+
+ At UCB, we’ve embraced a hybrid\-first approach to work, bringing teams together in local hubs to foster collaborative curiosity. Unless explicitly stated in the description or precluded by the nature of the position, roles are hybrid with 40% of your time spent in the office.
+   
+
+  
+
+ UCB is an equal opportunity employer. All employment decisions will be made without regard to any characteristic protected by applicable federal, state, or local law. UCB invites you to voluntarily self\-identify during the application process. Provision of self\-identification information is entirely voluntary and a decision to provide or not provide such information will not have any effect on your application for employment, your employment with UCB, or otherwise subject you to any adverse treatment. Any information you provide will be considered confidential and will be kept separate from your application and/or personnel file and will only be used in accordance with applicable laws, orders, and regulations.
+   
+
+  
+
+ Should you require any adjustments to our process to assist you in demonstrating your strengths and capabilities contact us on US\-Reasonable\_Accommodation@ucb.com for application to US based roles. Please note should your enquiry not relate to adjustments; we will not be able to support you through this channel.

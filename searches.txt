@@ -1,0 +1,78 @@
+# ============================================================
+# TIER 1 — Brussels
+# ============================================================
+# Niche domain queries: 1-month window (few results, don't lose any)
+Materials Informatics | Brussels, Belgium | 720
+Cheminformatics | Brussels, Belgium | 720
+AI for Materials | Brussels, Belgium | 720
+Computational Chemistry | Brussels, Belgium | 720
+Coatings Scientist | Brussels, Belgium | 720
+Polymer Scientist | Brussels, Belgium | 720
+Specialty Chemicals | Brussels, Belgium | 720
+
+# Medium-frequency queries: 2-week window
+Formulation Scientist | Brussels, Belgium | 336
+Materials Scientist | Brussels, Belgium | 336
+
+# Broad queries: 1-week window (lots of results, prefer fresh)
+Lab Informatics Chemistry | Brussels, Belgium | 168
+Scientific Data Scientist Chemistry | Brussels, Belgium | 168
+R&D Data Scientist Chemistry | Brussels, Belgium | 168
+Data Scientist Chemistry | Brussels, Belgium | 168
+Digital R&D Scientist | Brussels, Belgium | 168
+
+# ============================================================
+# TIER 2 — Belgium
+# ============================================================
+# Niche domain queries: 1-month window
+Materials Informatics | Belgium | 720
+Cheminformatics | Belgium | 720
+AI for Materials | Belgium | 720
+Computational Chemistry | Belgium | 720
+Coatings Scientist | Belgium | 720
+Polymer Scientist | Belgium | 720
+Specialty Chemicals | Belgium | 720
+
+# Medium-frequency: 2-week window
+Formulation Scientist | Belgium | 336
+Materials Scientist | Belgium | 336
+
+# Broad: 1-week window
+Lab Informatics Chemistry | Belgium | 168
+Scientific Data Scientist Chemistry | Belgium | 168
+R&D Data Scientist Chemistry | Belgium | 168
+
+# ============================================================
+# TIER 3 — Broad cross-opportunity (high noise)
+# ============================================================
+Lab Informatics | Belgium | 168
+Digital R&D Scientist | Belgium | 168
+Scientific Data Scientist | Belgium | 168
+
+# ============================================================
+# TIER 4 — PhD / doctoral positions
+# ============================================================
+PhD materials science | Belgium | 720
+PhD computational chemistry | Belgium | 720
+PhD cheminformatics | Belgium | 720
+PhD chemical engineering | Belgium | 720
+PhD data-driven chemistry | Belgium | 720
+PhD machine learning chemistry | Belgium | 720
+Doctoral materials science | Belgium | 720
+Doctoral computational chemistry | Belgium | 720
+
+# ============================================================
+# TIER 5 — Remote EU (fully remote positions across the EU)
+# Longer window (720h = 1 month) because remote postings
+# stay open longer and are less time-sensitive.
+# ============================================================
+Materials Informatics | Remote | 720
+Cheminformatics | Remote | 720
+Computational Chemistry | Remote | 720
+AI for Materials | Remote | 720
+Materials Scientist | Remote | 720
+Formulation Scientist | Remote | 720
+Polymer Scientist | Remote | 720
+Specialty Chemicals | Remote | 720
+Data Scientist Chemistry | Remote | 720
+Scientific Data Scientist Chemistry | Remote | 720

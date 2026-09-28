@@ -1,0 +1,22 @@
+{
+  "job_file": "20260928_INEOS_BELGIUM_Technicien(ne)_de_laboratoire_Evaluation_des_polyoléfines.txt",
+  "title": "Technicien(ne) de laboratoire Evaluation des polyoléfines",
+  "company": "INEOS BELGIUM",
+  "url": "https://www.linkedin.com/jobs/view/4468384452",
+  "location": "Neder-Over-Heembeek, Brussels Region, Belgium",
+  "score": 30,
+  "recommendation": "WEAK FIT",
+  "reason": "Candidate's chemistry R&D experience and lab skills align with the lab technician role, despite data science focus, as the job emphasizes traditional lab work over AI infrastructure. | CAPPED: Requires French (not in candidate profile)",
+  "analyzed_at": "20260929_002026",
+  "mode": "quick",
+  "strict": true,
+  "extra_files": [],
+  "prefilter": {
+    "applied": true,
+    "skip": false,
+    "cap": 30,
+    "reasons": [
+      "Requires French (not in candidate profile)"
+    ]
+  }
+}

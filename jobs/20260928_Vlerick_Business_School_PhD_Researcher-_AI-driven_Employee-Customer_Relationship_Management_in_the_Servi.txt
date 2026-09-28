@@ -1,0 +1,139 @@
+Title: PhD Researcher: AI-driven Employee-Customer Relationship Management in the Service Sector
+Company: Vlerick Business School
+Location: Brussels, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4434741253
+Posted: 2026-09-22
+Site: linkedin
+Search query: Digital R&D Scientist
+----------------------------------------
+
+*Please note that
+ **Dutch** 
+ at the B2 level is required for this vacancy.*
+**Do you have a passion for business\-relevant research and the ambition to obtain your PhD on the hot topic of creating business value with data analytics and AI? Do you have the right academic background and are you ready to start this 4\-year journey in our open, international and collegial environment? Let’s meet!**
+**PhD Researcher: AI\-driven Employee\-Customer Relationship Management in the Service Sector**
+ Vlerick Business School is an innovative, top\-ranked and sustainable international business school in the heart of Europe. Our purpose is to
+ **transform people for a better world!** 
+ We want being at Vlerick to be a transformative experience where you discover the knowledge, mindset and confidence you need to take your next leap – and become the entrepreneurial leader our world needs.
+   
+
+  
+
+ Glowi is a dynamic group offering innovative services across multiple domains to make life easier for individuals and businesses. Its business units include Het Poetsbureau \& Easy Life (Glowi Home); Friends of Cartel (Marketing Solutions), Glowi Jobs and Motmans \& Partners (HR Solutions). Together, they combine expertise and passion to create solutions that truly make a difference.
+   
+
+  
+
+ As a Belgian company, Glowi is at the forefront of innovation in the cleaning services sector, combining operational excellence with data\-driven insights to transform how clients and cleaners connect. With a strong focus on decentralised communication, performance tracking, and human\-centric consultancy, Glowi empowers its teams to deliver measurable impact across cleaner acquisition, client retention, and administrative efficiency. The company’s commitment to continuous improvement and smart technology integration makes it a catalyst for change in a traditionally manual industry. Their main office in
+ **Beringen** 
+ .
+   
+
+  
+
+ At Glowi, data is an important asset that can be transformed into business value through innovative AI\-based methodologies. In a collaboration with Vlerick Business School, Glowi wants to research these opportunities. We are looking for a business\-oriented data scientist to develop and research AI opportunities in the service sector with academic rigour.
+   
+
+  
+
+ As part of our close\-knit team, you’ll bring Vlerick’s strategy and purpose to life. Are you excited to join our
+ **Area Marketing \& Sales team** 
+ as a
+ **PhD Researcher?** 
+ Here’s what you need to know!
+   
+
+  
+
+**Your Mission**
+ You will combine academic research with direct business impact, translating data and AI insights into real\-world applications.
+   
+
+  
+
+**Academic focus**
+* Complete a 4\-year PhD on data analytics and AI.
+* Conduct academic and applied research, including data collection, modelling, AI agent development, evaluation and reporting.
+* Disseminate insights through papers, reports, workshops, presentations and social media for both academic and business audiences.
+* Collaborate with faculty, researchers and support the activities of the research area.
+
+
+**Business impact**
+* Work with client and employee data from Glowi.
+* Develop predictive models and AI\-driven solutions that are operationalised within the organisation.
+* Design and evaluate genAI\-supported workflows and AI agents embedded in existing processes.
+* Work closely with Glowi’s Data \& AI team and business stakeholders to improve key business KPIs.
+
+
+**The Research**
+ Your PhD research will focus on
+ **employee\-customer relationship management** 
+ (acquisition, development and retention) within the
+ **cleaning services sector** 
+ , exploring how machine learning and AI agents can generate insights and improve processes.
+   
+
+  
+
+ The exact research topic will be defined together with the PhD candidate and may include:
+   
+
+  
+
+* AI\-driven employee and customer acquisition
+* Consultant coaching effects on development and churn
+* Skills, knowledge and behaviour (KSB) matching in recruitment and retention
+* Employee absenteeism and performance modelling
+* Pricing and price sensitivity analysis
+* Hyper\-personalised employee and customer communication using genAI
+* Process automation using genAI and reinforcement learning
+
+
+ All research is conducted in close collaboration with the business and combines state\-of\-the\-art technology, real\-world data, advanced modelling, and academic and managerial reporting.
+   
+
+  
+
+**You**
+* Obtained a master’s degree in business analytics, business engineering, artificial intelligence, data science, business administration, economics, computer science, civil engineering, statistics, mathematics, or equivalent.
+* Have excellent qualifications during your studies, such as distinctions (cum laude or higher) at the bachelor's and master's levels.
+* Have good communication skills and a business mindset, which allows you to easily switch between different stakeholders at all levels.
+* Can take up responsibilities and work independently.
+* Are passionate about the topic, have a research mindset and great analytical skills.
+* Have a good knowledge of data analytics and machine learning.
+* Can program and have experience with Python and SQL.
+* Preferably have experience with Microsoft Fabric and Azure.
+* Are fluent in Dutch and English and have excellent writing skills.
+* Have a proactive attitude and don’t shy away from presenting your findings to an academic and business audience.
+* Will be based on one of our Vlerick campuses (Ghent or Brussels) and the office of Glowi at
+
+
+**\#ProudtobeVlerick**
+* Autonomy and responsibility in an engaging work environment.
+* A dynamic, open, and international company culture.
+* Opportunities for professional and personal growth.
+* A team of enthusiastic, driven colleagues, passionate about learning.
+* Opportunities to build your network, both in academics and in business.
+* You’ll have a real impact and inspire people to live, learn and leap!
+
+
+ At Vlerick,
+ **openness to the world** 
+ is part of our DNA. We are continuously working towards being a truly diverse, equitable and inclusive place to work and learn at. So, no matter who you are, where you come from, or what your dreams are, we are looking forward to receiving your application.
+   
+
+  
+
+ Vlerick Business School is the hosting institute for this PhD journey with Philippe Baecke as your promoter. Your salary will be in line with the salary scales at Ghent University. More information on the
+ **salary** 
+ can be transparently accessed via this link.
+   
+
+  
+
+**Take the leap!**
+ In case you are interested in this PhD journey and meet the mentioned criteria, please apply with your
+ **resume, motivation letter and transcripts** 
+ from both your bachelor’s and master’s degree via our website. If available, please also add the results of your
+ **TOEFL or IELTS and your GRE score** 
+ . We look forward to hearing from you! Happy to give you more information on the job content: philippe.baecke@vlerick.com. For more information on the selection process, please reach out to charlotte.mahieu@vlerick.com.

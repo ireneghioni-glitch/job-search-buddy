@@ -1,0 +1,94 @@
+Title: Sr. Artificial Intelligence & Computer Vision Engineer, C-UAS
+Company: Sphere Defense
+Location: Brussels, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4454350884
+Posted: 2026-09-25
+Site: linkedin
+Search query: Digital R&D Scientist
+----------------------------------------
+
+**Who We Are**
+ Sphere Defense is a fully funded technology startup with the mission of providing allied countries with sovereign, effective and seamless autonomous countermeasures to neutralize todays’ and tomorrow’s aerial threats.
+   
+
+  
+
+ Sphere Defense was founded by industry veterans with previous successful exits, and is headquartered in Brussels, Belgium, in the heart of Europe.
+   
+
+  
+
+**About You**
+ You are an experienced and highly\-motivated
+ **Senior** 
+**Computer Vision Engineer** 
+ that has worked with mission\-critical autonomous systems, ideally flying robots and precision\-guided munitions.
+   
+
+  
+
+**What You’ll Do**
+* Be one of the first members of a high\-performing team, designing and developing autonomous countermeasures to protect allied countries from aerial threats
+* Own, design, develop, document and test state of the art perception pipelines for situational awareness and detection, identification and tracking of targets
+* Architect and train computer vision models for object recognition, environmental awareness and collision avoidance
+* Use both classical CV methods and AI\-based techniques to process real\-time video streams (thermal and visible light)
+* Collaborate with Embedded Software, Control, Hardware and Test teams for system architecture definition, sensor selection, calibration and characterization
+* Be hands\-on, working close to the hardware when needed during development and tests
+* Draft and review documentation and design documents
+* Be a team player and a mentor, being available to support and grow the team when needed
+
+
+**Location:** 
+ Onsite in Brussels, Belgium. Our office is close to Central Station.
+   
+
+  
+
+**Reports to** 
+ : Chief Technology Officer
+   
+
+  
+
+**Requirements**
+* Bachelor's or Master's Degree in Computer Vision, Robotics, or equivalent
+* At least 8 years of experience in a relevant, industry or academic position
+* Proficiency with one production language (C\+\+) and one prototyping language (Python)
+* Demonstrated ability to produce production\-grade, highly optimized target code
+* Experience in porting Machine Learning models to different platforms (e.g. ONNX), in quantization and adaptation to integer arithmetic and constrained NPUs
+* Strong knowledge of computer vision and image processing
+* Demonstrated ownership of complex, production\-grade perception pipelines in commercial systems
+* Excellent interpersonal communication skills in written and spoken English; French or Dutch is a plus
+* You are a self\-starter, able to work in a high\-ambiguity environment and willing to take up new challenges
+
+
+**Preferred Qualifications**
+* Experience with VIO/SLAM
+* Understanding of control systems
+* Experience with ROS2 and distributed systems
+* Experience with drones (fixed wing, VTOL) or homing missiles
+* Experience with IR/thermal imaging
+* Previous experience in the defense industry
+
+
+**What we offer**
+* Attractive compensation
+* Year\-end bonus
+* Stock Options Plan
+* Mobility Budget
+* 32 days of holidays
+* Meal vouchers
+* Private Health insurance
+
+
+ We are building a core team of hard\-working people. If you want to join a company with tremendous impact and you are autonomous, creative and driven, we want to hear from you!
+   
+
+  
+
+ Sphere Defense offers attractive compensation, stock options, and a unique opportunity to change the global defense landscape.
+   
+
+  
+
+ This role is only open to candidates with right to work in Belgium. We cannot provide visa sponsorship at this time.

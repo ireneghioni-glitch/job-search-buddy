@@ -1,0 +1,140 @@
+Title: Data Scientist
+Company: Mutualité chrétienne (MC)
+Location: Schaerbeek, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4469733278
+Posted: 2026-09-24
+Site: linkedin
+Search query: Scientific Data Scientist
+----------------------------------------
+
+Travailler à la MC, c’est travailler avec enthousiasme.
+   
+
+  
+
+ Parce qu’à la MC, vous avez un impact positif sur la vie de millions de Belges. C’est ce que vivent chaque jour nos milliers de collaborateurs. Nous contribuons ensemble à une société plus saine pour tous. Cela donne de la satisfaction et de l’énergie.
+   
+
+  
+
+ Pour vous aussi, la MC est un environnement de travail agréable et bienveillant, où vous échangez des idées et où vous vous développez. Où l’on peut compter sur ses collègues et où l’on est en relation les uns avec les autres. Éprouver du plaisir dans notre travail, c’est notre raison d’être !
+   
+
+  
+
+ À la MC, chaque jour compte. Pour les gens, pour la société et pour soi\-même.
+   
+
+  
+
+ Avec 650 collègues ICT, nous travaillons ensemble chaque jour pour fournir le meilleur service à nos 4,7 millions de membres et à nos près de 8\.000 membres du personnel.
+   
+
+  
+
+ Flexibilité garantie ! Possibilité de travailler à domicile 4 jours par semaine ou depuis l’un de nos bureaux régionaux.
+   
+
+  
+
+ Description de fonction
+   
+
+  
+
+ L'équipe Data Analytics soutient la MC dans son ambition de devenir la mutualité la plus orientée données de Belgique. Nous accompagnons l'organisation tout au long de son parcours data et analytique et développons des solutions sur mesure basées sur des technologies modernes. Nous aidons ainsi les différents domaines métier à exploiter pleinement leurs données afin de stimuler l'innovation, optimiser les processus et atteindre leurs objectifs stratégiques.
+   
+
+  
+
+ Notre expertise couvre notamment la stratégie de données, la gouvernance des données, l'analytique avancée, l'animation d'ateliers d'innovation ainsi que le développement de solutions data sur mesure.
+   
+
+  
+
+ Vous rejoignez une équipe multiculturelle composée d'environ 30 professionnels, parmi lesquels des Data Engineers, Data Scientists, Reporting Specialists et Analystes. Ensemble, nous concevons des solutions innovantes au service des différents domaines métier de la MC.
+   
+
+  
+
+ Aujourd'hui, l'équipe est au cœur d'une transformation majeure. Nous évoluons d'un modèle de services centralisé vers des équipes Agile orientées domaine, où les métiers et l'IT partagent la responsabilité des solutions de données qu'ils développent et gèrent.
+   
+
+  
+
+ En tant que Data Scientist, vous analysez des problématiques complexes et développez des différents types de produits data tels que des modèles prédictifs des dashboards ou des API qui contribuent aux décisions stratégiques. Vous réalisez des analyses approfondies, expérimentez avec des algorithmes et transformez les insights en solutions concrètes à impact sociétal.
+   
+
+  
+
+ Vous collaborez étroitement avec les parties prenantes de l’entreprise, les ML Engineers et d’autres spécialistes data afin non seulement de construire ces produits, mais aussi de les implémenter avec succès.
+   
+
+  
+
+**Vos Responsabilités**
+* Analyser les défis et formuler des solutions basées sur les données.
+* Développer, entraîner et valider des modèles de machine learning et d’optimisation.
+* Réaliser des analyses exploratoires et du feature engineering.
+* Visualiser et communiquer les insights via des dashboards et du storytelling.
+* Collaborer avec les ML Engineers autour du MLOps et de l’opérationnalisation des modèles.
+* Conseiller les clients et parties prenantes sur l’utilisation de l’IA dans leur contexte.
+
+
+ Le profil idéal
+   
+
+  
+
+* Minimum 5 ans d’expérience dans des projets de data science et de machine learning.
+* Maîtrise approfondie de Python (pandas, numpy, scikit\-learn, framew
+
+
+ orks ML/DL).
+   
+
+  
+
+* Solides bases en statistiques, SQL et design expérimental.
+* Expérience avec des outils de visualisation comme Power BI ou QuickSight.
+* Bonne compréhension du MLOps et collaboration avec des équipes techniques.
+* Vous êtes orienté résultats, vous pensez avec le business et vous voulez mettre des solutions en place qui fonctionnent vraiment.
+* Vous communiquez aisément avec des interlocuteurs techniques et non techniques, en néerlandais en français et en anglais.
+
+
+ Notre proposition
+   
+
+  
+
+ Une rémunération attractive : Vous bénéficiez d'un contrat à durée indéterminée, , d’un salaire attrayant et d'un ensemble d'avantages intéressants : chèques\-repas de 9 euros et restaurant d’entreprise, 13e mois, prime supplémentaire en juillet, une indemnité forfaitaire nette, 100% des transports en commun remboursés, indemnité vélo, allocations familiales supplémentaires, assurance groupe, assurance hospitalisation, assurance revenu garanti, location de vélos, ...
+   
+
+  
+
+ Travail flexible : Vous travaillerez avec des horaires de travail flexibles avec possibilité de travailler à domicile jusqu’4 jours par semaine ou depuis l'un de nos bureaux régionaux.
+   
+
+  
+
+ Impact social: à La MC, vous ne faites pas que travailler. Avec vos collègues, vous contribuez directement ou indirectement à la santé de nombreuses personnes. Votre travail a une véritable signification.
+   
+
+  
+
+ Formation et possibilités de croissance: à La MC, vous êtes aux commandes de votre carrière. Vous avez la possibilité d'évoluer dans votre travail et dans l'organisation.
+   
+
+  
+
+ Team : Des collègues formidables et une culture d'entreprise dynamique et ouverte, visant à obtenir des résultats exceptionnels ensemble.
+   
+
+  
+
+ Envie de relever ce défi?
+   
+
+  
+
+ Envoyez\-nous votre CV et votre lettre de motivation via le lien ci\-dessous. Nous avons hâte de recevoir votre candidature !

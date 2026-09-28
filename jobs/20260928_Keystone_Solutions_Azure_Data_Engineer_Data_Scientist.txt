@@ -1,0 +1,103 @@
+Title: Azure Data Engineer Data Scientist
+Company: Keystone Solutions
+Location: Brussels, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4470390906
+Posted: 2026-09-25
+Site: linkedin
+Search query: Data Scientist Chemistry
+----------------------------------------
+
+**Mission Overview:**
+ Keystone Solutions is seeking an experienced Azure Data Engineer / Data Scientist for a consultancy mission at a client site. This role is pivotal in delivering strategic data use cases on the Azure Databricks platform as part of the client's 2026 roadmap.
+   
+
+  
+
+**Main Mission:**
+ As an Azure Data Engineer / Data Scientist, you will bridge data engineering and data science to bring use cases into production. You will build and optimize data pipelines in Databricks, take ownership of existing models, and adapt or improve them as necessary.
+   
+
+  
+
+**Key Responsibilities:**
+* Design, develop, and optimize data pipelines in Azure Databricks and Azure Data Factory.
+* Industrialize models and calculations for reliable production operation.
+* Build and support Power BI reports, including data modeling and performance optimization.
+* Understand existing models and calculation logic, including anomaly detection models.
+* Modify, retrain, validate, and improve models and indicators as business needs evolve.
+* Collaborate with Data Engineers, Data Scientists, and business stakeholders to translate needs into deliverables.
+* Document data flows, models, and best practices for smooth handover.
+
+
+**Required Technical Skills:**
+* Proficiency with Azure Databricks and Azure services.
+* Strong experience with Spark/PySpark and Delta Lake architectures.
+* Strong skills in SQL and Python.
+* Experience building Power BI reports, including DAX and performance optimization.
+* Knowledge of statistics and machine learning, particularly anomaly detection techniques.
+* Ability to understand and take over existing code and models.
+* Adhere to best practices.
+
+
+**Profile:**
+* Degree in Computer Science, Data Science, Statistics, Engineering, or a related field.
+* Minimum 5 years of experience in data science and/or data engineering.
+* Proven ability to deliver within tight deadlines.
+* Analytical mindset, attention to detail, autonomy, and team spirit.
+* Strong communication skills to explain technical concepts clearly.
+
+
+**Nice to Have:**
+* Experience with MLOps practices.
+* Databricks certification.
+* Microsoft Azure certification.
+* Microsoft Power BI certification.
+* Experience in public transport, mobility, or energy sectors.
+* Experience working in Agile/Scrum environments.
+* Basic SAP knowledge.
+
+
+ If you thrive in a dynamic environment, enjoy working across the full data lifecycle, and want to make a real impact on the electrification of public transport in Brussels, we'd love to hear from you!
+   
+
+  
+
+ If you are ready to tackle technical and strategic challenges in a dynamic consultancy environment, apply today at Keystone Solutions Career Portal.
+   
+
+  
+
+**Duration:** 
+ 15/10/2026 \- 31/12/2026 3 months
+   
+
+  
+
+* (full time)
+
+
+**Skills required:**
+* Knowledge of statistics and machine learning, in particular anomaly detection techniques (e.g. statistical thresholds, Isolation Forest). \- Level: Intermediate \- Most recent: Any time
+* Proficiency with Azure Databricks and Azure services: Data Factory, Azure Storage, Key Vault, Azure DevOps. \- Level: Expert \- Most recent: Any time
+* Strong experience building Power BI reports, including semantic/data modelling, DAX, visual design, performance optimisation and deployment best practices. \- Level: Expert \- Most recent: Any time
+* Strong experience with Spark/PySpark and Delta Lake / Lakehouse architectures. \- Level: Expert \- Most recent: Any time
+* Strong skills in SQL and Python (pandas, scikit\-learn). \- Level: Expert \- Most recent: Any time
+
+
+**Language requirements:**
+ Dutch or French
+   
+
+  
+
+ Level Native or bilingual proficiency
+   
+
+  
+
+ English
+   
+
+  
+
+ Level Full professional proficiency

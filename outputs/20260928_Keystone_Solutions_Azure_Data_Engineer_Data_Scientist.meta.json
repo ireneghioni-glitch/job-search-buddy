@@ -1,0 +1,23 @@
+{
+  "job_file": "20260928_Keystone_Solutions_Azure_Data_Engineer_Data_Scientist.txt",
+  "title": "Azure Data Engineer Data Scientist",
+  "company": "Keystone Solutions",
+  "url": "https://www.linkedin.com/jobs/view/4470390906",
+  "location": "Brussels, Brussels Region, Belgium",
+  "score": 25,
+  "recommendation": "SKIP",
+  "reason": "Candidate lacks required Azure/Databricks/Power BI expertise and 5+ years of data engineering experience. | CAPPED: Requires 5+ years of experience; Requires Dutch (candidate has A1)",
+  "analyzed_at": "20260929_002908",
+  "mode": "quick",
+  "strict": true,
+  "extra_files": [],
+  "prefilter": {
+    "applied": true,
+    "skip": false,
+    "cap": 25,
+    "reasons": [
+      "Requires 5+ years of experience",
+      "Requires Dutch (candidate has A1)"
+    ]
+  }
+}

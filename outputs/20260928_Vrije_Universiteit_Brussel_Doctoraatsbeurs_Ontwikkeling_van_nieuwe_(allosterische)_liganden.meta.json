@@ -1,0 +1,23 @@
+{
+  "job_file": "20260928_Vrije_Universiteit_Brussel_Doctoraatsbeurs_Ontwikkeling_van_nieuwe_(allosterische)_liganden.txt",
+  "title": "Doctoraatsbeurs Ontwikkeling van nieuwe (allosterische) liganden",
+  "company": "Vrije Universiteit Brussel",
+  "url": "https://www.linkedin.com/jobs/view/4464348984",
+  "location": "Ixelles, Belgium",
+  "score": 25,
+  "recommendation": "SKIP",
+  "reason": "Candidate's data science background mismatches the chemistry-focused PhD research role requiring experimental ligand synthesis and testing, not data analysis or AI. | CAPPED: Requires Dutch (candidate has A1); PhD/doctoral position in target domain (eligible)",
+  "analyzed_at": "20260929_010308",
+  "mode": "quick",
+  "strict": true,
+  "extra_files": [],
+  "prefilter": {
+    "applied": true,
+    "skip": false,
+    "cap": 25,
+    "reasons": [
+      "Requires Dutch (candidate has A1)",
+      "PhD/doctoral position in target domain (eligible)"
+    ]
+  }
+}

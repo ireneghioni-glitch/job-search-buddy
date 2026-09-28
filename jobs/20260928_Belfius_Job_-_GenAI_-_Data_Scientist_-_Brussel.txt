@@ -1,0 +1,111 @@
+Title: Job | GenAI - Data Scientist | Brussel
+Company: Belfius
+Location: Brussels, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4460682454
+Posted: 2026-09-23
+Site: linkedin
+Search query: Scientific Data Scientist
+----------------------------------------
+
+**Omschrijving**
+ Je speelt een centrale rol in het ontwerpen, ontwikkelen en implementeren van geavanceerde AI\- en machine learning\-oplossingen die innovatie en automatisering binnen de organisatie stimuleren.
+   
+
+  
+
+ Je werkt samen met cross\-functionele teams om cloudgebaseerde AI\-diensten, generatieve AI en schaalbare ML\-infrastructuur te benutten.
+   
+
+  
+
+ Je zorgt ervoor dat AI\-modellen robuust, ethisch verantwoord en afgestemd zijn op de bedrijfsdoelstellingen.
+   
+
+  
+
+****De job in een notendop****
+ AI\- \& ML\-solution development:
+   
+
+  
+
+* Machine learning\- en deep learning\-modellen (inclusief generative AI) inzetten om complexe bedrijfsproblemen op te lossen.
+* Modellen optimaliseren voor prestaties, schaalbaarheid en kostenefficiëntie in Azure\-cloudomgevingen.
+* MLOps\-pijplijnen implementeren om modeltraining, validatie en uitrol te automatiseren.
+
+
+ Cloud\- \& AI\-infrastructuur:
+   
+
+  
+
+* Schaalbare AI\-infrastructuur ontwikkelen en onderhouden op Azure\-cloudplatformen, gebruikmakend van diensten zoals Azure ML en AKS.
+* Zorgen voor veilige, conforme en hoog\-beschikbare AI\-implementaties in de cloud.
+
+
+ Generatieve AI \& Innovatie:
+   
+
+  
+
+* Generative AI\-modellen (LLM’s, enz.) verkennen en integreren voor toepassingen zoals: RAG, intelligent document processing, speech\-to\-text en conversational AI.
+* Vooroplopen in AI\-trends (bijv. fine\-tuning, multimodal AI) en innovatieve use cases voorstellen.
+
+
+ Data\- \& modelgovernance:
+   
+
+  
+
+* Zorgen voor datakwaliteit, bias\-mitigatie en ethische AI\-praktijken bij modelontwikkeling.
+* Modelmonitoring en explainability\-tools implementeren om prestaties en compliance te volgen.
+
+
+ Samenwerking \& stakeholder engagement:
+   
+
+  
+
+* Samenwerken met productteams, data scientists en zakelijke stakeholders om AI\-kansen te identificeren.
+* Zakelijke vereisten vertalen naar technische AI\-oplossingen en inzichten effectief communiceren.
+
+
+****Jij hoeft geen witte raaf te zijn****
+ Al kan je er bij ons wel één worden. Bij ons mag je volop je vleugels uitslaan als je iemand bent met:
+   
+
+  
+
+* Een master of doctoraat in de wetenschappen met uitstekende academische resultaten op technisch gebied (econometrie, computerwetenschappen, artificiële intelligentie, e.a.).
+* Deskundigheid op het vlak van:
++ machine learning technieken en bereidheid om die kennis up\-to\-date te houden; een diepgaande kennis van algoritmes zoals Random Forests, Neural Networks en reinforcement learning is hierbij een must.
++ genAI: prompt engineering, structured outputs, enz.
+
+* Sterke programmeervaardigheden in Python en SQL.
+* Uitgebreide kennis van Nederlands of Frans, met passieve kennis van de andere taal, en Engels.
+* Ervaring in het verklaren van complexe analyses aan een niet\-technisch publiek aan de hand van je verhalende competenties en je capaciteit om data te visualiseren; je beschikt over uitmuntende mondelinge en schriftelijke communicatievaardigheden op technisch en businessniveau.
+* Honger naar kennis, niet alleen om nieuwe algoritmes en technologieën te beheersen, maar ook op interpersoonlijk vlak; je bent je ervan bewust dat de waarde van jouw werk neerkomt op kwaliteit x acceptatie en je wilt sleutelen aan beide aspecten.
+* Uitzonderlijke probleemoplossende vaardigheden: je weet dat het juiste inzicht in een probleem minstens 90% van de oplossing uitmaakt, je geeft blijk van creativiteit en volharding bij het doorgronden van problemen en het zoeken van oplossingen.
+
+
+ Je scoort extra met:
+   
+
+  
+
+* Tweetaligheid (NL/FR).
+* Ervaring met het bouwen van dataproducten, van ontwerp tot productie.
+* Full\-stack skills.
+* Kennis van cloud, bij voorkeur Azure.
+
+
+****Belfius koestert zijn talenten****
+ Behalve de kans om elke dag te shinen, bieden wij jou een fulltime contract van onbepaalde duur met:
+   
+
+  
+
+* Een mooi loon aangevuld met een innovatief aanbod om een persoonlijk budget samen te stellen dat je kan besteden volgens je voorkeuren (bv. wagen, fiets, pc, smartphone, tablet, huisvesting onder bepaalde voorwaarden) en extralegale voordelen zoals maaltijdcheques, personeelsvoordeel op eigen producten en diensten, en een hospitalisatie\- en groepsverzekering.
+* Mogelijkheden te over om je te ontwikkelen door een brede waaier aan opleidingen en carrièrekansen in de hele Belfius\-groep.
+* Een goede werk\-privé balans dankzij flexibele uren, de combinatie kantoor\- en thuiswerk en een aantrekkelijk aantal vakantiedagen.
+* Een moderne werkplek in het hart van Brussel met een coole fitness, een lekker gezond restaurant en gezellige ontmoetingsruimtes, dit alles op wandelafstand van de winkelstraat, het treinstation Brussel\-Noord en de metrohalte Rogier.

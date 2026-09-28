@@ -1,0 +1,121 @@
+Title: Senior Data Scientist - European Agency
+Company: Altia
+Location: Brussels, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4469039536
+Posted: 2026-09-22
+Site: linkedin
+Search query: Materials Informatics
+----------------------------------------
+
+**🔹Role🔹**
+ We are looking for a Senior Data Scientist \& Cloud Engineer specialised in High\-Performance Computing, Cloud Architecture, scientific computing, and large\-scale geospatial and oceanographic data processing, combining advanced Python software engineering with extensive experience in migrating and optimising complex computational workflows.
+   
+
+  
+
+**🔹Who We Are🔹**
+ Altia is a high\-value digital transformation services company that has undertaken, changed, and reformulated international projects for nearly a thousand clients, leaders in their sectors, who have understood that their businesses can be revolutionized through digitalization. Over its 30 years of experience, it has proven to be a robust company with a future, a capacity for innovation, and adaptability.
+   
+
+  
+
+**🔹The project🔹**
+ You will contribute to an international scientific and technological project supporting European institutions and agencies, focused on large\-scale scientific computing, geospatial data processing, and the development and optimisation of HPC and Cloud workflows.
+   
+
+  
+
+ Scientific \& Geospatial Data Engineering: Develop and manage high\-quality global datasets, integrating heterogeneous geospatial and oceanographic data from sources such as OpenStreetMap, satellite products, and scientific observation networks.
+   
+
+  
+
+ HPC \& Scientific Computing: Design, develop, and optimise high\-performance computational workflows for large\-scale scientific applications and numerical modelling.
+   
+
+  
+
+ Mesh Generation \& Numerical Modelling: Develop workflows for the generation of global unstructured meshes and support the calibration and optimisation of large\-scale ocean modelling configurations.
+   
+
+  
+
+ Cloud \& HPC Migration: Design and execute the migration and transfer of complex HPC workflows between Cloud and European HPC infrastructures, ensuring portability, scalability, and reproducibility.
+   
+
+  
+
+ Data Processing \& Validation: Build robust processing and validation frameworks capable of handling very large scientific datasets and supporting the evaluation of numerical models.
+   
+
+  
+
+ Software Engineering \& Automation: Develop maintainable Python\-based solutions and CI/CD pipelines, using containerisation to ensure reproducible and reliable scientific computing environments.
+   
+
+  
+
+**🔹Stack🔹**
+ Programming \& Data Science: Python, scikit\-learn, scientific computing and large\-scale data processing.
+   
+
+  
+
+ HPC \& Scientific Computing: HPC, High\-Performance Computing, EuroHPC, numerical modelling and computational optimisation.
+   
+
+  
+
+ Cloud Architecture: Microsoft Azure, Cloud infrastructure and distributed computing.
+   
+
+  
+
+ Containers: Singularity, Apptainer, containerised scientific workflows and reproducible environments.
+   
+
+  
+
+ CI/CD \& Automation: CI/CD pipelines, workflow automation and software delivery practices.
+   
+
+  
+
+ Scientific \& Geospatial Technologies: SCHISM, GMSH, OpenStreetMap (OSM), oceanographic and geospatial datasets, satellite L3/L4 products and ARGO data.
+   
+
+  
+
+ Data Engineering \& Validation: Large\-scale scientific datasets, model calibration, validation frameworks and heterogeneous data integration.
+   
+
+  
+
+ 🔹
+ **What we offer🔹**
+ ⚡High\-impact project
+   
+
+  
+
+ 👫 Collaborative work environment
+   
+
+  
+
+ 🚀 Career Plan
+   
+
+  
+
+ 📘 Training Plan
+   
+
+  
+
+ 💸 Flexible Remuneration
+   
+
+  
+
+*The present job offer is drafted taking into account impartiality and non\-discrimination on the grounds of gender, race, ideology, or any other reason. Especially, it takes into account the respect for the current regulations regarding gender equality between women and men (Royal Decree\-Law 6/2019\).*

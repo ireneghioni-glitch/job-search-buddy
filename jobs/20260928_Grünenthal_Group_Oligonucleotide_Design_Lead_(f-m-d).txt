@@ -1,0 +1,55 @@
+Title: Oligonucleotide Design Lead (f/m/d)
+Company: Grünenthal Group
+Location: Brussels, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4453354356
+Posted: 2026-09-24
+Site: linkedin
+Search query: Cheminformatics
+----------------------------------------
+
+Professional \| Permanent \| Full\-time \| Hybrid
+   
+
+  
+
+ If you’re passionate about changing lives for the better, this is the opportunity you’ve been waiting for. In
+ **Research \& Development** 
+ , we’re continuously exploring innovative new treatment options to make a stronger, more positive impact on the lives of the patients we serve. You’ll work with talented colleagues in a state\-of\-the\-art Research \& Development environment, developing innovative medicines that change the life of patients for the better and help us make progress towards our vision of a world free of pain. Join us today, and discover the difference you can make.
+   
+
+  
+
+**What The Job Looks Like**
+ Every day you will enjoy different challenges such as:
+   
+
+  
+
+* Lead the design and computational optimisation of RNA therapeutics, particularly siRNA, integrating RNA biology with oligonucleotide chemistry to enable gene knockdown and RNA regulatory approaches, including up\-regulation strategies.
+* Define and prioritise target sites and design strategies by integrating sequence features, RNA accessibility, transcript structure, cross\-species alignment, and emerging experimental data
+* Drive iterative design–test–learn cycles by analysing and rapidly integrating datasets linking sequence, chemistry, and biological activity to inform decision\-making
+* Develop and apply computational tools and workflows (e.g. Python or R) to enable scalable oligonucleotide design, data integration, and rapid sequence–chemistry iteration
+* Partner closely with oligonucleotide chemists and delivery scientists to co\-optimise sequence, chemical modifications, and delivery approaches to maximise potency, durability, and tissue activity
+* Lead and contribute to discovery programs advancing RNA therapeutic candidates toward candidate profiling and clinical development, while helping prioritise and evaluate new targets aligned with platform capabilities.
+
+
+**What You'll Bring To The Table**
+ To make the most of this role and truly thrive, you should have:
+   
+
+  
+
+* PhD in RNA biology, molecular biology, computational biology, bioinformatics, or a related discipline
+* More than 10 years of relevant industry experience, including at least 5 years in therapeutic antisense or siRNA design and optimisation
+* Strong computational skills, including experience developing scripts or workflows (e.g. Python or R)
+* Experience designing siRNA across CNS and systemic delivery contexts, including optimisation of sequence and chemistry for robust in vivo activity
+* Proven track record contributing to or leading programs that progressed molecules to candidate stage, with demonstrated involvement in programs advancing toward clinical development
+* Strong understanding of oligonucleotide optimisation and risk assessment across discovery and development stages, from early design through to late\-stage candidate selection
+* Experience delivering siRNA therapeutics in liver and CNS indications is highly desirable, ideally including progression of molecules toward clinical development
+* Strong scientific problem\-solving mindset with a focus on delivering impact
+* Ability to operate effectively in a highly matrixed, cross\-functional environment with a high degree of independence, ownership, and accountability
+
+
+****\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_****
+**"Be part of a team redefining what’s possible in genetic medicine, creating transformative RNA therapies for severe pain, neurological disease, and adjacent areas where we can extend the reach of our platforms."**
+ Keith Geoffrey Phillips , the Hiring Manager

@@ -1,0 +1,54 @@
+Title: Pharmacometrics Project Lead, Director
+Company: RBW Consulting
+Location: Brussels, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4456914181
+Posted: 2026-09-21
+Site: linkedin
+Search query: PhD data-driven chemistry
+----------------------------------------
+
+I’m supporting a major biopharmaceutical company that is building out its Quantitative Clinical Pharmacology capability and looking for an experienced Pharmacometrics Lead. This is a strategic role for someone eager to push the boundaries of model‑informed drug development. This position is perfect for someone who thrives at the intersection of advanced pharmacometrics and clinical strategy. You will lead the vision and execution of MIDD approaches across the organisation’s development portfolio.
+ 
+
+
+
+  
+
+
+
+
+
+ Key Responsibilities
+ 
+
+
+
+ In this role, you will drive and deliver:
+ 
+
+
+* A robust Pharmacometrics strategy to guide dose optimisation, extrapolation, study design and regulatory planning.
+* Application and evaluation of emerging technologies relevant to quantitative clinical pharmacology.
+* Hands‑on delivery of population PK/PD analyses, exposure–response modelling, and clinical trial simulations.
+* High‑quality documentation including regulatory‑ready analysis plans and reports.
+* Management of external vendors and the opportunity to internalise and grow PMx capabilities.
+* Scientific and technical development of team members in modern PMx and AI‑driven modelling approaches.
+* Engagement with global regulatory agencies, including contribution to discussions across therapy areas.
+* Close collaboration with project leads to ensure seamless integration of modelling outputs.
+
+
+
+  
+
+
+
+
+
+ We are looking for candidates with:
+ 
+
+
+* PhD in pharmaceutical sciences, engineering, statistics or a related field.
+* 7\+ years of industry experience in pharmacometrics and application in drug development.
+* Strong background in population PK/PD, disease progression modelling, and simulation\-based decision support.
+* Technical skills in R, Python, Matlab, NONMEM or equivalent PMx software environments.

@@ -1,0 +1,160 @@
+Title: Data Scientist
+Company: BNP Paribas Fortis
+Location: Brussels, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4470691375
+Posted: 2026-09-23
+Site: linkedin
+Search query: Scientific Data Scientist
+----------------------------------------
+
+**YOUR JOB IN A NUTSHELL** 
+
+
+
+
+ The Tribe Artificial Intelligence aims to deliver an efficient and seamless banking experience for our customers and empower our employees through AI. Our expert team of approximately 100 experts includes Data Scientists, AI Engineers, Business Analysts, Scrum Masters, Product Owners and Managers. We are seeking a Data Scientist with a minimum of 3 years of experience in developing AI applications, including both generative and traditional AI.
+ 
+
+
+
+  
+
+
+
+
+
+**AND IN DETAIL** 
+
+
+
+* You develop AI applications to address various business challenges, including virtual assistants to enhance client experiences, advanced AI tools to support employee efficiency and creativity, and automating and optimizing internal processes.
+* You use various analytical methods, including large language models (prompt engineering, RAG, fine\-tuning, …), Speech AI, agentic AI, image generation and interpretation, and classical statistical/machine learning techniques. While we don't expect you to be an expert in all areas, you should possess very strong expertise in core technologies and the ability to learn new methods as required.
+* You ensure scientific rigor in delivered solutions by applying robust methodologies, evaluating model generalization performance, adopting data\-centric approaches through error analysis and data curation or augmentation, selecting relevant frameworks, and adhering to responsible AI guideline.
+* You present the results of your work directly to stakeholders and managers.
+* You contribute to deploying AI applications in production using a comprehensive stack of tools.
+* You access one of the richest volumes of varied data in the market and apply your skills to it.
+* You evolve in an environment where innovation and lean processes are praised, straight\-forward communication is encouraged, and peers understand the meaning of team up.
+* You work with a team of colleagues in an Agile organization who are ready to collaborate and to share their experience.
+
+
+
+  
+
+
+
+
+
+**YOUR TALENTS AND COMPETENCES** 
+
+
+
+* You hold at least a Master’s degree in a quantitative field like statistics, computer science or engineering, with a focus on natural language processing. A PhD is advantageous. Candidates from other academic backgrounds with strong analytics knowledge are also welcome.
+* You have a minimum of 3 years’ experience in data science, preferably in the financial sector, though less experience may be accepted if your academic achievements are substantial.
+* You are fluent in English and have a good command of French and/or Dutch.
+* You are proficient in Python for model building and understand ML engineering fundamentals (e.g., versioning systems) to produce code ready for CI/CD pipelines.
+
+
+
+  
+
+
+
+
+
+**WHAT WE HAVE TO OFFER** 
+
+
+
+
+**OUR IMPACT** 
+
+
+
+
+ We strongly believe in the positive impact that the financial sector can have on the world. BNP Paribas Fortis offers sustainable and responsible investment products and solutions and encourages social entrepreneurship. Together with our customers, we are working towards a better future every day.
+ 
+
+
+
+  
+
+
+
+
+
+**YOUR CAREER PERSPECTIVES** 
+
+
+
+
+ We offer a wide range of training courses, workshops and webinars to choose from depending on your availability, interests and goals.
+ 
+
+
+
+  
+
+
+
+
+
+**OUR OFFER** 
+
+
+
+
+ In addition to your remuneration and benefits (meal vouchers, insurance, holidays), we offer flexible salary options, allowing you to convert part of your salary into personalised benefits (phone use, IT equipment, transport, etc.).
+ 
+
+
+
+  
+
+
+
+
+
+**OUR ENGAGEMENT** 
+
+
+
+
+ At BNP Paribas Fortis, we want to attract and retain all talent, whatever their gender, age, background or sexual orientation, and irrespective of whether they are living with a disability, as every person has their own experiences and their own identity. All of our full\-time vacancies are also open to candidates wishing to work on an 80% or 90% full\-time equivalent basis.
+ 
+
+
+
+  
+
+
+
+
+
+ If the function is categorized as a banking services provider function (cf. Law of 22 April 2019 establishing an oath and a disciplinary regime for the banking sector), you will also need to provide us with a 'certificate of absence of professional ban' from the FSMA confirming that you are not professionally disqualified.
+ 
+
+
+
+  
+
+
+
+
+
+**TEMPTED BY THE CHALLENGE?** 
+
+
+
+
+ A first selection is made based on your CV and motivation letter. Are we convinced that you are the right candidate? Then we will contact you. Good luck!
+ 
+
+
+
+  
+
+
+
+
+
+ Is this position not for you, but do you know someone who is cut out for this job? Feel free to share it with friends and family!

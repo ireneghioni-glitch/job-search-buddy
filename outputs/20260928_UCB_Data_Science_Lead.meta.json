@@ -1,0 +1,22 @@
+{
+  "job_file": "20260928_UCB_Data_Science_Lead.txt",
+  "title": "Data Science Lead",
+  "company": "UCB",
+  "url": "https://www.linkedin.com/jobs/view/4371053909",
+  "location": "Anderlecht, Brussels Region, Belgium",
+  "score": 0,
+  "recommendation": "SKIP",
+  "reason": "Requires 8+ years of experience",
+  "analyzed_at": "20260929_005915",
+  "mode": "quick",
+  "strict": true,
+  "extra_files": [],
+  "prefilter": {
+    "applied": true,
+    "skip": true,
+    "cap": 20,
+    "reasons": [
+      "Requires 8+ years of experience"
+    ]
+  }
+}

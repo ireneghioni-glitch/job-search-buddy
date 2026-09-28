@@ -8,10 +8,18 @@ job-venv/
 .env
 *.env
 
+# Ignore test files
 .pytest_cache/
 .ipynb_checkpoints/
 .coverage
 htmlcov/
+test_job_posting.py
 
 # Ignore profile file with personal
 profile/01_profile.md
+
+# Ignore educational md files 
+systematic_method_for_software_development.md
+
+# Ignore depricated code
+_archive/

@@ -1,0 +1,130 @@
+Title: Sr. Pharmacometrician
+Company: Thermo Fisher Scientific
+Location: 
+URL: https://www.linkedin.com/jobs/view/4470138803
+Posted: 2026-09-25
+Site: linkedin
+Search query: Scientific Data Scientist
+----------------------------------------
+
+**Work Schedule**
+ Standard (Mon\-Fri)
+   
+
+  
+
+**Environmental Conditions**
+ Office
+   
+
+  
+
+ At Thermo Fisher Scientific, you'll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life \- enabling our customers to make the world healthier, cleaner and safer. We provide our teams with the resources needed to achieve individual career goals while taking science a step beyond through research, development and delivery of life\-changing therapies. With clinical trials conducted in 100\+ countries and ongoing development of novel frameworks for clinical research through our PPD clinical research portfolio, our work spans laboratory, digital and decentralized clinical trial services. Your determination to deliver quality and accuracy will improve health outcomes that people and communities depend on \- now and in the future.
+   
+
+  
+
+**Location/Division Specific Information**
+ Clinical Pharmacology provides the scientific and quantitative support needed to characterize pharmacokinetics, pharmacodynamics, exposure\-response relationships, and sources of variability in support of our clients' drug development programs. The Sr. Pharmacometrician is a hands\-on scientific role that provides pharmacometrics consultation and advanced modeling and simulation. In addition to leading assigned projects, the Sr. Pharmacometrician partners with Clinical Pharmacology, Statistics, Programming, and client teams to design, analyze, interpret, and communicate population PK, PK/PD, exposure\-response, and related model\-informed drug development analyses. The successful candidate will be able to translate complex quantitative results into clear conclusions and recommendations that are appropriate for client and regulatory audiences.
+   
+
+  
+
+**Purpose**
+ Lead and execute pharmacometric analyses across clinical development, from analysis planning and dataset specification through model development, simulation, interpretation, reporting, and scientific communication. Serves as Lead Pharmacometrician on complex projects and contributes technical leadership, senior review, mentoring, and process improvement within the Clinical Pharmacology organization.
+   
+
+  
+
+**Essential Functions And Other Job Information**
+ Major Job
+   
+
+  
+
+**Responsibilities**
+* Serves as Lead Pharmacometrician or Pharmacometric Project Lead on complex pharmacometrics projects and/or development programs.
+* Provides hands\-on development, evaluation, qualification, and application of population PK, PK/PD, exposure\-response, dose\-response, disease\-progression, and other appropriate pharmacometric models.
+* Develops modeling and simulation strategies that address key drug\-development questions, including dose selection, regimen optimization, covariate effects, trial design, and characterization of benefit\-risk\-relevant exposure relationships.
+* Performs pharmacometric analyses using NONMEM and R; applies additional modeling platforms as appropriate, such as Phoenix NLME, Monolix, Simcyp, or GastroPlus.
+* Develops and reviews analysis plans, model specifications, simulation plans, technical reports, tables, figures, and regulatory\-support documents.
+* Creates and/or reviews NONMEM dataset specifications derived from SDTM and ADaM datasets and works closely with programmers and data scientists to ensure fit\-for\-purpose analysis datasets.
+* Conducts model diagnostics, sensitivity analyses, visual predictive checks, bootstrap or other uncertainty assessments, and simulations appropriate to the scientific question and model.
+* Interprets complex quantitative results in the context of clinical pharmacology, study design, therapeutic area, and regulatory expectations; communicates conclusions clearly to technical and non\-technical stakeholders.
+* Manages assigned project activities, scope, timelines, dependencies, and scientific deliverables across multiple concurrent projects.
+* Serves as senior scientific reviewer for pharmacometrics analyses and deliverables, ensuring methodological rigor, reproducibility, traceability, and consistency with internal standards.
+* Participates in client meetings, proposal development, bid defenses, and scientific discussions; provides pharmacometrics input to study design and development strategy.
+* Mentors Pharmacometricians and other Clinical Pharmacology staff; supports targeted training and development of modeling and simulation capabilities across the team.
+* Contributes to department SOPs, work instructions, templates, best practices, and process\-improvement initiatives related to pharmacometrics and model\-informed drug development.
+* Maintains current knowledge of pharmacometrics science, PK/PD methodology, regulatory guidance, and evolving expectations for model\-informed drug development.
+
+
+**Role Scope and Level Expectations**
+**Job Knowledge**
+ Applies broad pharmacometrics, clinical pharmacology, and drug\-development knowledge to resolve complex scientific and technical problems. Uses professional judgment to select appropriate modeling strategies and to recognize when alternative methods or escalation are needed.
+   
+
+  
+
+**Job Complexity**
+ Works on complex analyses where interpretation requires in\-depth evaluation of data quality, study design, biological plausibility, model structure, variability, uncertainty, and competing analytical approaches. May integrate data across studies, populations, endpoints, or development stages.
+   
+
+  
+
+**Supervision Received / Freedom to Act**
+ Works with substantial scientific independence. Determines methods and procedures for assigned analyses, exercises judgment in selecting modeling techniques and evaluation criteria, and may coordinate the technical activities of other project team members.
+   
+
+  
+
+**Interactions / Business Relationships**
+ Has frequent contact with internal cross\-functional teams and sponsor representatives at multiple levels. Presents analyses, recommendations, risks, and limitations clearly and develops effective working relationships across disciplines and outside the immediate area of expertise.
+   
+
+  
+
+**Qualifications**
+**Education and Experience:**
+* Ph.D. or Pharm.D. in a relevant quantitative or biomedical discipline such as pharmacometrics, pharmacokinetics, pharmaceutical sciences, mathematics, statistics, bioengineering, or a related field, with substantial training in clinical pharmacokinetics and pharmacodynamics.
+* 5\+ years of relevant experience in the pharmaceutical, biotechnology, or CRO industry performing pharmacometric modeling and simulation. An equivalent combination of education, training, and directly related experience may be considered where consistent with company requirements.
+* Demonstrated experience in pharmacokinetic and pharmacokinetic/pharmacodynamic analysis and modeling, with a strong theoretical foundation and a record of successful project delivery. Scientific publications or conference presentations are preferred.
+
+
+**Knowledge, Skills, and Abilities:**
+* Required proficiency in NONMEM and R for pharmacometric modeling, simulation, diagnostics, and data analysis.
+* Strong theoretical and applied knowledge of population pharmacokinetics, PK/PD, exposure\-response, and model\-informed drug development.
+* Required hands\-on experience with dose\-response and/or exposure\-response modeling; experience translating model results into dose\-selection or development decisions is strongly preferred.
+* Ability to develop and evaluate nonlinear, mechanistic, semi\-mechanistic, and empirical models appropriate to the scientific question.
+* Experience with specialized applications such as concentration\-QTc modeling, biologics, oncology, cell and gene therapies, or CAR\-T programs is advantageous but should be aligned to business needs.
+* Experience creating and reviewing NONMEM dataset specifications using SDTM and ADaM data structures.
+* Working knowledge of pharmacometric model evaluation methods, simulation methodology, uncertainty assessment, and reproducible reporting practices.
+* Familiarity with one or more additional quantitative platforms such as Phoenix NLME, Monolix, Simcyp, GastroPlus, SAS, or similar tools is advantageous.
+* Strong understanding of clinical pharmacology, pharmacokinetic/pharmacodynamic theory, statistical principles relevant to pharmacometrics, and the drug\-development process.
+* Knowledge of relevant regulatory guidance and expectations for population PK, exposure\-response, dose justification, and model\-informed drug development.
+* Excellent written and verbal communication skills, including the ability to explain complex quantitative findings to clients, cross\-functional teams, and non\-specialist audiences.
+* Demonstrated ability to lead and manage multiple projects, prioritize competing demands, identify risks early, and deliver high\-quality work within required timelines.
+* Strong problem\-solving, critical\-thinking, organizational, and quality\-review skills.
+* Self\-directed and proactive, with the ability to initiate work, keep stakeholders informed, and coordinate the efforts of others when needed.
+* Demonstrated ability and interest in mentoring, coaching, and training less\-experienced scientists.
+
+
+**Management Role**
+ No formal people\-management responsibility is required. The role is expected to provide technical leadership, project coordination, scientific review, mentoring, and coaching to other team members as appropriate.
+   
+
+  
+
+**Working Conditions and Environment**
+* Work is performed primarily in an office or remote\-office environment with routine use of computer and electrical office equipment.
+* Occasional travel may be required for client meetings, internal meetings, conferences, or site visits, including domestic and international travel.
+* Long or varied hours may occasionally be required to meet project or client timelines.
+
+
+**Physical Requirements**
+* Ability to work in a stationary position for extended periods and to use computer equipment and standard office software throughout the workday.
+* Repetitive hand and finger movements associated with keyboard and mouse use.
+* Ability to communicate information and ideas clearly and to understand information presented verbally and in writing.
+* Frequent interaction with colleagues, clients, and cross\-functional stakeholders to obtain, interpret, and communicate scientific information.
+* Ability to perform multiple variable tasks, manage changing priorities, and work effectively under time\-sensitive project conditions.
+* Regular and consistent attendance in accordance with applicable company policies.

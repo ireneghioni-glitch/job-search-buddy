@@ -1,0 +1,22 @@
+{
+  "job_file": "20260928_Kingsley_Ingénieur_Manufacturing_Sciences_&_Technology.txt",
+  "title": "Ingénieur Manufacturing Sciences & Technology",
+  "company": "Kingsley",
+  "url": "https://www.linkedin.com/jobs/view/4470310568",
+  "location": "",
+  "score": 30,
+  "recommendation": "WEAK FIT",
+  "reason": "Candidate lacks cGMP expertise, biotech/pharma experience, and required tool proficiency (JMP), despite some ML skills. | CAPPED: Requires French (not in candidate profile)",
+  "analyzed_at": "20260929_003158",
+  "mode": "quick",
+  "strict": true,
+  "extra_files": [],
+  "prefilter": {
+    "applied": true,
+    "skip": false,
+    "cap": 30,
+    "reasons": [
+      "Requires French (not in candidate profile)"
+    ]
+  }
+}

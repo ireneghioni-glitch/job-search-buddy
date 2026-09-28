@@ -1,0 +1,92 @@
+Title: Principal Machine Learning Engineer, Computer Vision
+Company: Sphere Defense
+Location: Brussels, Brussels Region, Belgium
+URL: https://www.linkedin.com/jobs/view/4454361026
+Posted: 2026-09-25
+Site: linkedin
+Search query: Digital R&D Scientist
+----------------------------------------
+
+**Who We Are**
+ Sphere Defense is a fully funded technology startup with the mission of providing allied countries with sovereign, effective and seamless autonomous countermeasures to neutralize todays’ and tomorrow’s aerial threats.
+   
+
+  
+
+ Sphere Defense was founded by industry veterans with previous successful exits, and is headquartered in Brussels, Belgium, in the heart of Europe.
+   
+
+  
+
+**About You**
+ You are an experienced and highly\-motivated
+ **Principal Machine Learning Engineer** 
+ that has architected, designed and implemented multi\-modal perception pipelines based on computer vision on mission\-critical autonomous systems, ideally flying robots or homing missiles.
+   
+
+  
+
+**What You’ll Do**
+* Be one of the first members of a high\-performing team, designing and developing autonomous countermeasures to protect allied countries from aerial threats
+* Own, architect, design, develop, document and test state of the art perception pipelines based on vision and other data for situational awareness, detection, identification and tracking of targets
+* Integrate, evaluate and fuse data coming from EO/IR, IMUs, radars and other sources for target chasing
+* Be hands\-on, working close to the hardware when needed during development and tests
+* Draft and review documentation and design documents
+* Be a team player and a mentor, being available to support and grow the team when needed
+
+
+**Location:** 
+ Onsite in Brussels, Belgium. Our office is close to Central Station.
+   
+
+  
+
+**Reports to** 
+ : Chief Technology Officer
+   
+
+  
+
+**Requirements**
+* Master’s degree (PhD preferred) in Computer Vision, Automation, Robotics, or equivalent
+* At least 12 years of experience in relevant, industry or academy positions
+* Exceptional knowledge of Machine Learning and Computer Vision
+* Proficiency with one production language (C\+\+ or Rust) and one prototyping language (Python)
+* Demonstrated ability to produce production\-grade, highly optimized target code on resource constrained platforms
+* Demonstrated ownership of complex, production\-grade perception pipelines based on vision (IR and RGB) in commercial systems
+* Experience with implementing and training machine learning models, including data quality topics
+* Strong understanding of control systems and state estimation
+* Experience with multi\-modal sensor fusion (IMUs, radars, lasers, etc.)
+* Excellent interpersonal communication skills in written and spoken English; French or Dutch is a plus
+* You are a self\-starter, able to work in a high\-ambiguity environment and willing to take up new challenges
+
+
+**Preferred Qualifications**
+* Experience with VIO/SLAM
+* Familiarity with ROS2 or iceoryx2
+* Experience with drones (fixed\-wing, VTOL) or homing missiles
+* Experience with IR/thermal imaging and their calibration
+* Previous experience in the defense industry
+
+
+**What we offer**
+* Attractive compensation
+* Year\-end bonus
+* Stock Options Plan
+* Mobility Budget
+* 32 days of holidays
+* Meal vouchers
+* Private Health insurance
+
+
+ We are building a core team of hard\-working people. If you want to join a company with tremendous impact and you are autonomous, creative and driven, we want to hear from you!
+   
+
+  
+
+ Sphere Defense offers attractive compensation, stock options, and a unique opportunity to change the global defense landscape.
+   
+
+  
+
+ This role is only open to candidates with right to work in Belgium. We cannot provide visa sponsorship at this time.
