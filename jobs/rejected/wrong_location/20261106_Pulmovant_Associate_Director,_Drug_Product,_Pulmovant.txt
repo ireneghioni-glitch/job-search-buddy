@@ -1,0 +1,58 @@
+Title: Associate Director, Drug Product, Pulmovant
+Company: Pulmovant
+Location: nan
+URL: 
+Posted: 2026-10-15
+Site: glassdoor
+Search query: Scientific Data Scientist Chemistry
+----------------------------------------
+
+Pulmovant is a Roivant-backed clinical-stage biotechnology company committed to transforming the lives of patients with pulmonary diseases. Pulmovant’s first investigational candidate, mosliciguat, is designed to provide a novel, once-daily, inhaled treatment option for patients with pulmonary hypertension associated with interstitial lung disease (PH-ILD). Mosliciguat is a potential first-in-class soluble guanylate cyclase activator with a differentiated mechanism of action currently being evaluated in the Phase 3 PHrontier global clinical trial in PH-ILD, but with potential broad applicability across the PH and ILD disease landscape.
+
+Pulmovant recently announced positive results from its Phase 2 PHocus study evaluating mosliciguat for the treatment of pulmonary hypertension associated with interstitial lung disease (PH-ILD), a progressive and life-threatening condition with significant unmet medical needs for patients. PHocus met both primary and secondary endpoints including the highest ever reported pulmonary vascular resistance (PVR) reduction in any randomized controlled PH trial. The robust results, in conjunction with mosliciguat’s once-daily, inhaled administration and potential first-in-class sGC activator profile, strongly position it as a potential single agent treatment and combination therapy for patients with PH-ILD. These data represent a significant advancement in a devastating disease that affects ~200,000 patients with no or very limited treatment options. A Phase 3 trial is currently underway. More details can be found in the press release here.
+
+As part of the Roivant family of companies, Pulmovant leverages the power of collaboration and innovation to drive progress.
+
+  
+
+**About Roivant:**
+
+Roivant (Nasdaq: ROIV) is a commercial-stage biopharmaceutical company that aims to improve the lives of patients by accelerating the development and commercialization of medicines that matter. Roivant’s pipeline includes LISRAYA™ (brepocitinib), a potent small molecule inhibitor of JAK1 and TYK2 FDA-approved for the treatment of dermatomyositis in adult patients and also in late-stage development for the treatment of non-infectious uveitis, cutaneous sarcoidosis and lichen planopilaris; IMVT-1402, a fully human monoclonal antibody targeting FcRn in development across several IgG-mediated autoimmune indications; and mosliciguat, an inhaled sGC activator in development for pulmonary hypertension associated with interstitial lung disease. We advance our pipeline by creating nimble subsidiaries or “Vants” to develop and commercialize our medicines and technologies. For more information, visit www.roivant.com.
+
+**Position:** Associate Director, Drug Product
+
+**Summary:**
+
+The Associate Director, Drug Product will serve as a technical leader for Pulmovant's inhaled dry powder product portfolio, with accountability for product performance, manufacturability, and the transition toward registration and commercial manufacturing. The role will partner closely with Drug Substance, Analytical Development, Clinical Supply, Quality, Regulatory Affairs and external CDMOs to deliver drug product and resolve technical risks across the development program.
+
+**Key****Duties and Responsibilities**
+
+* Serve as a drug product technical leader for formulation and process development, scale-up, process characterization, technology transfer, and validation through external CDMOs
+* Apply Quality by Design (QbD) principles to define Critical Quality Attributes (CQAs) and Critical Process Parameters (CPPs) and develop a robust control strategy
+* Compile, analyze, and trend drug product performance data and stability results using statistical tools such as JMP; summarize findings and recommend process or specification actions
+* Manage CDMO technical deliverables and review key technical documentation (master batch records, protocols, and technical reports) for accuracy, completeness, and GMP compliance
+* Support commercial launch activities for drug product manufacturing, including process performance qualification (PPQ) planning and execution and pre-approval inspection (PAI) readiness
+* Provide scientific oversight of drug product and inhaler compatibility, container closure systems, and aerosol performance
+* Represent CMC on cross-functional project teams, maintaining timelines and action items to ensure uninterrupted supply of clinical trial material
+* Lead drug product contributions to CMC submissions, including authoring Module 3 content and responding to agency inquiries
+* Provide technical guidance to cross-functional team members and external partners
+
+**Education and Experience**
+
+* BS, MS, or PhD in pharmaceutical sciences, pharmaceutics, chemical engineering, chemistry, or a related field
+* 10+ years of drug product development experience, including substantial work with inhalation products and late-stage development
+* Demonstrated ownership of external CDMO activities and technical deliverables for a drug product advancing toward registration
+
+**Essential****Skills and****Abilities**
+
+* Hands-on knowledge of inhalation formulation and process scale-up, drug and device compatibility, and aerodynamic performance testing
+* Working knowledge of cGMP, ICH guidelines, process validation, stability requirements, and regulatory expectations for combination products
+* Experience with Module 3 CMC documentation and NDA or MAA preparation for an inhaled product preferred
+* Ability to analyze data, assess technical risks, and drive decisions across internal functions and external partners
+* Comfort taking direct accountability in a lean development organization
+
+  
+
+Pulmovant provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+We will not accept unsolicited resumes nor outreach from agencies. Please do not send agency resumes to our website or Roivant Sciences and affiliated employees. Thanks!

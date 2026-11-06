@@ -1,0 +1,61 @@
+Title: Productivity AI Lead
+Company: Unilin
+Location: Wielsbeke, Belgium
+URL: https://www.glassdoor.com/job-listing/j?jl=1010311687831
+Posted: 2026-10-31
+Site: glassdoor
+Search query: AI for Materials
+----------------------------------------
+
+For our new AI team, we are recruiting a Productivity AI Lead. In this new and challenging role you will own the Claude Cowork and M365 Copilot programs end to end as the user base grows from 250 to 2,500+.
+  
+As a true leader, you will guide stakeholders on effective use of productivity AI and drive the adoption across the whole organization while managing usage and cost.
+
+Your main responsibilities are:
+
+* You set the productivity AI roadmap for both assistant platforms
+* You guide internal and external stakeholders on effective, safe use of productivity AI
+* You identify and shape use cases across legal, procurement, compliance, HR, finance and operations
+* You drive adoption through a champions network, communications, success stories and targeted enablement
+* You manage usage and cost with FinOps: seat utilization, plan and model mix, license reclamation
+* You own usage analytics, adoption reporting and governance reviews
+* You coordinate MCP connector, skill and coordinate with Security
+* You manage vendor roadmaps
+
+**Who are you?**
+----------------
+
+* You obtained a Bachelor's degree and have relevant experience (+5years) in IT or productivity platforms
+* You have guided teams as a teamlead or as program leader. Guiding and leading people comes natural to you
+* You have experience with deploying GenAI assistants or M365 workloads at enterprise scale
+* You managed adoption programs across several business functions
+* Microsoft 365 or Anthropic administration experience is preferred
+* You have strong GenAI fundamentals: context management, prompt engineering, model capabilities and limits
+* Claude, Claude Cowork and M365 Copilot administration
+* You have experience in cost and license mechanics of AI tools and usageoptimization
+* You have Identity and provisioning basics with Entra ID and SCIM
+* You are fluent in reporting in Power BI and Excel
+* A plus is MCP or connector development experience and Python or PowerShell scripting
+
+#LI-LC1
+
+### **What can you expect?**
+
+* A competitive remuneration package.
+* An extensive leave system and a flexible work schedule with the option of home working.
+* Luncheon vouchers, hospitalisation and group insurance.
+* Possibility of bike leasing.
+* We invest in your development and we believe in lifelong learning. In our state-of-the-art training centre The Dive you are bound to find training courses that will help you grow.
+* Countless possibilities to build your career.
+* An employer with a transparent sustainability strategy (for our planet, customers and employees).
+* Our unique Unilin DNA.
+* In different locations we have a company restaurant with a varied menu.
+* Benefit from attractive discounts on our products.
+* Child care is an option during a number of school holidays.
+* Make the most of discounts at a number of partners through our Benefits at Work platform.
+* You will often find us at sporting events. You and your family can participate for free.
+* In short, you’ll be working for a Top Employer!
+
+### **Who are we?**
+
+Unilin is a global reference in interior design and construction with a strong focus on sustainability and innovation. Our floors, panels, insulation materials, and technologies can be found in the homes and workplaces of millions of people and public spaces around the world. Our brands Quick-Step, Pergo, and Moduleo probably ring a bell. Worldwide, around 7,900 employees work every day to push boundaries and innovate. Want to know more about our story? Be sure to check out our website.

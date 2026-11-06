@@ -1,0 +1,138 @@
+Title: Postdoctoral Scholar-Fixed Term
+Company: Michigan State University
+Location: East Lansing, MI, USA
+URL: 
+Posted: 2026-10-27
+Site: indeed
+Search query: Computational Chemistry
+----------------------------------------
+
+* East Lansing, Michigan, United States
+
+* Physics-Astronomy 10032666
+
+* Area of Interest: Research/Scientific
+* Full Time/Part Time: Full Time (90-100%)
+* Group: Fixed Term Academic Staff
+* Union/Non-Union: Non-Union
+
+* Faculty/Academic Staff
+
+* Opening on: Oct 20 2026
+* Closing at: Oct 27 2028 - 23:55 EDT
+
+* Salary Commensurate with Experience
+
+* College Of Natural Science
+* 1176494
+
+### **Position Summary**
+
+Michigan State University (MSU) invites applications for **up to five Postdoctoral Research Scholar positions** associated with the *Ultrafast Electron Microscopy Platform for Mesoscale Science and Technology (UEM-MST)*, a major research infrastructure initiative under the US National Science Foundation (NSF) Mid-scale Research Infrastructure program.
+
+The UEM-MST initiative aims to establish a next-generation ultrafast electron microscopy platform that combines femtosecond temporal resolution, nanoscale spatial resolution, high-throughput measurement, and advanced data acquisition to investigate dynamic processes in materials and devices across timescales spanning femtoseconds to seconds.
+
+The project brings together researchers from physics, materials science, chemistry, electrical and computer engineering, accelerator science, and scientific computing, building on MSU's established strengths in ultrafast electron microscopy, laser science, and the Facility for Rare Isotope Beams (FRIB).
+
+Successful candidates will have an opportunity to contribute to the development of a transformative scientific instrument and help shape the research capabilities envisioned for a future national user facility.
+
+**Research Opportunities**
+
+We seek outstanding, highly motivated researchers across several interconnected areas:
+
+* **Ultrafast Electron Microscopy and Materials Dynamics**
+
+* Ultrafast electron diffraction, imaging, and spectroscopy
+* Nonequilibrium structural dynamics, quantum materials, and phase transitions
+* Multimodal pump–probe experiments and instrument benchmarking
+
+* **Ultrafast Lasers, Photonics, and Optical Instrumentation**
+
+* Femtosecond laser systems, pulse shaping, and coherent optical control
+* Ultrafast optical excitation and spectroscopy
+* Laser–electron synchronization and precision timing
+
+* **RF Systems, Electron Optics, and Accelerator Technologies**
+
+* RF electron-beam manipulation, compression, and synchronization
+* High-brightness electron sources and electron-optical system development
+* Precision RF control, accelerator instrumentation, and beam diagnostics
+
+* **High-Speed Electronics, FPGA Systems, and Scientific Computing**
+
+* High-speed and multichannel data acquisition
+* FPGA/RFSoC-based controls and precision synchronization
+* Real-time computing, edge AI, and intelligent instrumentation
+
+* **Computational Imaging, Data Science, and Autonomous Experimentation**
+
+* Computational microscopy and inverse methods
+* Machine learning for ultrafast imaging and spectroscopy
+* Multiscale modeling, digital twins, and AI-assisted experimental control
+
+These areas are intentionally interconnected. Candidates with expertise in one discipline and an interest in collaborating across others are especially encouraged to apply. We welcome researchers who combine experimental, computational, and engineering approaches.
+
+**Why Join UEM-MST at MSU?**
+
+This opportunity offers more than a conventional postdoctoral appointment. Selected scholars will be positioned to:
+
+* **Help develop a new generation of scientific instruments**, contributing to technology that could ultimately serve a national research community.
+* **Work across disciplinary boundaries**, collaborating with experts in ultrafast science, microscopy, accelerator technology, photonics, electronics, and computational methods.
+* **Build on an established research foundation**, including MSU's existing ultrafast electron microscopy capabilities and FRIB's expertise in accelerator and RF technologies.
+* **Take intellectual ownership of major research and technology-development challenges**, with opportunities for high-impact publications, intellectual property development, and scientific leadership.
+* **Develop career-relevant expertise** applicable to national laboratories, academia, semiconductor instrumentation, advanced microscopy, and high-technology industries.
+* **Contribute to the longer-term vision** of an advanced ultrafast electron microscopy user facility, subject to future funding and implementation decisions.
+
+### **Equal Employment Opportunity Statement**
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, citizenship, age, disability or protected veteran status.
+
+### **Required Degree**
+
+Doctorate -physics, applied physics, materials science, chemistry, electrical engineering, computer engineering, accelerator science, or a closely related field
+
+### **Minimum Requirements**
+
+* A Ph.D. in physics, applied physics, materials science, chemistry, electrical engineering, computer engineering, accelerator science, or a closely related field, completed by the appointment start date.
+* Demonstrated research accomplishments in at least one of the areas described above.
+* Strong analytical, experimental, computational, or engineering problem-solving skills.
+* Ability to work independently and collaboratively in a multidisciplinary research environment.
+* Strong scientific communication skills.
+
+Applicants are **not expected to have expertise in all research areas**. Exceptional candidates with deep expertise in one relevant field and enthusiasm for interdisciplinary work are strongly encouraged to apply.
+
+### **Desired Qualifications**
+
+* Experience with advanced scientific instrumentation, ultrafast experiments, electron microscopy, laser systems, RF technology, FPGA systems, or computational methods.
+* Evidence of research creativity, technical initiative, and the ability to lead challenging research tasks.
+* Interest in developing integrated scientific capabilities beyond a single specialized discipline.
+
+### **Required Application Materials**
+
+* A cover letter describing research interests, relevant expertise, and preferred research area(s).
+
+* A curriculum vitae, including publications and relevant technical accomplishments.
+
+* A brief research statement (1–2 pages) outlining past contributions and potential interests related to UEM-MST.
+
+* Contact information for three professional references.
+
+### **Special Instructions**
+
+Full-time postdoctoral research position, with initial appointment length and possible renewals subject to project needs, satisfactory performance, university policies, and funding availability.
+
+Review of applications will begin on December 2, 2026 and continue until all available positions are filled.
+
+Please reach out to Prof. Chong-Yu Ruan with any questions regarding postion (ruanc@msu.edu).
+
+### **Review of Applications Begins On**
+
+12/02/2026
+
+### **Website**
+
+https://pa.msu.edu
+
+### **MSU Statement**
+
+Michigan State University has been advancing the common good with uncommon will for more than 160 years. One of the top research universities in the world, MSU pushes the boundaries of discovery and forges enduring partnerships to solve the most pressing global challenges while providing life-changing opportunities to a diverse and inclusive academic community through more than 200 programs of study in 17 degree-granting colleges.

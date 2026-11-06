@@ -1,0 +1,56 @@
+Title: Research Scientist Organic Analysis / NTA expert
+Company: VITO
+Location: Mol, Belgium
+URL: https://www.glassdoor.com/job-listing/j?jl=1010307766838
+Posted: 2026-10-28
+Site: glassdoor
+Search query: Materials Scientist
+----------------------------------------
+
+*Chromatography and mass spectrometry with a focus on NTA and data*
+
+Would you like to solve complex chemical questions using chromatography and mass spectrometry, and get more value from the data you generate? At VITO, we are looking for a researcher with demonstrated experience in organic analysis and non-target analysis (NTA), preferably using both liquid chromatography (LC) and gas chromatography (GC). If you combine experimental expertise with a strong interest in data management, data processing, and artificial intelligence (AI), this opportunity is made for you.
+
+#### **Your team and our research ambition**
+
+VITO supports companies, governments and society in the transition towards sustainability. Within the Materials & Chemistry (MatCh) unit, you contribute to research on circular feedstocks, sustainable chemistry, materials and more efficient industrial processes.
+
+As the Flemish Reference Laboratory for the Environment, VITO translates analytical innovation into reliable measurement methods for water, soil and air. You contribute to the development of methods that can be applied in research, environmental monitoring and regulatory contexts.
+
+You will join the chromatography team within GOAL, our specialised laboratory for organic and inorganic analysis. With more than 150 projects each year, we address diverse questions for industry and government, conduct strategic basic research and undertake reference laboratory activities. Our clients often bring a problem for which you develop the analytical approach together with the team. Tailored solutions, method developments and scientific interpretation are central to our work.
+
+Today our team is expanding its NTA portfolio by integrating AI into its workflow to better characterize known and unknown substances. As such, you will support the development of robust NTA measurement methods and turn analytical data into reusable knowledge for innovation, chemical safety and policy.
+
+#### **Organic analysis and method developments**
+
+* You develop, optimise and validate methods for small organic molecules, including but not limited to active pharmaceutical ingredients (APIs), xenobiotics, PFAS, and micropollutants. You select appropriate sample preparation protocols, separation and detection methods according to the matrix and research question.
+* You work with LC and GC coupled to mass spectrometry, including tandem mass spectrometry and high-resolution mass spectrometry (HRMS). You combine targeted analysis, suspect screening and NTA where they add scientific value.
+* You take responsibility for the entire analytical workflow, from experimental design and measurement protocols to quality assurance, interpretation and reporting. You work in the laboratory, support troubleshooting and guide analysts during implementation.
+* You build reproducible NTA workflows for different matrices. You pay particular attention to blanks, reference materials, quality controls, structural elucidation and annotation confidence. You apply quantification approach of relevant findings using targeted methods when needed.
+
+#### **Projects collaboration and societal impact**
+
+* You develop project proposals, plan and coordinate research projects. You monitor scope, budget, quality and deadlines, and align priorities with researchers and analysts.
+* You translate questions from clients and partners into feasible analytical solutions. You support applications such as early warning of emerging contaminants, evaluation of treatment and remediation, and characterisation of circular feedstocks, processes and materials.
+* You collaborate with our other research teams and connect organic analysis with complementary expertise, such as inorganic analysis and the characterisation of nanoplastics and microplastics. You share knowledge and help make methods and digital workflows more widely applicable.
+* You contribute to publications, knowledge transfer, client relationships and reference measurement methods. Within our ISO 17025 accredited environment, you support quality improvement and the responsible application of NTA in monitoring and policy.
+
+#### **Your profile**
+
+* You hold a PhD in analytical chemistry, environmental sciences or a related field, with a clear focus on organic analysis, chromatography and mass spectrometry.
+* You have demonstrated practical experience in developing, validating and applying organic analytical techniques. You have thorough knowledge of LC-MS/MS and extensive experience with HRMS.
+* You have experience in NTA and suspect screening and a strong interest in developing these approaches further. You can interpret complex chromatographic and mass spectrometric data and critically assess identifications.
+* You preferably have experience with both LC-MS (GC is an advantage). You understand their complementarity and can select the most suitable approach for different substance classes and matrices.
+* You have experience in managing, structuring, processing and analysing analytical datasets. You are familiar with metadata, reproducible processing and traceability, and want to contribute actively to lasting data reuse.
+* You enjoy experimental work and take ownership of technical challenges. You combine scientific depth with a pragmatic approach and make realistic choices within the available time and resources.
+* You organise multiple projects in parallel, set priorities and communicate progress and obstacles promptly. You remain focused on solutions when circumstances or project questions change.
+* You are a team player who connects researchers, analysts and digital experts. You guide colleagues, share expertise and explain complex subjects clearly to clients and partners.
+* You communicate and write fluently in English. Flemish is an advantage for collaboration and reporting with the Flemish government. Learning our local language over time is highly appreciated.
+
+#### **What we offer**
+
+* A research role in which you help shape organic analysis, NTA and digital innovation, with room to develop methods and implement them in real projects.
+* Access to advanced analytical infrastructure and collaboration with experienced researchers, specialised analysts and supporting colleagues in ICT and data science.
+* A varied project environment with direct impact on industrial innovation, a healthy living environment and sustainable development, locally and internationally.
+* Opportunities to develop your expertise through training, knowledge exchange and participation in scientific and professional networks.
+* A competitive salary with allowances, insurance and a flexible package of leave days, within an organisation with an international reputation in technological research and scientific consultancy.

@@ -1,0 +1,64 @@
+Title: Senior AI Engineer (REMOTE)
+Company: EnableComp
+Location: nan
+URL: https://www.glassdoor.com/job-listing/j?jl=1010315496337
+Posted: 2026-11-03
+Site: glassdoor
+Search query: AI for Materials
+----------------------------------------
+
+**Position Summary:**  
+  
+The Senior AI Engineer is a hands-on individual contributor who builds, trains, and evaluates machine learning models. The role combines knowledge engineering and data analysis with applied reinforcement learning, and owns work end to end, from data and experiment design through training, evaluation, and reporting.
+
+The ideal candidate brings practical reinforcement learning experience, strong engineering discipline, and the ability to collaborate closely with domain experts and communicate results to technical and non-technical audiences.
+
+### **Key Responsibilities**
+
+* Work with domain experts to capture specialized knowledge and represent it in structured, usable form.
+* Analyze source material and datasets for quality, consistency, and coverage, and resolve issues with the appropriate stakeholders.
+* Perform exploratory and statistical analysis to inform data, modeling, and evaluation decisions.
+* Create and curate training and evaluation datasets, using both automated and human validation.
+* Design reinforcement learning environments, reward functions, and verifiers.
+* Train and fine-tune language models using supervised and reinforcement learning methods such as PPO, DPO, and GRPO.
+* Establish baselines, run ablations, and diagnose training issues such as reward hacking, instability, and data leakage.
+* Follow the research literature and bring promising techniques into practice.
+* Manage experiments rigorously, including versioned configurations, reproducible runs, experiment tracking, and compute budgeting.
+* Design and extend evaluation frameworks, metrics, and benchmarks.
+* Compare models and approaches through structured experiments and A/B testing.
+* Document results, failures, and next steps in clear technical write-ups.
+* Present findings to engineers, domain experts, and business leaders in language each audience can act on.
+
+### **Requirements & Qualifications**
+
+* Bachelor’s degree in computer science, machine learning, statistics, or a related field; MS or PhD preferred. Equivalent hands-on experience will be considered.
+* 3+ years of hands-on experience training or fine-tuning language models.
+* Demonstrated reinforcement learning experience, including designing an environment and reward function end to end and training a policy in it.
+* Working knowledge of policy optimization methods for language models, such as PPO, DPO, or GRPO, including their failure modes.
+* Strong Python and PyTorch skills, with fluency in the Hugging Face ecosystem and parameter-efficient fine-tuning techniques.
+* Experience building and evaluating LLM-based agents or multi-turn systems.
+* Experience designing evaluations for language models, including held-out sets and automated grading.
+* Ability to analyze complex, detailed documentation and translate it into precise, structured, testable form.
+* Clear technical writing, with the ability to explain an experiment and its results concisely.
+* Comfort working directly with domain experts who are not machine learning practitioners.
+* Experience working with healthcare data or in another highly regulated industry is highly preferred.
+* Experience training models to produce structured or schema-constrained output is highly preferred.
+* Experience with a broad range of reinforcement learning algorithms and advanced reward design is highly preferred.
+* Experience with knowledge representation approaches such as knowledge graphs or ontologies is highly preferred.
+* Experience generating and validating synthetic data for model training is highly preferred.
+* Publications or open-source contributions in reinforcement learning, language model fine-tuning, or model evaluation is highly preferred.
+* Experience handling sensitive data, including protected health information (PHI) under HIPAA is highly preferred.
+* Timely and regular attendance.
+* Equivalent combination of education and experience will be considered
+* To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. Reasonable accommodation may be made to enable qualified individuals with disabilities to perform the essential functions.
+
+### **Special Considerations and Prerequisites**
+
+* Practices and adheres to EnableComp’s Core Values, Vision and Mission.
+* This is a 100% hands-on individual contributor role. The AI Engineer owns experiments from design through code, training, and results.
+* Expect roughly half of the role to focus on reinforcement learning and model training, with the remainder split between knowledge engineering, data analysis, and evaluation.
+* Success requires sustained, close collaboration with domain experts and a genuine working understanding of the subject matter.
+* The underlying knowledge evolves over time. The AI Engineer must design data, training, and evaluation approaches that adapt to change without starting over.
+* All work must comply with HIPAA and EnableComp data policies, using de-identified or synthetic data wherever possible.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

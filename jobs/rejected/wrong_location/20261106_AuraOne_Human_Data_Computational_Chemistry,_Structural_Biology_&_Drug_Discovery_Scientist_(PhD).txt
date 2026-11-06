@@ -1,0 +1,73 @@
+Title: Computational Chemistry, Structural Biology & Drug Discovery Scientist (PhD)
+Company: AuraOne Human Data
+Location: Remote, USA
+URL: 
+Posted: 2026-10-16
+Site: indeed
+Search query: Computational Chemistry
+----------------------------------------
+
+Computational Chemistry, Structural Biology & Drug Discovery Scientist (PhD) is a remote clinical-review track for evaluating AI outputs that touch clinical review. Reviewers grade differential reasoning, dosing logic, and guideline adherence; flag patient-safety issues; and document the corrected clinical reasoning so the modeling team can close the gap.
+
+**Why this role matters**
+-------------------------
+
+Clinical review AI is only useful if a credentialed clinician would sign their name to the output. AuraOne uses licensed and credentialed reviewers to set the bar for clinical reasoning, dosing, and guideline adherence in regulated workflows.
+
+**Responsibilities**
+--------------------
+
+* Review AI outputs against current clinical review clinical guidelines and standard of care for Computational Chemistry, Structural Biology & Drug Discovery Scientist (PhD) assignments.
+* Grade differential reasoning, dosing, and red-flag handling on a structured rubric.
+* Flag patient-safety issues with severity tags that match clinical-incident taxonomies.
+* Capture the corrected clinical reasoning so the modeling team can train on it.
+* Adjudicate disputed cases against published evidence or specialty guidelines.
+* Maintain reviewer-quality scores in weekly inter-rater calibration cycles.
+
+**Qualifications**
+------------------
+
+* Active or recent license / board certification in clinical review or an adjacent specialty for Computational Chemistry, Structural Biology & Drug Discovery Scientist (PhD) work.
+* Hands-on clinical experience reading patient cases and writing structured assessments.
+* Comfort applying multi-page rubrics consistently across long batches.
+* Clear written reasoning that cites guidelines, evidence, or standard of care.
+* Reliable async availability for at least 10 hours per week.
+
+**Example tasks**
+-----------------
+
+* Grade a model's differential-diagnosis reasoning on a clinical review case and write a 2-3 sentence assessment.
+* Flag a dosing miscalculation with the right severity tag and corrected dose.
+* Adjudicate a disputed case between two reviewers using current specialty guidelines.
+* Audit a 25-case batch for rubric consistency and report drift to the program lead.
+
+**Nice to have**
+----------------
+
+* Prior work as a guideline reviewer, peer reviewer, or clinical educator.
+* Familiarity with AI-assisted clinical decision support and its failure modes.
+* Bilingual clinical experience for non-English patient cases.
+
+**Skills**
+----------
+
+* Clinical reasoning
+* Guideline review
+* Patient-safety assessment
+* Structured clinical writing
+* Clinical review
+
+**Work model**
+--------------
+
+Remote — US-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.
+
+**Compensation**
+----------------
+
+Hourly rate confirmed after the interview process.
+
+**Application process**
+-----------------------
+
+Apply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.

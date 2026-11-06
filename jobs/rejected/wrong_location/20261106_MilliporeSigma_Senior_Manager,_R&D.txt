@@ -1,0 +1,104 @@
+Title: Senior Manager, R&D
+Company: MilliporeSigma
+Location: Milwaukee, WI, USA
+URL: 
+Posted: 2026-10-27
+Site: indeed
+Search query: Doctoral materials science
+----------------------------------------
+
+Work Your Magic with us! Start your next chapter and join MilliporeSigma.
+
+Ready to explore, break barriers, and discover more? We know you’ve got big plans – so do we! Our colleagues across the globe love innovating with science and technology to enrich people’s lives with our solutions in Healthcare, Life Science, and Electronics. Together, we dream big and are passionate about caring for our rich mix of people, customers, patients, and planet. That's why we are always looking for curious minds that see themselves imagining the unimaginable with us.
+
+This role does not offer sponsorship for work authorization. External applicants must be eligible to work in the US.
+
+**Your Role:**
+
+Join us as a strategic R&D team lead within Chemical Synthesis Solutions (CSS) R&D at MilliporeSigma. In this pivotal role, you will serve as the cornerstone scientific bridge between chemistry and biology. You are a dual-domain expert: a chemist with deep protein/peptide/DEL and medicinal chemistry foundations who independently designs and executes the in vitro biochemical and cell-based assays required to validate chemical hypotheses.
+
+Your work spans the full early drug discovery continuum — from target identification and mechanism of action (MOA) studies, through proof-of-concept (PoC) validation of CSS chemical products and proprietary platforms, to enabling the characterization of novel therapeutic modalities including peptide drugs, ADCs, ASOs, and targeted protein degraders. Furthermore, you will spearhead the design, construction, and strategic application of DNA-Encoded Libraries (DELs), leveraging this technology to validate high-throughput affinity screens.
+
+You will lead a cross-disciplinary sub-team and act as a senior scientific partner to customers, Key Opinion Leaders, and internal stakeholders. You will ensure CSS remains the partner of choice for customers navigating the rapidly evolving landscape of novel therapeutic modalities. You will also sustain strategic momentum across adjacent domains including next-generation biomaterials and drug delivery, and shape the 5–10 year chemical biology capability roadmap for CSS,
+
+The successful candidate will be a chemist at heart with a strong biological toolkit — someone who understands how molecular structure drives biological function, and who can translate chemical innovation into biologically validated insights that underpin our product and platform strategy.
+
+**Core Responsibilities:**
+
+**1. Chemical Biology & Medicinal Chemistry Interface**
+
+* Design and synthesize chemical probes, tool compounds, and novel building blocks; apply SAR, ADME, and selectivity principles to guide prioritization of CSS chemical candidates and platform molecules.
+* Lead protein and peptide chemistry within CSS R&D: solid-phase/liquid-phase peptide synthesis (SPPS/LPPS), cyclic and stapled peptide design, site-specific protein modification, and antibody conjugation strategies for ADCs, PROTACs, ASOs and peptide therapeutics.
+* Lead the design and synthesis of novel DELs (encompassing membrane-DEL and proximity-DEL) and integrate DEL-derived insights to streamline and accelerate validation of screening hits.
+* Provide expert guidance on linker chemistry, bioconjugation, and payload design for novel modalities (ADCs, TPDs, peptide–drug conjugates, ASO-based therapeutics, as well as RNAs).
+* Deploy chemical biology approaches — activity-based protein profiling (ABPP), photoaffinity labeling, chemoproteomics, chemical genetics — to interrogate target biology and support target identification workflows.
+
+**2. In Vitro Biochemical & Cell-Based Assay Development**
+
+* Independently design, develop, optimize, and execute a comprehensive suite of in vitro biochemical and cell-based assays: binding assays (TR-FRET, AlphaScreen, SPR, fluorescence polarization), enzyme activity assays, cellular target engagement assays (CETSA, NanoBRET), and functional/phenotypic assays.
+* Apply protein labeling techniques — fluorescent labeling, biotinylation, crosslinking, affinity enrichment, pull-down, and co-immunoprecipitation — to support target deconvolution and MOA studies.
+* Maintain mammalian cell culture capabilities required for functional assay execution and PoC validation of CSS chemical candidates and platforms.
+* Provide deep technical expertise in the in vitro characterization of novel therapeutic modalities: peptide drugs, ADCs, ASOs, siRNA/mRNA constructs, proteins, and targeted protein degraders, including assessment of cellular uptake, target engagement, and functional activity.
+* Establish and enforce assay quality standards (Z’-factor, S/N ratio, CV, reproducibility) to ensure data integrity and scientific rigor across all biological testing activities.
+
+**3. MOA Studies, Target Identification & Proof-of-Concept Validation**
+
+* Serve as the primary scientific resource for MOA studies and PoC validation across CSS chemical candidates and proprietary platforms; define experimental strategies, execute studies, and deliver clear, decision-enabling data packages with explicit go/no-go criteria.
+* Lead target identification and target engagement experiments using chemical biology (ABPP, photoaffinity labeling, chemoproteomics) and biochemical approaches (binding assays, CETSA, NanoBRET).
+* Validate proprietary CSS building blocks, linker platforms, late-stage functionalization (LSF) reagents, and screening libraries through relevant biological assays; translate findings into scientific narratives that support product positioning and IP strategy.
+
+**4. Novel Modalities & Capability Strategy**
+
+* Define and execute a 5–10 year chemical biology and in vitro biology capability roadmap for CSS, aligned to the Innovation Strategy 2030 and LS Innovation Vectors (Novel Modalities, Next-Generation Biology).
+* Expand CSS capabilities in novel therapeutic modalities — peptide drugs, ADCs, ASOs, RNA therapies, targeted protein degraders — identifying and closing capability gaps that limit customer workflow support.
+* Monitor the competitive landscape, scientific literature, and patent environment; identify breakthrough innovation opportunities and translate them into actionable R&D investment proposals.
+* Integrate automation, miniaturization, and AI/ML tools into chemical biology and assay workflows to accelerate the Design-Make-Test-Learn (DMTL) cycle.
+
+**5. Cross-Domain Portfolio Leadership & Operations**
+
+* Lead and develop a cross-disciplinary sub-team spanning chemical biology, biochemistry, and protein/peptide chemistry; provide scientific direction, mentorship, and performance management.
+* Sustain strategic momentum across adjacent domains including next-generation biomaterials, 3D bioprinting, and drug delivery; apply TRL/CRL frameworks to assess project maturity and protect delivery timelines against stage-gate criteria.
+* Own the sub-team budget (CAPEX and OPEX): plan, forecast, track, and control spend; develop compelling business cases (NPV, TAM/SAM/SOM) for new capability investments.
+
+**6. External Partnerships, KOLs & Innovation**
+
+* Build and maintain a collaborative network across CSS R&D, Medicinal Chemistry, Materials Science, Engineering & Digital, and Business Development, as well as external partners (CROs, CDMOs, academic institutions).
+* Engage customers, Key Opinion Leaders, and scientific advisory boards to translate market needs into actionable R&D roadmaps; represent CSS at scientific conferences and customer-facing engagements.
+* Identify patentable inventions arising from chemical biology and protein/peptide work; manage IP disclosures and collaborate with legal teams on freedom-to-operate assessments.
+* Champion sustainability and green chemistry practices within chemical biology workflows; foster a culture of continuous learning and scientific excellence across the team.
+
+**Who You Are**
+
+**Minimum Qualifications:**
+
+* PhD in Chemical Biology, Medicinal Chemistry, Bioorganic Chemistry, Biochemistry, or a closely related discipline with a strong chemical biology component.
+* Minimum 10 years of post-doctoral R&D experience in pharma, biotech, or life science tools (industry or academic), with a demonstrated track record spanning both chemistry and in vitro biology.
+* Deep, hands-on expertise in chemical biology: chemical probe design and synthesis, ABPP, photoaffinity labeling, chemoproteomics, or equivalent target identification and MOA methodologies.
+* Strong protein and peptide chemistry expertise: SPPS/LPPS, peptide conjugation, cyclic/stapled peptide design, site-specific protein modification, and bioconjugation strategies for ADCs, PROTACs, and peptide therapeutics.
+* Solid medicinal chemistry literacy: SAR, ADME, selectivity optimization, and drug-likeness principles applied to small molecules, peptides, and chemical probes.
+* Deep technical expertise in mammalian cell culture, biochemical and cell-based functional assays, binding assays, and protein labeling — with the ability to independently design, develop, and execute these workflows — and a strong focus on characterizing novel modalities (ASOs, RNA, proteins, ADCs, peptide drugs, PROTACs, etc.).
+* Comprehensive understanding of MOA study design across diverse therapeutic target classes (kinases, proteases, E3 ligases, nucleic acid targets, GPCRs, etc.).
+* Hands-on expertise in the construction and utilization of DNA-Encoded Libraries (DELs-ssDELs, dsDELs), encompassing library design, split-and-pool synthesis, DNA-compatible chemistry, affinity selection screening, and hit deconvolution/sequencing analysis.
+* Proven track record leading R&D teams: sustaining scientific performance, managing cross-domain project portfolios, and driving deliverables from concept to validated output.
+* Strong strategic and analytical skills: able to connect scientific workflows to business outcomes, project milestones, and budget accountability.
+* Excellent communication skills: experienced in presenting complex chemical biology and in vitro data to multidisciplinary audiences including senior leadership, customers, and KOLs.
+
+**Preferred Qualifications:**
+
+* Experience with targeted protein degradation (PROTAC/molecular glue) chemistry and associated cellular validation assays (FACS-based degradation, western blot, TR-FRET, NanoBRET).
+* Familiarity with nucleic acid-based modalities (ASO, siRNA, mRNA) and their chemical modification strategies (phosphorothioate, 2’-OMe, LNA) and functional cellular readout assays.
+* Experience integrating automation, liquid handling, and AI/ML tools into chemical biology or assay workflows to accelerate the DMTL cycle.
+* Track record managing diverse portfolios beyond traditional drug discovery (biomaterials, 3D bioprinting, drug delivery, multi-omics platforms).
+* Experience with biophysical target engagement techniques (SPR, ITC, CETSA, X-ray crystallography, cryo-EM) applied to MOA studies.
+* Familiarity with IP identification, protection, and patent strategy in a Life Science R&D or tools/reagents context.
+* Track record of successful external collaborations (academic institutions, CROs, industry partners) resulting in co-developed products, publications, or IP.
+
+Pay Range for this position: *$130,900 - $202,000*
+
+The offer range represents the anticipated low and high end of the base pay compensation for this position. The actual compensation offered will be determined by factors such as location, level of experience, education, skills, and other job-related factors. Position may be eligible for sales or performance-based bonuses. Benefits offered by the Company include health insurance, paid time off (PTO), retirement contributions, and other perquisites.
+
+Direct link to benefits site if the hyperlink no longer works: https://careers.emdgroup.com/us/en/benefits].
+
+**What we offer:** We are curious minds that come from a broad range of backgrounds, perspectives, and life experiences. We believe that this variety drives excellence and innovation, strengthening our ability to lead in science and technology. We are committed to creating access and opportunities for all to develop and grow at your own pace. Join us in building a culture of inclusion and belonging that impacts millions and empowers everyone to work their magic and champion human progress!
+
+Apply now and become a part of a team that is dedicated to Sparking Discovery and Elevating Humanity!

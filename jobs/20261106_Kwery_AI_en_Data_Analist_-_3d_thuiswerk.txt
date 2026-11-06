@@ -1,0 +1,46 @@
+Title: AI en Data Analist | 3d thuiswerk
+Company: Kwery
+Location: Mechelen, Belgium
+URL: 
+Posted: 2026-11-06
+Site: glassdoor
+Search query: Data Scientist
+----------------------------------------
+
+**Wil jij mee bepalen hoe organisaties Data & AI écht inzetten, in plaats van gewoon de volgende technische oplossing te bouwen?**  
+  
+Voor een **internationale consultancyorganisatie gelegen in Mechelen** zoeken we versterking voor een gespecialiseerd Data & AI-team van zo’n 60 experts. Vanuit België werken zij aan strategische en technologische trajecten voor grote organisaties binnen onder meer healthcare, financiële dienstverlening, publieke sector en sustainability.  
+  
+Verwacht hier geen klassieke consultancy waarbij je jarenlang bij dezelfde klant wordt gedetacheerd. Je werkt projectmatig aan **trajecten van gemiddeld 3 à 4 maanden**, met grotere implementaties die kunnen oplopen tot ongeveer 1,5 jaar.  
+  
+Ondanks de schaal van de organisatie kom je terecht in een **echte start-upmentaliteit:** korte lijnen, veel ruimte voor initiatief en collega’s die samen bouwen aan de verdere groei van Data & AI binnen de organisatie én bij hun klanten.
+
+**Hoe zal jouw takenpakket eruitzien?**
+---------------------------------------
+
+* Ontwerpen van Data & AI governance strategieën en frameworks afgestemd op regelgeving en bedrijfsdoelen.
+* Ondersteunen van de overgang naar schaalbare en geautomatiseerde governance modellen, inclusief monitoring en rapportage.
+* Leiden van implementatie van tooling zoals Collibra en Microsoft Purview en waarborgen van datakwaliteit en beveiliging.
+* Adviseren van senior stakeholders over risico's, scenario's en aanbevelingen rond Data & AI governance.
+* Bevorderen van samenwerking tussen Data, AI, IT, Risk en Business teams en coachen van governance praktijken.
+
+**Wat verwachten wij van jou?**
+-------------------------------
+
+* Minimaal 3 jaar ervaring in Data & AI governance met hands-on tooling implementatie, bij voorkeur in consulting.
+* Technische vaardigheden zoals Python, SQL en ervaring met automatisering en integraties.
+* Sterke communicatieve vaardigheden en het vermogen complexe data concepten helder over te brengen aan executives.
+
+**Wat bieden wij jou?**
+-----------------------
+
+* Een aantrekkelijk brutosalaris tussen €3.500 en €5.500 per maand, afgestemd op jouw ervaring
+* Een aantrekkelijk salarispakket met tal van extralegale voordelen, waaronder een elektrische bedrijfswagen, onkostenvergoeding van €270, maaltijdcheques en een flexibel cafetariaplan.
+* Flexibele werkregelingen met mogelijkheid tot 3 dagen thuiswerken en 20 dagen werken van eender waar per jaar.
+* Uitgebreide verzekeringspakketten inclusief groepsverzekering en hospitalisatieverzekering.
+* Kansen voor professionele groei en persoonlijke ontwikkeling met gerichte trainingen.
+* Een inclusieve en internationale werkomgeving die persoonlijke groei en vertrouwen stimuleert.
+* Ondersteuning door een buddy en performance manager gedurende je loopbaan.
+* Leuke teamactiviteiten en sport- en welzijnsevenementen om de teamspirit te versterken.
+
+**Bekijk zeker ook onze website voor meer vacatures in IT:** **https://www.kwery.be/jobs**

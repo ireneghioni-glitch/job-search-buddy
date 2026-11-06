@@ -1,0 +1,113 @@
+Title: Data Analyst
+Company: Keystone Solutions
+Location: Brussels, Belgium
+URL: 
+Posted: 2026-11-04
+Site: glassdoor
+Search query: Data Scientist
+----------------------------------------
+
+**Mission Overview:**
+
+  
+  
+
+Join Keystone Solutions as a Data Functional Analyst on a consultancy mission at our client site. You will be part of a multi-disciplinary agile team consisting of data engineers, reporting experts, project managers, data architects, data quality experts, and AI specialists, working on dynamic projects that have a significant impact on society.
+
+  
+  
+
+**Role & Responsibilities:**
+
+  
+  
+
+* Lead discussions with various Subject Matter Experts (SME) to understand their data-related needs.
+* Identify, assess, and understand business processes, operational, and analytics data flows (incoming and outgoing).
+* Translate business needs into data and technical requirements.
+* Design and validate data models in collaboration with Data Architects.
+* Establish functional design for developments in collaboration with the Data Governance team, BI Technical Leads, and SDO (ICT) teams.
+* Ensure GDPR and security compliance in contact with the DPO.
+* Oversee testing of developed data products.
+* Inform, train, and encourage adoption among business users.
+  
+
+  
+
+**Your Technical Skills:**
+
+  
+  
+
+* Master's degree in Computer Science or equivalent experience.
+* Minimum 5+ years of professional experience in data functional analysis.
+* Concrete experience in data warehouse modeling (Kimball approach).
+* Experience in designing and analyzing data flows.
+* Prior experience as a data engineer is a plus.
+* Minimum 3+ years of concrete experience with MS on-premise stack (SQL Server, SSIS, SSAS, PowerBI).
+* Experience with Azure Databricks is a plus.
+  
+
+  
+
+**Your Profile:**
+
+  
+  
+
+* Excellent communication skills (speaking, reading, writing), mastering both national languages professionally (French & Dutch: B2+ minimum).
+* Excellent presentation skills.
+* Strong conceptual and business understanding.
+* Strong data literacy.
+* Ability to translate business needs into technical solutions.
+* Can-do attitude with a strong sense of ownership and autonomy.
+* Strong problem-solving, pragmatic approach, and delivery focus.
+* Team player, perseverant, stress-resistant, and flexible.
+* Open-minded and eager to learn.
+  
+
+  
+
+**What We Offer:**
+
+  
+  
+
+An interesting job in the realization of SDO (ICT) and Data services that has an impact on society, with many advantages: a good work-life balance, flexible working hours within a 70-hour week, possibility of teleworking (3 days/week), workspaces organized according to activities, easy accessibility via public transport, car and bike parking in the building, individual locker, company restaurant, and more.
+
+  
+  
+
+If you are ready to tackle technical and strategic challenges in a dynamic consultancy environment, apply today .
+
+  
+  
+
+**Duration:** 16/11/2026 - 31/12/2026 2 months • (full time)
+
+  
+  
+
+**Skills required:**
+
+* **Concrete experience in data warehouse modelling (Kimball approach)** - Level: Junior - Most recent: Any time
+* **data functional analysis** - Level: Confirmed - Most recent: Any time
+* **Data modeling** - Level: Confirmed - Most recent: Any time
+* **SQL** - Level: Confirmed - Most recent: Any time
+  
+
+  
+
+**Language requirements:**
+
+Dutch
+  
+Level Active knowledge
+  
+English
+  
+Level Active knowledge
+  
+French
+  
+Level Active knowledge

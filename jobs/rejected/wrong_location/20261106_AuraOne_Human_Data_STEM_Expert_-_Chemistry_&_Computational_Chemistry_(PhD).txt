@@ -1,0 +1,73 @@
+Title: STEM Expert - Chemistry & Computational Chemistry (PhD)
+Company: AuraOne Human Data
+Location: Remote, USA
+URL: 
+Posted: 2026-10-16
+Site: indeed
+Search query: Computational Chemistry
+----------------------------------------
+
+STEM Expert - Chemistry & Computational Chemistry (PhD) is a remote review track for evaluating AI outputs across chemistry reasoning, calculations, and research workflows. Reviewers grade derivations and assumptions, reproduce key results, and document the correct method so the modeling team can train on it.
+
+**Why this role matters**
+-------------------------
+
+Chemistry models live or die on whether their derivations actually hold up under scrutiny. AuraOne uses scientific specialists to grade outputs the way a peer reviewer would — checking assumptions, reproducing key steps, and capturing the right method alongside the wrong one.
+
+**Responsibilities**
+--------------------
+
+* Review AI outputs against current chemistry methods, conventions, and prior work for STEM Expert - Chemistry & Computational Chemistry (PhD) assignments.
+* Reproduce or sanity-check key derivations, calculations, or experimental claims.
+* Flag dimensional, methodological, and citation errors with structured severity tags.
+* Capture the corrected reasoning or worked example so the modeling team can train on it.
+* Adjudicate disputed answers against textbooks, papers, or community standards.
+* Maintain reviewer-quality scores in inter-rater calibration cycles.
+
+**Qualifications**
+------------------
+
+* Graduate-level training or equivalent applied experience in chemistry or a closely related field for STEM Expert - Chemistry & Computational Chemistry (PhD) work.
+* Hands-on experience publishing, teaching, or advising on the topic at a professional level.
+* Comfort applying multi-page rubrics consistently across long batches.
+* Clear written reasoning that cites methods, papers, or worked examples.
+* Reliable async availability for at least 10 hours per week.
+
+**Example tasks**
+-----------------
+
+* Reproduce a chemistry derivation from a model output and flag any algebraic or dimensional errors.
+* Grade a model's literature summary against the cited papers and rate the citation quality.
+* Adjudicate a disputed answer between two reviewers using textbook methods.
+* Audit a 25-row batch for rubric consistency and report drift to the program lead.
+
+**Nice to have**
+----------------
+
+* PhD, postdoc, or industry research experience in the topic area.
+* Prior work reviewing AI-assisted research tooling and its failure modes.
+* Multilingual fluency for non-English papers and corpora.
+
+**Skills**
+----------
+
+* Scientific reasoning
+* Method validation
+* Citation review
+* Quantitative analysis
+* Chemistry
+
+**Work model**
+--------------
+
+Remote — US-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.
+
+**Compensation**
+----------------
+
+Hourly rate confirmed after the interview process.
+
+**Application process**
+-----------------------
+
+Apply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.

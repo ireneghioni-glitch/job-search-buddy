@@ -76,3 +76,22 @@ Polymer Scientist | Remote | 720
 Specialty Chemicals | Remote | 720
 Data Scientist Chemistry | Remote | 720
 Scientific Data Scientist Chemistry | Remote | 720
+
+# ============================================================
+# TIER 6 — Commutable Cities (from Etterbeek < 1.5h)
+# ============================================================
+Materials Informatics | Leuven, Belgium | 720
+Materials Informatics | Antwerp, Belgium | 720
+Materials Informatics | Ghent, Belgium | 720
+Cheminformatics | Leuven, Belgium | 720
+Cheminformatics | Antwerp, Belgium | 720
+Computational Chemistry | Leuven, Belgium | 720
+Computational Chemistry | Antwerp, Belgium | 720
+Formulation Scientist | Leuven, Belgium | 336
+Formulation Scientist | Antwerp, Belgium | 336
+Formulation Scientist | Ghent, Belgium | 336
+Data Scientist Chemistry | Leuven, Belgium | 168
+Data Scientist Chemistry | Antwerp, Belgium | 168
+Data Scientist Chemistry | Mechelen, Belgium | 168
+R&D Data Scientist | Leuven, Belgium | 168
+R&D Data Scientist | Antwerp, Belgium | 168

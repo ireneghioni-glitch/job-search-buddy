@@ -1,0 +1,63 @@
+Title: Postdoctoral Fellow – Doerfler Laboratory
+Company: Versiti
+Location: Wauwatosa, WI, USA
+URL: 
+Posted: 2026-11-04
+Site: indeed
+Search query: Scientific Data Scientist
+----------------------------------------
+
+Overview:
+
+Versiti is a fusion of donors, scientific curiosity, and precision medicine that recognize the gifts of blood and life are precious. We are home to the world-renowned Blood Research Institute, we enable life saving gifts from our donors, and provide the science behind the medicine through our diagnostic laboratories. Versiti brings together outstanding minds with unparalleled experience in transfusion medicine, transplantation, stem cells and cellular therapies, oncology and genomics, diagnostic lab services, and medical and scientific expertise. This combination of skill and knowledge results in improved patient outcomes, higher quality services and reduced cost of care for hospitals, blood centers, hospital systems, research and educational institutions, and other health care providers. At Versiti, we are passionate about improving the lives of patients and helping our healthcare partners thrive.
+
+Position Summary:
+
+We are seeking a postdoctoral fellow to investigate the biology of human hematopoietic stem and progenitor cells (HSPCs), with a focus on how these cells respond to changes in their genome and maintain cellular function.
+
+The research program examines the consequences of therapeutic genome editing in human HSPCs, including DNA damage responses, cell-cycle regulation, chromosome integrity, and changes in cellular state. Related projects investigate signaling pathways that regulate stem cell behavior and the persistence of cellular and epigenetic changes over time.
+
+The position offers opportunities to pursue mechanistic questions using primary human CD34+ cells, genome editing approaches, hematopoietic model systems, and molecular and cellular assays. The fellow will lead research projects, develop experimental strategies, interpret results, and contribute to publications and collaborative studies.
+
+**Research Environment**
+
+The position is based at the Versiti Blood Research Institute. The fellow will work in a laboratory studying human blood stem cell biology and genetic therapies, with access to institutional expertise and shared resources in hematopoiesis, genome engineering, flow cytometry, genomics, and advanced microscopy.
+
+Total Rewards Package:
+
+**Compensation**  
+The target salary is based on internal averages. Versiti sets salary ranges aligned to local markets in which the job is performed. Compensation decisions take into account internal salary averages and differentiation based on education, experience, skills, and performance. Specific salary and benefits information is shared at the time of the phone screening based on your location and qualifications.  
+  
+**Benefits**  
+Versiti provides a comprehensive benefits package based on your job classification. Full-time regular employes are eligible for Medical, Dental, and Vision Plans, Paid Time Off (PTO) and Holidays, Short- and Long-term disability, life insurance, 7% match dollar for dollar 401(k), voluntary programs, discount programs, others.
+
+Responsibilities:
+
+* Design and conduct hypothesis-driven research in human HSPCs and related model systems.
+* Investigate mechanisms of cell-cycle regulation, DNA damage responses, mitotic signaling, and chromosome integrity.
+* Use molecular biology, genome editing, flow cytometry, and fluorescence microscopy to address biological questions.
+* Analyze and interpret experimental results and develop follow-up studies.
+* Prepare manuscripts and present research at scientific meetings.
+* Participate in collaborative projects and contribute to the training of junior laboratory members.
+
+Qualifications:
+
+**Required**
+
+* Ph.D. in cell biology, molecular biology, genetics, hematology, stem cell biology, or a related field.
+* Strong research background in one or more of the following: mitosis, cell division, chromosome biology, DNA damage responses, cell-cycle regulation, or stem cell biology.
+* Demonstrated ability to design and carry out independent research.
+* Peer-reviewed publications.
+* Experience with molecular and cellular biology techniques and quantitative analysis.
+* Strong written and oral communication skills.
+
+**Preferred**
+
+* Experience with chromosome segregation, centromere or kinetochore biology, mitotic checkpoints, DNA repair, or genome stability.
+* Experience with primary cells or stem cell systems.
+* Familiarity with CRISPR-based genome editing.
+* Experience with flow cytometry, fluorescence microscopy, or live-cell imaging.
+* Background in chromatin biology or epigenetic regulation.
+* Experience with quantitative data analysis using R, Python, or similar tools.
+
+Candidates with strong mechanistic backgrounds in mitosis, chromosome biology, DNA damage responses, or cell-cycle regulation are encouraged to apply, even without prior experience in hematopoietic biology or genome editing.

@@ -1,0 +1,130 @@
+Title: Senior Public Health Scientist, CDC
+Company: PCI Government Services LLC
+Location: Remote, USA
+URL: 
+Posted: 2026-10-15
+Site: indeed
+Search query: Materials Scientist
+----------------------------------------
+
+**Senior Public Health Scientist, CDC**
+
+**Location:** Remote with occasional travel to CDC facilities or meetings as required
+
+**Employment Type:** Full-Time
+
+**Position Overview**
+
+The Senior Public Health Scientist serves as a senior scientific advisor supporting high-visibility and time-sensitive public health initiatives within CDC's Executive Advisory, Science and Operations (EASO) Unit. The position provides scientific leadership, technical consultation, research oversight, evidence synthesis, and strategic analytical support to CDC leadership, program offices, and multidisciplinary project teams.
+
+The successful candidate will lead and support scientific reviews, coordinate complex research activities, evaluate emerging scientific evidence, guide analytical approaches, and translate technical findings into actionable recommendations for executive decision-makers. The role requires a strong balance of scientific credibility, strategic thinking, project leadership, and stakeholder engagement.
+
+The Senior Public Health Scientist will frequently collaborate with epidemiologists, biostatisticians, data scientists, programmers, clinicians, policy experts, and senior government officials to address public health questions of national significance.
+
+**Key Responsibilities**
+
+**Scientific Leadership & Research Consultation**
+
+* Serve as a senior scientific advisor supporting CDC leadership on emerging public health, scientific, and operational issues.
+* Conduct scientific reviews of reports, publications, manuscripts, white papers, technical analyses, and executive briefing materials.
+* Evaluate scientific methodologies, evidence quality, data interpretation, and validity of conclusions.
+* Identify strengths, limitations, and potential implications of research findings.
+* Provide recommendations regarding scientific approaches, study design, surveillance strategies, and analytical methods.
+* Support development of scientific products, publications, technical reports, and decision-support materials.
+
+**Public Health Research & Evidence Synthesis**
+
+* Lead rapid evidence reviews and comprehensive literature assessments on emerging topics.
+* Synthesize scientific, clinical, epidemiological, and operational evidence.
+* Evaluate competing scientific perspectives and communicate implications clearly to leadership.
+* Support development of white papers, strategic analyses, briefings, and executive summaries.
+* Assist CDC programs in identifying innovative methods, interventions, and emerging scientific approaches.
+
+**Scientific Project Oversight**
+
+* Manage multiple concurrent scientific initiatives and special projects.
+* Help define project scope, objectives, timelines, and required resources.
+* Coordinate work across internal and external subject matter experts.
+* Monitor project progress and ensure scientific rigor throughout project execution.
+* Support scientific clearance and review processes when required.
+
+**Data & Analytics Leadership**
+
+* Partner with data scientists, programmers, and analysts to guide study design and analytical strategies.
+* Review statistical methodologies and analytical outputs.
+* Translate complex findings into actionable public health insights.
+* Support projects utilizing administrative, surveillance, claims, and large-scale public health datasets.
+* Provide scientific oversight for AI-assisted analytical products and programming outputs.
+
+**CMS and Large Dataset Research Support**
+
+* Provide scientific oversight for analyses utilizing CMS, claims-based, surveillance, and other large health data assets.
+* Collaborate with technical staff supporting SAS, R, SQL, Python, and related analytic environments.
+* Guide development of research cohorts, exposure-outcome analyses, and population-based studies.
+* Validate scientific rationale behind analytic approaches and interpretations.
+
+**Stakeholder Engagement & Collaboration**
+
+* Facilitate collaboration among CDC leaders, scientists, technical staff, researchers, and external experts.
+* Participate in leadership meetings, scientific reviews, and strategic planning sessions.
+* Communicate scientific findings and recommendations to technical and non-technical audiences.
+* Contribute to working groups, consultation teams, and special task forces.
+
+**Mentorship and Capability Development**
+
+* Provide guidance and mentorship to junior scientists, analysts, and technical staff.
+* Help identify specialized expertise required to support emerging CDC priorities.
+* Review and provide feedback on technical products and scientific deliverables.
+* Support continuous improvement of scientific quality standards.
+
+**Minimum Qualifications**
+
+* Doctoral degree (PhD, DrPH, ScD, MD, DVM, PharmD, or equivalent) in Epidemiology, Public Health, Biostatistics, Health Services Research, Environmental Health, Health Policy, Medicine, or related field and 12+ years of progressively responsible public health, scientific, or research experience; **OR**
+* Master's degree in Epidemiology, Public Health, Biostatistics, Health Services Research, Environmental Health, Health Policy, Medicine, or a related scientific field and 15+ years of progressively responsible scientific, research, epidemiologic, or public health experience, including experience leading complex research initiatives and providing strategic scientific consultation.
+* Demonstrated experience conducting and leading scientific reviews and evidence synthesis.
+* Experience supporting or advising federal public health agencies, academic institutions, healthcare systems, or research organizations.
+* Strong scientific writing and technical communication skills.
+* Experience presenting findings to senior leadership and multidisciplinary audiences.
+* Experience leading multiple projects simultaneously with competing priorities.
+
+**Preferred Qualifications**
+
+* 15+ years of applied public health or research experience.
+* Prior CDC, HHS, NIH, CMS, FDA, DoD, VA, or state public health experience.
+* Experience with scientific review and clearance processes.
+* Experience overseeing epidemiologists, analysts, data scientists, or research teams.
+* Familiarity with:
+  + CMS Claims Data
+  + TAF Data
+  + Administrative Healthcare Datasets
+  + Public Health Surveillance Systems
+  + Electronic Health Records
+  + Cohort Study Design
+  + Implementation Science
+  + Program Evaluation
+* Experience supporting executive-level scientific decision making.
+* Peer-reviewed publication record.
+* Experience supporting multidisciplinary teams in fast-paced environments.
+
+**Desired Knowledge and Skills**
+
+* Epidemiology
+* Public Health Research
+* Scientific Review
+* Evidence Synthesis
+* Health Services Research
+* Biostatistics
+* Survey Methodology
+* Program Evaluation
+* Strategic Consulting
+* Scientific Writing
+* Stakeholder Engagement
+* Executive Communications
+* SAS, R, SQL, Python (oversight-level proficiency)
+* Research Quality Assurance
+* Scientific Project Management
+* Critical Analysis and Problem Solving
+
+*PCI Federal (PCIF) and its subsidiaries are an equal-opportunity employer. PCIF does not discriminate on the basis of age, sex, race, national origin, religion, marital status, sexual orientation or identity, Veterans or Disability status.*
+
+*Preference may be extended to qualified Native American Indian candidates in accordance with applicable federal law.*

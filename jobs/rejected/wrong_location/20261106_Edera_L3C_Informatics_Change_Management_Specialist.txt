@@ -1,0 +1,104 @@
+Title: Informatics Change Management Specialist
+Company: Edera L3C
+Location: Remote, USA
+URL: 
+Posted: 2026-11-03
+Site: indeed
+Search query: Materials Informatics
+----------------------------------------
+
+Edera L3C is a fast-growing healthcare consultancy that addresses today’s issues and helps create tomorrow’s solutions by connecting the brightest minds in healthcare. Our team of management, technology, and creative services consultants work collaboratively with industry experts who bring deep experience and expertise to create transformational business solutions. We believe complex challenges and multi-faceted opportunities call for multi-disciplinary approaches and that’s how we work. We transform healthcare by bringing industry best practices from the private sector to the public sector, and the public sector to the private sector. Edera is an L3C (a variation of a limited liability company) that places “purpose before profit;” a social enterprise venture. This means we are focused on a socially beneficial mission to transform organizations rather than being driven to maximize income. Profits beyond our business sustainability goals are reinvested into communities or clients.
+
+**Position Description**
+------------------------
+
+The **Informatics Change Management Specialist** supports the planning, coordination, and execution of organizational change management (OCM) activities for clinical informatics, interoperability, and health information technology initiatives. This role partners with program teams, clinical stakeholders, and technical personnel to facilitate user adoption, stakeholder engagement, communication, training, and readiness activities that support successful implementation of new systems, workflows, and technology solutions.
+
+The successful candidate will apply change management principles to help ensure smooth transitions and sustained adoption across healthcare environments while supporting Agile delivery teams and program objectives. Candidates must demonstrate hands-on experience working within Agile and SAFe delivery environments, supporting change activities aligned with program increments, release planning, and stakeholder readiness efforts.
+
+**APPLICANTS MUST HAVE VA AND/OR DOD EXPERIENCE-** **Active federal clearance or ability to obtain**
+
+**Type of Employment**: 1099 with other employment opportunities may be available based on individual performance and business need.
+
+**Work Location/Travel**: Applicants must be unencumbered by travel restrictions. Heavy travel.
+
+**Hourly Rate Range**: $75.00 to $85.00. There are multiple factors that are considered in determining final pay for a position, including, but not limited to, relevant work experience, skills, certifications and competencies that align to the specified role, geographic location, education and certifications as well as contract provisions regarding labor categories that are specific to the position.
+
+**Role Reports to**: Project Manager
+
+**Direct Reports**: This role has no direct reports
+
+**Responsibilities:**
+---------------------
+
+* Support development and execution of organizational change management strategies for clinical informatics and interoperability initiatives.
+* Assist with stakeholder analysis, change impact assessments, and readiness evaluations to identify risks and adoption barriers.
+* Develop and maintain change management artifacts, including communication plans, stakeholder engagement materials, readiness assessments, and adoption metrics.
+* Coordinate communication activities to ensure stakeholders receive timely, accurate, and relevant project information.
+* Support development and delivery of end-user training materials and job aids for clinical and technical audiences.
+* Collaborate with Agile teams to align change management activities with project milestones, release schedules, and implementation plans, and SAFe Program Increment objectives.
+* Participate in and support SAFe and Agile delivery activities, including Program Increment (PI) Planning, sprint reviews, backlog refinement, release readiness, and stakeholder engagement events.
+* Participate in Agile ceremonies and planning activities to support stakeholder readiness and user adoption efforts.
+* Monitor stakeholder feedback and adoption indicators, escalating concerns and recommending mitigation strategies when appropriate.
+* Assist with implementation support activities, including go-live preparation, transition planning, and post-deployment adoption monitoring.
+* Collaborate with VA facilities, program teams, and operational stakeholders to support successful deployment and sustainment of informatics solutions.
+* Maintain project documentation and provide status updates related to change management activities.
+* Support continuous improvement initiatives by gathering lessons learned and identifying opportunities to strengthen change adoption processes.
+
+**Knowledge and Skills Required:**
+----------------------------------
+
+* Working knowledge of organizational change management principles and methodologies.
+* Ability to develop clear communications and training materials for diverse stakeholder groups.
+* Strong organizational skills with the ability to manage multiple priorities and deadlines.
+* Excellent verbal and written communication skills.
+* Ability to build collaborative relationships with clinical, operational, and technical stakeholders.
+* Experience conducting change impact assessments, stakeholder analyses, or readiness activities preferred.
+* Proficiency with Microsoft Office Suite, SharePoint, Teams, and collaboration tools.
+
+**Education/Certification Required:**
+-------------------------------------
+
+* Bachelor’s degree in Healthcare, Informatics, nursing, or related field
+* RN, CNM, or other applicable clinical license
+
+**Preferred Qualifications:**
+-----------------------------
+
+* Master’s degree in Health Informatics, Public Health, or Nursing
+* Familiarity with Prosci ADKAR, Kotter, or similar change management frameworks.
+* Knowledge of Veterans Health Administration (VHA) operations and healthcare delivery environments.
+* Familiarity with clinical workflows, EHR platforms, and healthcare interoperability standards (HL7, FHIR).
+* Experience supporting implementation of Oracle Health/Cerner, VistA/CPRS, or similar healthcare technologies.
+* Relevant certifications preferred:
+  + Prosci Change Practitioner
+  + Certified ScrumMaster (CSM)
+  + **SAFe Agilist (SA), SAFe Practitioner (SP), or other SAFe certification**
+  + Healthcare Informatics certification
+
+**Experience Required:**
+------------------------
+
+* 3+ years of experience in organizational change management, training, communications, project coordination, or related disciplines.
+* Experience supporting healthcare IT, Electronic Health Record (EHR), clinical informatics, interoperability, or digital transformation initiatives preferred.
+* Demonstrated experience working within Agile and SAFe delivery environments, supporting organizational change, stakeholder engagement, training, communications, or implementation activities.
+* Minimum 2 years of experience supporting Agile teams through Program Increment (PI) Planning, release readiness activities, or organizational change initiatives.
+
+**Knowledge, Skills, and Abilities:**
+-------------------------------------
+
+* Working knowledge of organizational change management principles and methodologies.
+* Ability to develop clear communications and training materials for diverse stakeholder groups.
+* Strong organizational skills with the ability to manage multiple priorities and deadlines.
+* Working knowledge of Agile and Scaled Agile Framework (SAFe) principles and practices.
+* Ability to align change management deliverables and stakeholder readiness activities with Agile delivery schedules and Program Increment objectives.
+* Excellent verbal and written communication skills.
+* Ability to build collaborative relationships with clinical, operational, and technical stakeholders.
+* Experience conducting change impact assessments, stakeholder analyses, or readiness activities preferred.
+* Proficiency with Microsoft Office Suite, SharePoint, Teams, and collaboration tools.
+
+All applicants must be US citizens and able to obtain a Public Trust clearance. Edera participates in the E-Verify program. Edera is a drug-free workplace.
+
+Edera is an Equal Opportunity and Affirmative Action Employer. Edera prohibits discrimination against individuals based on their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other category protected by law.
+
+Page | **1**

@@ -1,0 +1,122 @@
+Title: Principal Research Scientist
+Company: G2
+Location: Remote, USA
+URL: https://www.indeed.com/viewjob?jk=dc76ee3f0a2cf0c1
+Posted: 2026-10-27
+Site: indeed
+Search query: Materials Scientist
+----------------------------------------
+
+**Location**
+------------
+
+Remote (US)
+
+**Employment Type**
+-------------------
+
+Full time
+
+**Department**
+--------------
+
+Product R&D
+
+**Compensation**
+----------------
+
+* $190K – $235K • Offers Equity
+
+At G2, we’re committed to building an equitable and inclusive workplace for all. That's why our compensation program is rooted in market data, transparency, fairness, and individual performance.
+
+Compensation in an offer is determined by factors such as the candidate’s experience, relevant skills, and job-related knowledge.
+
+We’ve built a company-wide framework to provide employees clarity on how compensation and success is measured at each level. This career framework supports our employees' professional growth and guides them to their PEAK.
+
+We also support our employees by offering generous benefits, such as flexible work, ample parental leave, and unlimited PTO. Click here to learn more about our benefits.
+
+  
+
+**About G2 - The Company**
+
+G2 is the world's largest and most trusted software marketplace. When you join G2, you’re joining the industry’s leading team that helps businesses reach their peak potential by powering decisions and strategies with trusted insights from real software users.
+
+Now, we have joined forces with Capterra, SoftwareAdvice, and GetApp to create the largest source of online data and software insights to fuel intelligent buying in the age of AI. With 200M+ combined annual visitors and 6M verified reviews, we are now the centralized place to enable software buyers to make better and faster decisions with confidence.
+
+And we are just getting started! We are setting out to transform the global B2B software industry and become the most trusted data foundation for buyers and sellers of software for the age of AI.
+
+Does that sound exciting to you? Come join us as we try to reach our next PEAK!
+
+**About G2 - Our People**
+
+At G2, everything we are and what we do is grounded in our PEAK values— (*P*erformance + *E*ntrepreneurship + *A*uthenticity + *K*indness. Working at G2 means you are part of a value-driven, growing global community that climbs PEAKs together. We cheer for each other’s successes, learn from our mistakes, and support and lean on one another during challenging times. With ambition and entrepreneurial spirit we push each other to take on challenging work, which will help us all to grow and learn.
+
+You will be part of a global, diverse team of smart, dedicated, and kind individuals - each with unique talents, aspirations, and life experiences. At the heart of our community and culture are our people-led ERGs, which celebrate and highlight the diverse identities of our global team. As an organization, we are intentional about our DEI and philanthropic work (like our G2 Gives program) because it encourages us all to be better people.
+
+**About The Role**
+------------------
+
+Buyers of business software increasingly need to know how well AI agents actually perform, not just what vendors claim. G2 is building independent, rigorous evaluations of AI agents on realistic business work, to help buyers choose with confidence and to set a trusted standard for the market.
+
+This is the most senior applied research role on that work, and it is hands-on. You will own the research agenda for how agents get tested, make sure the results mean what we say they mean, and turn them into product features and insights G2 publishes. You will work side by side with engineers and product managers, and your work will go into what G2 ships today, not only into longer-term research.
+
+You will also raise the bar around you. You will mentor engineers, data scientists and researchers working on evaluation, review their methodology, and make the standards you set repeatable by people who did not write them.
+
+The field is unsettled. Methods from academia, frontier labs and industry are still being worked out. Part of the job is staying on top of that work and bringing the ideas that matter into the product. The approaches that last are the simple, general ones that still hold up as models change.
+
+**In This Role, You Will:**
+---------------------------
+
+* **Own the evaluation methodology.** Set the standard for how G2 evaluates AI agents, defend it to skeptical audiences inside and outside the company, and keep it current as models change.
+* **Contribute to today's product.** Work closely with engineers and product managers to build and improve the evaluations behind G2's current offerings. Help scope features, turn methods into production-ready components, and iterate on what customers and the business need.
+* **Design realistic evaluations.** Build environments and task sets that reflect the work businesses actually give AI agents, and that stay useful as models improve.
+* **Develop sound measurement.** Create scoring approaches, including automated checks, LLM-based judges and human review, that are accurate, reproducible and hard to game. Measure consistency and reliability, not just average performance.
+* **Validate the evaluations themselves.** Audit tasks and graders, quantify noise, and establish when differences between agents are real.
+* **Represent the results.** Present and defend evaluation findings to buyers, customers and partners, and to the research community. Be the credible voice behind the numbers when the audience has a stake in the outcome.
+* **Mentor and multiply.** Manage and guide researchers and engineers on evaluation design and measurement, review their work, and write the documentation and standards that let the team run evaluations without you in the room.
+* **Set and pursue a research agenda.** Choose which evaluation problems matter most and carry long-running projects through to something that works, favoring simple ideas that generalize over ones tuned to this year's models. Directions include simulated-user and environment-based evaluation in the tradition of benchmarks like τ-bench; realistic user and persona simulation; LLM-as-judge reliability; evaluation of voice and multimodal agents; assessing agents in open-ended, long-horizon workflows; and protecting test sets from contamination.
+* **Stay current.** Follow new benchmarks, papers and evaluation practices across the research community. Translate them into product and roadmap decisions, and communicate them clearly to the team.
+* **Share and collaborate.** Write methodology documentation and, where appropriate, papers and public posts. Partner with data and go-to-market teams on how results are presented and used.
+
+**Minimum Qualifications:**
+---------------------------
+
+We realize applying for jobs can feel daunting at times. Even if you don’t check all the boxes in the job description, we encourage you to apply anyway.
+
+* Experience working with evaluation design or dataset curation in multi-agentic systems
+* 5+ years building or evaluating ML systems, including hands-on work with LLMs or LLM-based agents.
+* 2+ years experience managing small to medium teams preferred.
+* A graduate degree (MS or PhD) in machine learning, NLP, computer science, statistics or a related field, or equivalent applied research experience.
+* A track record of original ideas in machine learning, or clear improvements on existing ones, shown through first-author publications or projects you led end-to-end.
+* The ability to own a research agenda: pick the problems worth solving, and carry long-running projects without being directed.
+* A track record of shipping ML work in a product setting, working closely with engineers and product managers.
+* Experience setting technical direction for others: mentoring researchers or engineers, reviewing methodology, and raising the quality of work you did not do yourself.
+* Familiarity with how AI systems are benchmarked, and a clear view of how benchmark scores can mislead.
+* Sound statistical judgment: experimental design, variance, significance and agreement between human and automated raters.
+* Good judgment about trade-offs, including when a practical solution now serves customers better than a more complete one later.
+* Clear writing, and the ability to explain methodology to non-specialists and to defend it to skeptical audiences.
+
+### **What Can Help Your Application Stand Out:**
+
+* Research experience in agent evaluation, user simulation, or human and AI-based judging.
+* Experience with conversational, voice, retrieval-based or tool-using AI systems.
+* Contributions to open-source evaluation tools or public leaderboards.
+* Familiarity with business software workflows.
+* A considered view on the effects of AI technology on the people and markets it reaches.
+* Publications at ACL, EMNLP, NeurIPS, ICML, ICLR, COLM or similar venues.
+
+**Our Commitment to Inclusivity and Diversity**
+
+At G2, we are committed to creating an inclusive and diverse environment where people of every background can thrive and feel welcome. We consider applicants without regard to race, color, creed, religion, national origin, genetic information, gender identity or expression, sexual orientation, pregnancy, age, or marital, veteran, or physical or mental disability status.
+
+-
+
+**How We Use AI Technology in Our Hiring Process**
+  
+G2 incorporates AI-powered technology to enhance our candidate evaluation process. These tools may assist with initial application screening, skills assessment analysis, and identifying candidates whose qualifications align with specific role requirements. While AI technology supports our recruitment workflow, all final hiring decisions remain under human oversight and judgment.
+
+**Your Choice Matters:** If you would prefer that your application be reviewed without AI assistance, you can opt out by entering your email address in the email entry field at the bottom of the Automated Processing Legal Notice. Choosing to opt out will not disadvantage your application in any way—we will ensure your materials receive a thorough manual review by our hiring team.
+  
+For additional details about how we handle your information throughout the application process, please review G2's Applicant Privacy Notice.
+
+Compensation Range: $190K - $235K

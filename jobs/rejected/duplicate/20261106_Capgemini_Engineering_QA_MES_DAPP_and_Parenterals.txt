@@ -1,0 +1,52 @@
+Title: QA MES DAPP and Parenterals
+Company: Capgemini Engineering
+Location: Diegem, Belgium
+URL: 
+Posted: 2026-11-05
+Site: glassdoor
+Search query: R&D Data Scientist
+----------------------------------------
+
+At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.
+
+**Your role**
+-------------
+
+As a **QA Specialists supporting MES in Sterile Manufacturing and in Device Assembly and Parenteral Packaging** , you will use your understanding of sterile manufacturing processes to make informed quality decisions on the setup of the new PAS/X MES system. You will define quality requirements and review and approve relevant procedures and MES data to ensure alignment with GMP and applicable quality requirements. You will:
+
+* Develop and maintain a thorough understanding of the processes within the Sterile Manufacturing area to make well-informed quality decisions in line with GMP and applicable quality requirements.
+* Provide quality support for the MES project in Sterile Manufacturing area
+* Review and approve quality-relevant master data, manufacturing instructions and process changes
+* Participate in projects to optimise workflows for the review and approval of master data, manufacturing instructions and process changes
+* Assure compliance with the marketing authorization and Good Manufacturing Practices
+* Establish and maintain strong working relationships with the MES-team, Business and Quality partners to ensure alignment of objectives and results and act as Quality Point of Contact.
+* Support the quality oversight process of the operational activities by ensuring QA review and approval of GMP documentation.
+* Act as the quality representative for projects, providing quality oversight and ensuring alignment with GMP and applicable quality and compliance requirements.
+* Provide general administrative support to the QA MES Lead
+
+**Your profile**
+----------------
+
+* University degree, scientific orientation (pharmaceutical, chemical or biological sciences/engineering)
+* 5-10 years experience in a Pharmaceutical Industry with knowledge of aseptic manufacturing, annex I and how this relates to set up of batch record and batch release activities
+* You have a quality-driven mindset. You are familiar with the GMP legislation and deliver accurate and precise work.
+* You have excellent computer proficiency with experience in MES
+* You can demonstrate the ability to work independently while staying connected with key stakeholders.
+* You can work well in a team and maintain an open and constructive dialogue with the various partners. You can deal with time pressure and changing priorities. You are able to make risk-based decision under time pressure.
+* You strive to deliver results and progress. You have a pro-active attitude and are familiar with risk management principles.
+* You are analytical and problem solving. You are constantly looking for continuous improvement
+* You have a thorough knowledge of pharmaceutical legislation, in cGMP regulations (domestic & international), ICH guidelines, policies and procedures
+* You are an excellent communicator, able to build a network and create win-win solutions
+* You understand the business implications regarding quality positions and decisions
+* Fluency in Dutch and English, both written and spoken
+* You have a good mobility to ou client located in Beerse, Belgium
+
+**What you'll love about working here**
+---------------------------------------
+
+* **Engineering Horizons** – A global conference crafted exclusively for Capgemini Engineering colleagues, where excellence takes centre stage. Immerse yourself in opportunities to showcase your talents and connect with the brightest minds in engineering across the planet.
+* **FlexAbroad** – Employees in 20+ countries can work abroad for up to 45 days in a 12-month period, giving you the flexibility to blend work and exploration across the globe.
+* **Digital Campuses and Academy** – Our engineering academy offers more than 60,000 hours of training, as well as our digital campus on GenAI, data, and sustainability, supporting digital learning in the flow of work from awareness to expert certifications.
+* **Global Tech Challenges** – Capgemini hosts annual group-wide competitions, such as the Global Data Science Challenge and Tech4PositiveFutures. These aim to address world issues like climate change and biodiversity by applying technology for innovative solutions. The Future of X is a Global Ideation Campaign that looks for ideas for iconic anchor R&I projects and demonstrators of technology. Winning ideas were funded up to 100K€.
+
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.

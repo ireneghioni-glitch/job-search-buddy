@@ -1,0 +1,59 @@
+Title: (Junior) Engineer (m/f/d)
+Company: Orise
+Location: Leuven, Belgium
+URL: 
+Posted: 2026-10-24
+Site: glassdoor
+Search query: Specialty Chemicals
+----------------------------------------
+
+ATS Company: PA Solutions
+
+Requisition ID: 17929
+
+Location:
+Leuven, Flemish-Brabant, BE, 3001
+
+Date: Oct 23, 2026
+
+**(Junior) Engineer (m/f/d)**
+=============================
+
+**Join Orise as a Digital Asset Consultant**
+--------------------------------------------
+
+Are you passionate about bridging the gap between industrial operations and cutting-edge digital solutions? At Orise, we specialize in **real-time data management**, helping industries transform their operational data into valuable business insights. As a **Digital Asset Consultant**, you’ll play a key role in designing, implementing, and supporting real-time data systems that drive efficiency and innovation.
+
+**What Does a Digital Asset Consultant Do?**
+--------------------------------------------
+
+* Extract and manage **real-time plant data** from industrial control systems (Honeywell, Siemens, ABB...) to **MES platforms and cloud environments**.
+
+* Implement and support **historian data systems** like **AspenTech IP21 and AVEVA PI**, ensuring high-frequency data collection and storage.
+
+* Enable **data visualization and analysis**, integrating real-time data into business intelligence (BI) tools, SAP, ...
+
+* Facilitate **IT/OT convergence**, ensuring seamless data flow between operational technology (OT) on the plant floor and enterprise IT systems.
+
+* Assist customers in transitioning from **on-premises to cloud-based infrastructures**.
+* Contextualize raw industrial data using **asset frameworks (AF)**, making it more accessible and actionable for operators, engineers and management.
+
+**Who Are We Looking for?**
+---------------------------
+
+We seek dynamic professionals with a passion for **data integration, industrial processes, and IT systems**. Ideal candidates have:
+
+* An **engineering or IT-related background**, such as **Chemical Engineering, Computer Science, Electrical Engineering, or Mathematical Engineering**.
+
+* A results-driven and entrepreneurial mindset with excellent organizational skills.
+
+* A strong interest in **data** (collection**,** contextualization, analysis) and **industrial operations** (how are processes working?)
+
+* First software development experience (**.NET (C#), Python**) and first familiarity with **cloud platforms** like **Azure or AWS**.
+
+**Why Join Orise?**
+-------------------
+
+You’ll work on diverse projects across industries like petrochemicals, specialty chemicals, and power generation. You’ll be at the forefront of IT/OT integration, helping businesses optimize processes through smart data solutions. If you love solving technical challenges, working with advanced data systems, and making an impact in industrial digitalization, this is the role for you!
+
+**Ready to shape the future of industrial data? Let’s talk!**

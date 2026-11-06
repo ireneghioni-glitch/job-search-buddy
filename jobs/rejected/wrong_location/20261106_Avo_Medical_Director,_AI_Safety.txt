@@ -1,0 +1,87 @@
+Title: Medical Director, AI Safety
+Company: Avo
+Location: nan
+URL: 
+Posted: 2026-10-14
+Site: glassdoor
+Search query: Materials Informatics
+----------------------------------------
+
+**About Avo**
+
+Avo is the leading AI platform for healthcare enterprises, helping clinicians make better decisions, move faster, and improve the quality of patient care. Serving as a central hub for care teams, Avo brings together patient data, clinical knowledge, and AI-powered workflows to support diagnosis, care planning, documentation, orders, and evidence-based decision-making at the point of care. Clinicians today navigate dozens of tabs, applications, datasets, hospital protocols, medical guidelines, and payer policies to deliver high-quality care. Avo changes that.
+
+We are product-obsessed, collaborative, and scrappy, united by a mission to improve healthcare delivery through AI. Our investors include Noro-Moseley Partners, AlleyCorp, Scrub Capital, and several leading hospitals and universities.
+
+**The Role**
+
+We are seeking a Medical Director, AI Safety that will own the safety of Avo's AI-generated clinical content. That means deciding what "safe enough to ship" means for a discharge summary, a pre-visit summary, or a decision-support module, building the tests that enforce it, and signing off before it reaches a clinician. You will design the grading rubrics, run the evaluations, classify failures by clinical severity, and turn the findings into changes the Studio and engineering teams make.
+
+Roughly 85% of your time goes to safety. The remaining 15% splits two ways: building clinical modules yourself in Avo's Studio, so your safety judgments are grounded in how the content is actually produced, and joining sales and customer conversations as the physician who can explain how we test and why a CMIO should trust the output.
+
+You report to the CMIO, with a dotted line to the Chief Commercial Officer.
+
+#### **What You'll Do**
+
+* *AI safety (core of the role)*
+
+  + Define the safety standard for each product line: what counts as a hallucination, an omission, or a clinically material error, and how severe each is
+  + Design and run evaluation protocols for clinical AI modules, including hallucination detection, omission analysis, and accuracy checks against source records and evidence-based guidelines
+  + Build and maintain a clinical harm taxonomy and grading rubric (NCC MERP-style severity scoring) and apply it across benchmark sets
+  + Review AI-generated clinical content directly, and grade the automated graders so we know when to trust them
+  + Own the release gate: write the go/no-go safety assessment for new modules and major prompt or model changes
+  + Investigate reported clinical errors from customers, trace root cause, and drive the fix through Studio and engineering
+  + Write the safety reports, validation summaries, and white papers that buyers and their clinical governance committees ask for
+  + Track the regulatory and standards landscape for clinical AI (FDA, ONC, CHAI, Joint Commission) and translate it into internal requirements
+
+  *Clinical builder (~5-10%)*
+
+  + Build or revise clinical modules in Avo's Studio, applying evidence-based guidelines and your own practice experience
+  + Feed what you learn from building back into the safety protocols, and vice versa
+
+  *Sales-forward clinician (~5-10%)*
+
+  + Join prospect calls and pilot evaluations as the physician who can speak to how Avo's content is validated
+  + Present the safety program to CMIOs, CIOs, and clinical quality leaders, and answer their hardest questions about failure modes
+  + Challenge the status quo in the room: name where legacy documentation and CDS workflows fail patients, and show how a tested AI alternative does better
+
+#### **What You Bring**
+
+* Active clinical license (MD/DO, NP, or PA) with hands-on patient care experience
+* 3-7 years of clinical practice; you can read a discharge summary and spot the missed anticoagulation plan in under a minute
+* Experience with or strong interest in clinical AI, CDS, or health informatics
+* A testing mindset: you like designing the rubric, arguing about edge cases, and finding the error nobody else caught
+* Ability to write a clear, defensible safety report for a clinical governance committee
+* Comfort presenting to C-suite clinical leaders and answering pointed questions about AI failure modes
+* Willingness to define the role's scope as the product and company grow
+
+* ***Travel:*** Some travel expected for customer meetings and demos, up to 10%
+
+#### **Nice to Have**
+
+* Experience with EHR systems (Epic, Meditech, Athena)
+* Background in clinical informatics, quality improvement, or patient safety
+* Prior experience in a sales engineering, solutions, or customer-facing clinical role
+* Familiarity with AI/LLM evaluation methodologies
+
+**Why Join Avo**
+
+**Impact:** Avo's products run inside hospitals, helping clinicians make better calls at the point of care. The work is real, and the mission is meaningful.
+
+**Ownership:** We have a bias for action; you'll work alongside teams who take initiative, follow through on commitments, and take accountability for results.
+
+**High Agency:** We move fast, trust our people, and avoid bureaucracy.
+
+**Great Team:** Work alongside a talented, low-ego group of clinicians, engineers, and product folks who care deeply about craft.
+
+**Remote-First:** Work from anywhere in the US. The company has offices in NYC, so if you're in the area we'd love the chance to work in-person together 2 days/week.
+
+  
+
+**How We Take Care of Our Team**
+
+* **Generous Time Off:** Flexible and generous PTO
+* **Comprehensive Health Plans:** Medical, dental, and vision coverage for you and your family
+* **401K Matching:** Contribution matching to help invest in your future
+* **Personal Device Allowance:** Tax-free funds for personal device usage
+* **Compensation and Equity:** $175,000 - $200,000 base salary, plus bonus and equity

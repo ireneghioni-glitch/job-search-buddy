@@ -1,0 +1,92 @@
+Title: PhD Position in AI Methods for Participatory Design of Smart, Energy-Flexible Buildings
+Company: UCLouvain
+Location: Louvain-la-Neuve, Belgium
+URL: https://www.glassdoor.com/job-listing/j?jl=1010301146370
+Posted: 2026-10-20
+Site: glassdoor
+Search query: AI for Materials
+----------------------------------------
+
+**Offer**
+---------
+
+**UCLouvain is hiring a** **PhD Position in AI Methods for Participatory Design of Smart, Energy-Flexible Buildings**
+
+  
+
+**Job Id : SF** **38934**
+  
+Internal and external job posting until the 30th of November 2026
+
+  
+
+**For institute** **Louvain research institute for Landscape, Architecture, Built environment** **of** **Science and Technology Sector**  
+**Main campus :** **Bruxelles (Saint-Gilles)**  
+**Fixed-term,** **full-time** **contract, for 2 years**  
+**Starting date : January 2027**
+
+**Introduction**
+----------------
+
+We seek a dedicated and highly motivated PhD student to join the Architecture and Climate group at the Louvain research institute for Landscape, Architecture, Built environment (LAB), UCLouvain, based at the Brussels Saint-Gilles campus. We study multi-energy flows in and around buildings and districts through integrated passive and active systems. Our work ranges from prototyping experimental cyber-physical building systems with a focus on occupant well-being, through the development of coupled simulation, optimization and artificial intelligence models, to participatory digital tools that put this work in the hands of planners and decision makers. Our objective is to advance the renewable energy transition, as well as material and energy circularity, by tackling the gaps and barriers that currently stand in the way of a future climate-proof, sustainable built environment.
+
+**The project**  
+  
+Buildings are evolving from passive energy consumers into grid-interactive “prosumers” that generate, store, share and flexibly shift energy. Their uptake, however, is held back by technical, economic and social barriers, and by a lack of decision support tools that give non-experts, such as building owners and occupants, access to expertise from engineering (grid operation and multi-energy systems) and economics (multi-period financial optimization) to make informed decisions. This PhD will develop and test an AI-assisted recommender system for the participatory design of smart, energy-flexible buildings and energy communities. It will combine physics-informed machine learning surrogate models for building performance with energy system planning and operation models (demand response, local energy sharing, dynamic tariffs and grid emissions), and Large Language Models that provide reliable design guidance by retrieving validated knowledge (Retrieval-Augmented Generation, RAG) and by directly calling the simulation and optimization models as tools (agentic workflows, e.g. via the Model Context Protocol, MCP). The framework will be applied to a Belgian energy community case study and evaluated in co-creation workshops with real stakeholders.
+
+The objective is to understand real-world behavioral barriers relevant to sustainable building renovation and smart energy technologies, and to develop a decision support framework that addresses these barriers by empowering the stakeholders most affected by them: occupants and homeowners.
+
+**Job description**
+-------------------
+
+* Review state-of-the-art ML-based surrogate models and AI recommender systems in building design
+* Develop and integrate physics-informed ML models and a multi-energy hub into a common simulation suite (e.g. a browser-based platform)
+
+* Design and prototype an LLM-based recommender system that combines RAG and agentic tool use (e.g. MCP) to query the simulation suite
+* Organise and run participatory workshops, and analyse the results with qualitative and statistical methods
+* Publish in international journals and present at conferences
+* Contribute to teaching activities
+
+**Required qualifications and skills**
+--------------------------------------
+
+* Master’s degree in energy engineering, electrical engineering, energy economics, computer science, civil/building engineering, or a related field
+
+* Strong interest in building energy, sustainable design and the energy transition
+* Programming experience (e.g. Python, Julia, or other); experience with machine learning is a strong asset
+* Familiarity with one or more of the following is a plus: building performance simulation; smart building technologies (e.g. heat pumps, PV, batteries, EV charging, home energy management systems); energy system modelling and optimization (e.g. linear/mixed-integer programming); power grids, demand response, flexibility markets or peer-to-peer energy trading; LLM frameworks (RAG, agents, tool use)
+* Interest in interdisciplinary and participatory work with non-expert stakeholders
+* Excellent command of English; French is an asset
+
+**We offer**
+------------
+
+* A fully funded 2-year PhD position through a FSR doctoral scholarship for an initial period of 24 months. Progress will be reviewed during the doctoral programme and follow-up funding for additional 24 months will be sought jointly by the candidate and supervisor through relevant funding schemes.
+
+* An interdisciplinary research environment at the intersection of architecture, energy and AI
+* A network of academic and practice partners in Belgium and abroad
+* Support for conference participation, training and research stays
+
+* Remuneration and social benefits follow the applicable UCLouvain rules for doctoral scholarship holders.
+
+**Application process**
+-----------------------
+
+Please submit ONLINE (submit option below) your application, containing the following documents :
+
+* Motivation letter (max. 1 page)
+
+* CV
+* Transcripts of records (Bachelor’s and Master’s)
+* Contact details of two referees
+* Relevant work sample (e.g. a code repository, a recent publication or an excerpt from your Master’s thesis)
+
+Incomplete applications or applications not following these instructions will not be considered.
+
+**For questions** (no applications), contact **Prof. Dr. Christoph Waibel at** christoph.waibel@uclouvain.be.
+
+**Please apply online only, until the 30th of November 2026**
+
+  
+
+Contact: Christoph Waibel - christoph.waibel@uclouvain.be

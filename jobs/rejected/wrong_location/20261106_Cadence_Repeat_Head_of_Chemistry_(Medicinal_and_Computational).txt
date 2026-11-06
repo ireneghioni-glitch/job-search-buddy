@@ -1,0 +1,95 @@
+Title: Head of Chemistry (Medicinal and Computational)
+Company: Cadence Repeat
+Location: Remote, USA
+URL: 
+Posted: 2026-10-17
+Site: indeed
+Search query: Scientific Data Scientist Chemistry
+----------------------------------------
+
+**Head of Chemistry (Medicinal and Computational)**
+
+**Location:** San Francisco Bay Area (Hybrid / Remote-Flexible)
+
+**Role Type:** Scientific Advisory (Phase 1) → Head of Chemistry (Phase 2)
+
+**About the Venture**
+
+We are a biotechnology startup based in the San Francisco Bay Area developing small molecules for treating aging-related diseases.
+
+Our founding team brings deep expertise in molecular biology, translational medicine, and early-stage company building. We are seeking a **Head of Chemistry** to serve as our founding team member.
+
+**Progression Structure**
+
+We are structuring this engagement in two phases:
+
+* **Phase 1 (Pre-Funding - Scientific Advisor):** Upon a successful mutual fit, we will onboard you immediately under an Advisor Agreement. In this phase, your commitment will be minimal (3-5 hours/month), focused on strategy reviews and high-level workflow alignment as we prepare for investor pitches. You will receive competitive equity for this role.
+* **Phase 2 (Post-Funding - Head of Chemistry):** Upon closing of our funding round, transition into a full-time compensated role (Head of Chemistry) with competitive base salary and equity stake.
+
+**Key Responsibilities**
+
+**1. In Silico Design**
+
+* Lead the Design-Make-Test-Analyze (DMTA) cycle, designing novel chemical matter with optimal potency, selectivity, and drug-like properties (ADMET/PK).
+* Formulate clear Structure-Activity Relationships (SAR) and Structure-Property Relationships (SPR) using structure-based and ligand-based drug design (SBDD/LBDD).
+* Implement advanced computational workflows to accelerate hit identification and lead optimization.
+
+**2. CRO Operations**
+
+* Architect and oversee an outsourced synthetic chemistry footprint across premier global CROs.
+* Direct multi-step organic synthesis.
+* Review raw analytical data (NMR, HRMS, LC-MS, ICP-MS) and troubleshoot synthetic bottlenecks.
+* Establish rigorous quality control standards.
+
+**3. Conjugate Architecture and Medicinal Chemistry Strategy**
+
+* Direct the Design-Make-Test-Analyze (DMTA) cycle for novel heterobifunctional conjugates.
+* Establish Structure-Activity Relationships (SAR) and Structure-Property Relationships (SPR).
+
+**4. IP and Commercial Leadership**
+
+* Partner with the CEO and patent counsel to evaluate and expand our Invention Disclosure Forms (IDFs), ensuring robust synthetic enablement, defensible Markush structures, and long-term Freedom to Operate (FTO).
+* Act as the chemical design authority in investor meetings, partnering discussions, and Scientific Advisory Board (SAB) presentations.
+
+**Required Qualifications (Must-Have)**
+
+* **Education:** Ph.D. in Synthetic Organic Chemistry, Medicinal Chemistry, or a closely related discipline.
+* **Domain Track Record:** 8+ years of biotech or pharmaceutical industry experience.
+* **CRO Management:** Proven track record of architecting, contracting, and driving synthetic chemistry CROs through challenging multi-step organic syntheses, route scouting, and compound delivery.
+* **Python proficiency:** Advanced Ability to build custom pipelines using Python.
+* **Practical experience running Molecular Dynamics (MD)** simulations (e.g., GROMACS, Desmond, AMBER, OpenMM) to evaluate target-ligand binding kinetics, cryptic pockets, conformational flexibility, or other relevant applications.
+* **IP Cleanliness:** Fully unencumbered by restrictive IP assignments, non-competes, or institutional conflicts of interest at the start of Phase 2 (paid role).
+
+**Preferred Qualifications**
+
+* Prior experience as a founder, consultant, or early scientific employee in a Seed- or Series A-stage biotech.
+* IP cleanliness unencumbered starting in Phase 1 (Advisory).
+* Experience working with heterobifunctional molecules.
+* Experience with Density Functional Theory (DFT) or quantum mechanical calculations.
+
+**How to Apply**
+
+Please submit your CV along with a **brief cover letter** (under 300 words) summarizing, at a minimum, the items below.
+
+* Your approach for sourcing and managing external CROs and their multi-step organic synthesis.
+* Affirmation of previous CRO management experience and Python proficiency.
+* Confirmation of your IP cleanliness / freedom to advise.
+
+Pay: $120,000.00 per year
+
+Application Question(s):
+
+* Will you now, or in the future, require sponsorship for employment visa status (e.g. H-1B visa status)?
+
+Education:
+
+* Doctorate (Required)
+
+Experience:
+
+* Medicinal Chemistry: 8 years (Required)
+* Computational Chemistry: 4 years (Required)
+* Biotechnology: 8 years (Required)
+* Python programming: 4 years (Required)
+
+Work Location: Remote

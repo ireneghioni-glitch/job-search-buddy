@@ -1,0 +1,70 @@
+Title: Scientist – Advanced Imaging and Analytics
+Company: J&J
+Location: Beerse, Belgium
+URL: https://www.glassdoor.com/job-listing/j?jl=1010290773956
+Posted: 2026-10-10
+Site: glassdoor
+Search query: AI for Materials
+----------------------------------------
+
+**Scientist – Advanced Imaging and Analytics**
+
+* **Location:** Beerse, Belgium
+* **Duration of the contract:** 30/09/2027 (with possible extension)
+* **Hours per week:** 32 - 40 | Contract: Fixed-term Employee or Freelancer / B2B
+
+Imagine your next project driving science-based advancements that save lives by uncovering the complex microstructure of the medicines of tomorrow.
+
+The scientist will join the Advanced Materials Characterization and Investigations (AMCI) group within Analytical Development. AMCI is an international and diverse team of scientists performing advanced analytical characterization of pharmaceutical products and leading global analytical investigations for the commercial product portfolio and for the Discovery, Product Development & Supply (DPDS) organization of J&J Innovative Medicine. You will work with data generated from a broad suite of imaging technologies, including X-ray Microscopy (XRM/XCT), MRI, Raman spectroscopy, Infrared (IR), Terahertz (THz) imaging, Scanning Electron Microscopy (SEM), and Optical Microscopy.
+
+**roles and responsibilities**
+
+Your role is to be the scientist who takes complex datasets and unlocks their full analytical potential — through rigorous post-processing, intelligent segmentation, 3D reconstruction, morphological quantification, and meaningful visualization.
+
+This will involve:
+
+* Lead post-processing and quantitative image analysis using Dragonfly or Avizo, including 3D reconstruction, segmentation, visualization, and feature extraction from complex, multi-modal imaging datasets
+* Develop and standardize reproducible image analysis workflows and pipelines that deliver consistent, high-quality analytical outputs
+* Interpret and communicate image analysis results with clear, data-driven insights that address product quality, microstructure, and performance questions
+* Support and participate in imaging experiments across XRM/XCT, MRI, Raman, IR, THz, SEM, and Optical Microscopy
+* Collaborate cross-functionally, presenting image analysis findings in team meetings and contributing to a culture of scientific innovation
+* Maintain analytical rigor in data handling, documentation, and reporting, ensuring compliance with laboratory and regulatory standards
+* Contribute to the development of new imaging and analysis strategies that advance the team's capabilities and scientific impact
+
+**how to succeed**
+
+Using Dragonfly or Avizo as your primary analytical environment, you will develop and refine image analysis workflows that answer critical questions about product quality, microstructure, performance, and failure mechanisms.
+
+You will also bring:
+
+* **Master's degree (MSc) or PhD in Biomedical Engineering, Pharmaceutical Sciences, Physics, Materials Science, or a closely related field**
+* **Strong, demonstrated proficiency and direct hands-on experience in post-processing image analysis using Dragonfly or Avizo**
+* **Hands-on experience with 3D segmentation, volume rendering, porosity analysis, morphological quantification, or multi-channel data visualization**
+* Demonstrated experience applying AI and machine learning models to image analysis tasks (e.g., U-Net, convolutional neural networks, noise reduction, automated feature detection)
+* **Experience with AI toolsets embedded within Dragonfly or Avizo, or equivalent platforms such as ilastik, napari, or Python-based pipelines (e.g., TensorFlow, PyTorch, scikit-image)**
+* Some prior exposure to imaging techniques (XRM/XCT, MRI, SEM, or similar) is an advantage
+* Solid understanding of data quality principles, scientific documentation, and analytical reporting
+* Strong analytical and problem-solving skills with meticulous attention to detail
+* Fluent in English (spoken and written)
+
+**benefits**
+
+This role offers a very competitive hourly rate. This contract will run for until 30/09/2027 with a possible extension.
+
+**you are welcome here**
+
+Johnson & Johnson is working to create an inclusive environment where diverse backgrounds, perspectives, and experiences are valued and each and every one of our people feels that they belong and can reach their potential. No matter who they are.
+
+**about johnson & johnson innovative medicine**
+
+Patients inform and inspire our science-based innovations, which continue to change and save lives. Applying rigorous science and compassion, we confidently address some of the most complex diseases of our time and unlock the potential medicines of tomorrow. Our diverse portfolio spans multiple therapeutic areas — Oncology, Immunology, Neuroscience, Cardiovascular, Pulmonary Hypertension, and Retina. We are continuously working to develop treatments, aspiring to find cures, pioneering the path from lab to life, and championing patients every step of the way.
+
+**application process**
+
+We are looking to process the first round of applications within the next 2 working days. We do not accept applications via email.
+
+**Diversity, Equity & Inclusion**
+
+For more than 130 years, diversity, equity & inclusion (DEI) have been part of our cultural fabric at Johnson & Johnson and woven into how we do business every day. Our commitment to respect the dignity and diversity of all is embedded in our Credo.
+
+We know that the success of our business depends on having the best talent in a workforce that reflects the diverse markets we serve around the world and an inclusive culture that values different perspectives and life experiences. That is why we are working to create an inclusive environment where diverse backgrounds, perspectives and experiences are valued and each one of our people feels that they belong and can reach their potential. No matter who they are. Diversity, Equity & Inclusion at Johnson & Johnson means “You Belong”.

@@ -1,0 +1,70 @@
+Title: Healthcare Data Analyst
+Company: NovumHealth
+Location: Remote, USA
+URL: 
+Posted: 2026-10-26
+Site: indeed
+Search query: Materials Informatics
+----------------------------------------
+
+**Healthcare Data Analyst**
+
+*Analytics Team*
+
+**Position Summary**
+
+The Healthcare Data Analyst supports recurring healthcare utilization, quality, access, financial, and operational analysis in partnership with senior analysts and cross-functional stakeholders. This role analyzes and interprets healthcare data and reporting related to claims, eligibility, encounters, service utilization, care patterns, population trends, and client or payer performance. Using Power BI, established reporting processes, and appropriate data-validation methods, the analyst identifies meaningful trends and drivers, evaluates performance, and communicates accurate, timely insights that inform operational planning, program evaluation, and healthcare decision-making.
+
+**Responsibilities**
+
+· Analyze recurring healthcare reports—including claims, eligibility, encounters, service utilization, access, volume, quality, and trend summaries—to identify meaningful patterns, variances, and emerging issues; validate results using established quality-control processes and communicate decision-ready insights.
+
+· Utilize Power BI dashboards and recurring reporting packages that track key utilization, access, quality, operational, population, and client performance metrics.
+
+· Root-cause analysis of changes in utilization patterns, service trends, member or patient activity, access indicators, population characteristics, and payer or client performance to identify meaningful changes and opportunities.
+
+· Fulfill well-scoped ad hoc analysis requests by extracting defined data sets, applying approved logic, and summarizing findings in a clear, organized, and decision-ready format.
+
+· Validate the consistency of claims, eligibility, encounter, utilization, quality, and operational results across internal systems, client files, payer reports, and dashboard outputs; investigate material discrepancies and document their impact on reported findings.
+
+· Partner with Clinical, Operations, Data Management, Population Health, Client Services, and other stakeholders to provide accurate, timely analytical support; perform other duties as assigned.
+
+**Qualifications**
+
+· 2–3 years of experience in healthcare data analysis, population health, managed care, health plan, provider, or related analytics.
+
+· Bachelor’s degree in healthcare administration, public health, health informatics, data analytics, statistics, or a related field required.
+
+· Proficiency in Excel required, including formulas, logical functions, lookups, pivot tables, and data validation.
+
+· Power BI user-level experience strongly preferred, including building new queries, calculated fields, and report development.
+
+· Ability to evaluate healthcare data for accuracy, identify outliers or inconsistencies, follow defined quality-control procedures, and ask thoughtful questions when results do not align with expectations.
+
+· Strong attention to detail, organization, follow-through, and ability to manage recurring reporting and analytical deadlines.
+
+· Clear written and verbal communication skills, including the ability to explain healthcare data, trends, methods, and issues to technical and non-technical audiences.
+
+· Working knowledge of healthcare claims, eligibility, encounters, utilization, quality measures, or managed care concepts, with an eagerness to deepen expertise in healthcare analytics.
+
+**Requirements**
+
+· Residence within the Continental United States
+
+· Must be legally authorized to work in the United States.
+
+Pay: $75,000.00 - $90,000.00 per year
+
+Benefits:
+
+* 401(k) matching
+* Dental insurance
+* Flexible spending account
+* Health insurance
+* Health savings account
+* Life insurance
+* Paid time off
+* Vision insurance
+* Work from home
+
+Work Location: Remote

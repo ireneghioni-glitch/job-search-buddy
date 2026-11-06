@@ -1,0 +1,58 @@
+Title: Head of Analytical Development, Pulmovant
+Company: Pulmovant
+Location: Remote, USA
+URL: 
+Posted: 2026-10-15
+Site: indeed
+Search query: Formulation Scientist
+----------------------------------------
+
+Pulmovant is a Roivant-backed clinical-stage biotechnology company committed to transforming the lives of patients with pulmonary diseases. Pulmovant’s first investigational candidate, mosliciguat, is designed to provide a novel, once-daily, inhaled treatment option for patients with pulmonary hypertension associated with interstitial lung disease (PH-ILD). Mosliciguat is a potential first-in-class soluble guanylate cyclase activator with a differentiated mechanism of action currently being evaluated in the Phase 3 PHrontier global clinical trial in PH-ILD, but with potential broad applicability across the PH and ILD disease landscape.
+
+Pulmovant recently announced positive results from its Phase 2 PHocus study evaluating mosliciguat for the treatment of pulmonary hypertension associated with interstitial lung disease (PH-ILD), a progressive and life-threatening condition with significant unmet medical needs for patients. PHocus met both primary and secondary endpoints including the highest ever reported pulmonary vascular resistance (PVR) reduction in any randomized controlled PH trial. The robust results, in conjunction with mosliciguat’s once-daily, inhaled administration and potential first-in-class sGC activator profile, strongly position it as a potential single agent treatment and combination therapy for patients with PH-ILD. These data represent a significant advancement in a devastating disease that affects ~200,000 patients with no or very limited treatment options. A Phase 3 trial is currently underway. More details can be found in the press release here.
+
+As part of the Roivant family of companies, Pulmovant leverages the power of collaboration and innovation to drive progress.
+
+  
+
+**About Roivant:**
+
+Roivant specializes in developing transformative medicines at an accelerated pace through the launch of nimble biopharmaceutical and health technology entities, each meticulously tailored to address a specific medical need. Since its inception in 2014, Roivant has achieved the following critical milestones in support of its vision: built over 20 Vants; 12 consecutive positive Phase 3 trials; 9 FDA approvals; 5 successful IPOs; >$6B in capital raised; >$10B in global pharma partnerships and proceeds; and continued pipeline expansion across various modalities and therapeutic areas through in-licensing and acquisition of novel product candidates and technology platforms. In addition to a robust clinical stage pipeline, Roivant also incubates discovery-stage companies and health technology startups complementary to its biopharmaceutical business.
+
+**Position:** Head of Analytical Development
+
+**Summary:**
+
+Pulmovant is seeking a highly skilled and experienced Head of Analytical Development to lead the analytical function. Reporting to the Executive Director, Pharmaceutical Development, the Head of Analytical Development will be accountable for the integrated analytical control strategy spanning the drug substance, the micronized active pharmaceutical ingredient (API), and the dry powder inhaler (DPI) drug product. This individual will lead the drug substance and drug product analytical teams and ensure that drug substance process and manufacturing changes are scientifically bridged to drug product performance and stability. The role will play a central role in NDA preparation, pre-approval inspection readiness, and the transition to commercial supply. We are seeking a leader with deep technical expertise in drug substance, solid-state, and particle characterization, combined with a strong understanding of inhaled drug product performance. The role involves close collaboration with drug substance process development, formulation, device, regulatory affairs, quality, and supply chain teams, as well as a multi-site network of contract development and manufacturing organizations (CDMOs).
+
+**Key****Duties and Responsibilities**
+
+* Lead the analytical development function across drug substance and drug product, including leadership, mentoring, and development of analytical team leads and scientists.
+* Own the integrated analytical control strategy from drug substance through drug product, including specifications and their justification, in alignment with relevant regulatory guidelines.
+* Provide hands-on technical leadership in solid-state and particle characterization of drug substance, and establish API specifications grounded in drug product performance.
+* Oversee drug product analytical activities for inhalation products, including aerodynamic particle size distribution by cascade impaction, delivered dose uniformity, content uniformity, impurities, moisture, and device-related performance testing, in collaboration with drug product development personnel.
+* Oversee method development, validation, transfer, and lifecycle management. Direct drug substance and drug product stability programs, across CDMOs and contract laboratories, ensuring consistent standards and data integrity across sites.
+* Serve as the analytical lead for regulatory submissions and inspections: author and review analytical sections of CTD Module 3, contribute to health authority meeting packages and responses, and lead analytical readiness for pre-approval inspections and CDMO audits.
+* Partner with the Quality team on analytical deviations, out-of-specification and out-of-trend investigations, and change controls, and on the transition of release and stability testing to commercial quality control.
+* Contribute technical due diligence to the selection and qualification of CDMOs and contract laboratories, and manage external partners, resources, and budgets to support analytical development activities.
+* Participate in cross-functional teams to align analytical strategies with overall program goals and timelines, including process validation (PPQ) and launch readiness; travel to CDMO and partner sites as required.
+
+**Education and Experience**
+
+* PhD or equivalent in Analytical Chemistry, Pharmaceutical Sciences, Physical or Materials Chemistry, or a related discipline, with 15+ years of pharmaceutical industry experience in analytical development. Candidates with an MS and significant additional relevant experience will be considered.
+* 8+ years of leadership experience in analytical chemistry, including leading an analytical function spanning drug substance and inhaled drug product, managing managers, and building and developing high-performing teams.
+
+**Essential****Skills and****Abilities**
+
+* Demonstrated experience leading analytical activities for a small molecule program through NDA/MAA submission and pre-approval inspection, including authoring CTD Module 3 analytical sections and engaging with health authorities; commercial product experience is strongly preferred.
+* Deep expertise in solid-state and particle characterization (e.g., XRPD, DSC/TGA, DVS, Raman/IR, SEM, laser diffraction, and amorphous content quantification), including experience with micronized APIs.
+* Experience with orally inhaled drug products, preferably carrier-based dry powder inhalers, including cascade impaction, delivered dose uniformity, and the relationship between API attributes and drug product performance.
+* Hands-on experience supporting drug substance process and site changes, including synthetic route changes, comparability assessments, impurity qualification.
+* Proven experience overseeing analytical work at multiple CDMOs and contract laboratories, with profound knowledge of current ICH, FDA, and EMA guidelines, including guidance for orally inhaled drug products, and cGMP requirements.
+* Strong strategic, communication, and collaboration skills, with the ability to align analytical strategy with development and regulatory goals, manage timelines and budgets, and resolve technical and interpersonal conflict constructively across internal and external teams.
+
+  
+
+Pulmovant provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+We will not accept unsolicited resumes or outreach from agencies. Please do not send agency resumes to our website or Roivant Sciences and affiliated employees.

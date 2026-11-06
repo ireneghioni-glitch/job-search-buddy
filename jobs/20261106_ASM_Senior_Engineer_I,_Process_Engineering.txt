@@ -1,0 +1,60 @@
+Title: Senior Engineer I, Process Engineering
+Company: ASM
+Location: Leuven, Belgium
+URL: https://www.glassdoor.com/job-listing/j?jl=1010288321657
+Posted: 2026-10-08
+Site: glassdoor
+Search query: PhD chemical engineering
+----------------------------------------
+
+**Step into a career with ASM, where cutting edge technology meets collaborative culture.**
+
+For over 55 years ASM has been ahead of what's next, at the forefront of innovation and what's technologically possible. With more than 4,500 ASMers representing 70 nationalities, our people and our advanced semiconductor devices are playing a crucial role in trends such as 5G, cloud computing, AI, and autonomous driving. But we're more than just a tech company. We value diversity, inclusion and sustainability as we strive to make a positive impact on the world. Our development programs help support your growth, shaping your future and pushing the boundaries of innovation to unleash potential.
+
+**We are offering you the opportunity to join our Process Application Development team in Leuven, Belgium as a Senior Process Engineer.**
+
+Our team develops new processes and applications in a vertical batch reactor for state-of-art integrated device flows. It is a chance to work in one of the most advanced scientific fields in the world and still seeing your inventions in tomorrow's products out in the market.
+
+**Responsibilities**
+
+* Works with semiconductor processing equipment to research, develop and optimize processes focused on oxidation, annealing, curing, and deposition (CVD, ALD) of thin films
+* Develops new applications of thin films and processes in the areas of logic, memory, analog, power and MEMS
+* Designs and conducts experiments, measurements and performs the interpretation of complex experimental output.
+* Documents and publishes the learnings in internal and external communications and defines new standard recipes (BKM).
+* Apply expertise process experience to drive and guide new hardware and software development.
+* Works with customers and product marketing to understand and define requirements to successfully execute projects and demonstrations
+* Translate development results into robust, repeatable customer-ready processes by addressing tool matching, variability, productivity, and manufacturability requirements.
+* Ensures successful product transfer to customer base by performing demonstrations, knowledge transfer, and traveling to support remote sites (up to 25% travel required)
+* Spend time at customer locations (international travel) to understand real production conditions, integration requirements, and operational challenges that influence successful process adoption.
+* Delivers creative solutions, creates inventions and develops intellectual property
+
+**Education**
+
+* PhD degree in physics, chemistry, chemical engineering or materials science, preferably with a thesis related to the semiconductor or adjacent industries
+
+**Experience**
+
+* Minimum 5 years experience with cure, oxidation, ALD, CVD and/or other thin film deposition techniques - MUST HAVE
+* Experience with ALD deposition of metal oxides or metal nitrides
+* Preferably have experience with ASM toolset
+* Experience with processing, developing and characterizing thin films
+* Understanding of physics of semiconductor devices
+* Experience with materials characterization techniques such as XPS, SIMS, RBS, AFM, XRR, XRD, TEM, SEM, and ellipsometry
+* Knowledge of electrical characterization techniques for CMOS devices
+
+**Skills**
+
+* Being able to understand semiconductor wafer processing equipment technology, advanced chemistries and the physics of semiconductor devices and materials
+* Ability to independently manage process development projects
+* Understanding of the interplay between hardware design and process outputs
+* Having a hands-on approach and flexible attitude
+* Enjoying solving problems and driving results
+* Excellent verbal and written communication skills in English, with the ability to clearly communicate advanced technical constructs in a direct and concise manner
+
+**Apply today to be part of what's next.**
+
+We make the tech that enables the chips in devices which improve lives around the world. We do this with an eye to the future, pushing the boundaries of what's possible through cutting-edge innovation, and driving the next wave of technological breakthroughs that shape how we live, work, and connect.
+
+To learn more about ASM, find us at asm.com and on LinkedIn, Facebook, Instagram, X and YouTube.
+
+*ASM is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, religion, age, nationality, social or ethnic origin, sexual orientation, gender, gender identify or expression, marital status, pregnancy, political affiliation, disability, genetic information, veteran status, or any other characteristic protected by law.*

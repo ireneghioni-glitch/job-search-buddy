@@ -1,0 +1,29 @@
+Title: Customs Data Analyst
+Company: DHL
+Location: Steenokkerzeel, Belgium
+URL: 
+Posted: 2026-11-06
+Site: glassdoor
+Search query: Data Scientist
+----------------------------------------
+
+Het analyseren van data binnen de Customs-applicaties met als doel het identificeren van compliance- en financiële risico's en het verbeteren van processen. Daarnaast ben je verantwoordelijk voor het opmaken van rapporten voor de verschillende teams binnen Customs en andere afdelingen.
+
+#### **Wat zijn je voornaamste taken?**
+
+* Verzamelen van data uit verschillende DHL-applicaties.
+* Controleren, interpreteren en analyseren van de verzamelde data.
+* Data omzetten in gestructureerde en op maat gemaakte rapporten.
+* Rapporteren van problemen of risico's in de data aan Customs Management en Supervisie.
+* Actief meedenken over oplossingen voor datagerelateerde problemen en verbeteringen van processen.
+
+#### **Wie ben jij?**
+
+* Je bent in het bezit van een bachelordiploma of gelijkwaardig door ervaring.
+* Je hebt reeds een basiskennis van douaneprocessen of bent gemotiveerd om deze kennis verder uit te bouwen.
+* Je hebt kennis van verschillende DHL-applicaties of leert vlot werken met nieuwe systemen.
+* Je bent communicatief sterk en kan boodschappen duidelijk, constructief en doelgericht overbrengen naar verschillende doelgroepen.
+* Je neemt initiatief, denkt kritisch en handelt oplossingsgericht.
+* Je hebt een goede kennis van zowel het Nederlands als het Engels, zowel mondeling als schriftelijk.
+* Je hebt een goede kennis van Microsoft Excel.
+* Ervaring met SQL en Power BI is een pluspunt.

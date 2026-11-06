@@ -1,0 +1,193 @@
+Title: Sr Business Process Analyst, National Center for Clinical Trials (NCCT)
+Company: Atrium Health
+Location: Remote, USA
+URL: 
+Posted: 2026-10-27
+Site: indeed
+Search query: Materials Informatics
+----------------------------------------
+
+**Department:**
+
+10000 NCCT (National Center for Clinical Trials) - Divisional Administrative Expense
+
+**Status:**
+
+Full time
+
+**Benefits Eligible:**
+
+Yes
+
+**Hou****rs Per Week:**
+
+40
+
+**Schedule Details/Additional Information:**
+
+fully remote; may require minor travel to corp office for user group meetings
+
+**Pay Range:**
+
+$41.10 - $61.65
+
+The Advocate Health National Center for Clinical Trials (NCCT) is setting a new benchmark for excellence and innovation in clinical trial solutions. Our goal is simple yet bold: We connect researchers to a broad population of patients and streamline the enrollment process, delivering more inclusive cohorts and more efficient clinical trials. And we make it easy for patients to engage in clinical trials in their own communities.
+
+  
+
+Grounded in experience and supported by the integrated research expertise of Wake Forest University School of Medicine, the Advocate Health National Center for Clinical Trials is a first-of-its-kind, fully integrated solution designed to make participation in clinical trials part of the standard of care for patients. Our technology ecosystem supports clinical trials across all stages of planning and execution, from recruitment and retention to management and virtual care, delivering efficient processes and high-quality results. Powered by the expertise of the school of medicine's research team and Advocate Health clinicians and accelerated by cutting-edge technology, we are uniquely positioned to make an impact.
+
+  
+
+**Job Description Summary:**
+
+The NCCT Business Process Analyst Sr plays a pivotal role in advancing the mission of the NCCT by translating strategic business objectives into detailed operational processes, requirements, and solution specifications that enable successful solution delivery. This individual reports to the Vice President and Head of Technology & Transformation and works closely with Product Management, Operations, Research, Informatics, Engineering, and other cross-functional stakeholders.
+
+  
+
+The NCCT Business Process Analyst Sr operates at the intersection of business process design, operational excellence, and solution delivery. This role is responsible for understanding current-state operations, defining future-state workflows, documenting requirements, and ensuring business needs are clearly translated into actionable solution designs. The NCCT Business Process Analyst Sr serves as a critical link between strategy and execution by ensuring that business objectives, process requirements, data needs, and system capabilities are fully understood, traceable, and aligned throughout the delivery lifecycle.
+
+  
+
+This role is not focused on product ownership. Instead, it:
+
+* Translates strategic vision into clear business processes, requirements, and solution specifications
+* Defines current-state and future-state workflows that enable technology-driven transformation
+* Works with stakeholders to identify business rules, process improvements, and operational efficiencies
+* Provides detailed requirements, workflow documentation, and acceptance criteria for delivery teams
+* Maintains end-to-end traceability from business need through implemented solution
+* Partners with technology, informatics, and operational teams to ensure successful implementation and adoption
+
+**Major Responsibilities:**
+
+**Business Process Analysis & Design**
+
+* Analyze current-state workflows, operational processes, and pain points across NCCT and research functions
+* Facilitate process discovery workshops and stakeholder interviews
+* Develop future-state process models that optimize operations through technology, automation, data, and AI
+* Document business processes using industry-standard methodologies and tools
+* Identify opportunities to improve efficiency, scalability, quality, and user experience
+* Ensure process designs align with organizational objectives and product strategy
+
+**Requirements Elicitation & Documentation**
+
+* Elicit, analyze, and document business, functional, non-functional, and operational requirements
+* Translate stakeholder needs into clear, actionable requirements for delivery teams
+* Develop user stories, business rules, process flows, use cases, and acceptance criteria
+* Establish Definition of Done and success criteria for delivered capabilities
+* Manage requirements throughout the solution lifecycle and support prioritization efforts
+
+**Workflow & Solution Design**
+
+* Create detailed workflow diagrams, decision trees, and operating models
+* Define business rules, exception handling, and process dependencies
+* Partner with Product Managers and technical teams to design technology-enabled solutions including proprietary and SaaS configured products
+* Validate that proposed solutions meet documented business needs
+* Support solution reviews and design discussions through a business process lens
+
+**Data & Integration Analysis**
+
+* Define business data requirements and process-related data flows
+* Document source-to-target mappings and integration requirements
+* Partner with informatics, engineering, and platform teams to ensure data accuracy and usability
+* Analyze impacts of data changes across systems and workflows
+* Support development of reporting, measurement, and process performance frameworks
+
+**Delivery Support & Validation**
+
+* Serve as a trusted advisor to engineering and delivery teams throughout implementation including vendors, as required
+* Clarify requirements, business rules, and process intent during solution development
+* Support user acceptance testing planning and execution
+* Validate delivered solutions against requirements and acceptance criteria
+* Ensure successful transition from design to operational adoption
+
+**Governance, Traceability & Continuous Improvement**
+
+* Maintain complete traceability between business objectives, requirements, process designs, and implemented solutions
+* Establish standards and best practices for process documentation and requirements management
+* Monitor operational outcomes and identify opportunities for continuous improvement
+* Support change management, training materials, and rollout documentation
+* Promote a culture of process excellence, standardization, and continuous optimization
+
+**Education Required:**
+
+* Bachelor’s degree in business, Healthcare Administration, Information Systems, Technology, Engineering, or related field
+* 7+ years of experience in business analysis, process improvement, operational transformation, or related disciplines
+
+**Work Experience Required:**
+
+  
+
+* Proven experience analyzing and redesigning complex business processes and workflows
+* Experience gathering and documenting functional and operational requirements
+* Strong knowledge of process modeling methodologies, workflow documentation, and business analysis techniques
+* Experience collaborating with cross-functional business and technical teams
+* Experience supporting agile, iterative, or hybrid delivery methodologies
+
+**Knowledge, Skills & Abilities Required:**
+
+  
+
+* Strong analytical, critical thinking, and problem-solving skills
+* Demonstrated ability to translate strategic objectives into detailed requirements and executable work
+* Excellent written communication skills with experience developing executive-ready documentation
+* Strong stakeholder engagement and facilitation skills
+* Ability to manage multiple initiatives in a fast-paced and evolving environment
+
+**Physical Requirements and Working Conditions**
+
+  
+
+* Office job
+
+**Preferred Job Requirements**
+
+**Preferred Education**
+
+* Master’s degree in finance, Business Administration, Healthcare Administration, Industrial Engineering, or a related field preferred.
+
+**Preferred Experience**
+
+* Experience within healthcare, clinical research, life sciences, or regulated industries
+* Experience supporting digital transformation and operational excellence initiatives
+* Experience creating process architecture, value stream maps, and workflow designs
+* Experience working in highly matrixed organizations
+* Experience supporting AI-enabled workflow transformation initiatives
+
+**Preferred Knowledge/Skills/Abilities**
+
+* Knowledge of healthcare data, integrations or interoperability
+* Familiarity with data mapping, API integrations, and system implementation projects
+* Lean, Six Sigma, or related process/business analysis certifications
+
+*This job description indicates the general nature and level of work expected of the incumbent. It is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities required of the incumbent. Incumbent may be required to perform other related duties.*
+
+#WFUSM
+
+**Our Commitment to You:**
+
+Advocate Health offers a comprehensive suite of Total Rewards: benefits and well-being programs, competitive compensation, generous retirement offerings, programs that invest in your career development and so much more – so you can live fully at and away from work, including:
+
+**Compensation**
+
+* Base compensation listed within the listed pay range based on factors such as qualifications, skills, relevant experience, and/or training
+* Premium pay such as shift, on call, and more based on a teammate's job
+* Incentive pay for select positions
+* Opportunity for annual increases based on performance
+
+**Benefits and more**
+
+* Paid Time Off programs
+* Health and welfare benefits such as medical, dental, vision, life, and Short- and Long-Term Disability
+* Flexible Spending Accounts for eligible health care and dependent care expenses
+* Family benefits such as adoption assistance and paid parental leave
+* Defined contribution retirement plans with employer match and other financial wellness programs
+* Educational Assistance Program
+
+Note: Eligibility for programs listed above may depend on your FTE or status (e.g., full-time, part-time, per diem, temporary, etc.); please ask a Recruiter for more information during an interview.
+
+**About Advocate Health**
+
+Advocate Health is the third-largest nonprofit, integrated health system in the United States, created from the combination of Advocate Aurora Health and Atrium Health. Providing care under the names Advocate Health Care in Illinois; Atrium Health in the Carolinas, Georgia and Alabama; and Aurora Health Care in Wisconsin, Advocate Health is a national leader in clinical innovation, health outcomes, consumer experience and value-based care. Headquartered in Charlotte, North Carolina, Advocate Health services nearly 6 million patients and is engaged in hundreds of clinical trials and research studies, with Wake Forest University School of Medicine serving as the academic core of the enterprise. It is nationally recognized for its expertise in cardiology, neurosciences, oncology, pediatrics and rehabilitation, as well as organ transplants, burn treatments and specialized musculoskeletal programs. Advocate Health employs 155,000 teammates across 69 hospitals and over 1,000 care locations, and offers one of the nation’s largest graduate medical education programs with over 2,000 residents and fellows across more than 200 programs. Committed to providing equitable care for all, Advocate Health provides more than $6 billion in annual community benefits.
+
+The Advocate Health National Center for Clinical Trials (NCCT) is setting a new benchmark for excellence and innovation in clinical trial solutions. Our goal is simple yet bold: We connect researchers to a broad population of patients and streamline the enrollment process, delivering more inclusive cohorts and more efficient clinical trials. And we make it easy for patients to engage in clinical trials in their own communities. Grounded in experience and supported by the integrated research expertise of Wake Forest University School of Medicine, the Advocate Health National Center for Clinical Trials is a first-of-its-kind, fully integrated solution designed to make participation in clinical trials part of the standard of care for patients. Our technology ecosystem supports clinical trials across all stages of planning and execution, from recruitment and retention to management and virtual care, delivering efficient processes and high-quality results. Powered by the expertise of the school of medicine's research team and Advocate Health clinicians and accelerated by cutting-edge technology, we are uniquely positioned to make an impact. The NCCT Business Process Analyst Sr plays a pivotal role in advancing the mission of the NCCT by translating strategic business objectives into detailed operational processes, requirements, and solution specifications that enable successful solution delivery. This individual reports to the Vice President and Head of Technology & Transformation and works closely with Product Management, Operations, Research, Informatics, Engineering, and other cross-functional stakeholders. The NCCT Business Process Analyst Sr operates at the intersection of business process design, operational excellence, and solution delivery. This role is responsible for understanding current-state operations, defining future-state workflows, documenting requirements, and ensuring business needs are clearly translated into actionable solution designs. The NCCT Business Process Analyst Sr serves as a critical link between strategy and execution by ensuring that business objectives, process requirements, data needs, and system capabilities are fully understood, traceable, and aligned throughout the delivery lifecycle. This role is not focused on product ownership. Instead, it: Translates strategic vision into clear business processes, requirements, and solution specifications Defines current-state and future-state workflows that enable technology-driven transformation Works with stakeholders to identify business rules, process improvements, and operational efficiencies Provides detailed requirements, workflow documentation, and acceptance criteria for delivery teams Maintains end-to-end traceability from business need through implemented solution Partners with technology, informatics, and operational teams to ensure successful implementation and adoption

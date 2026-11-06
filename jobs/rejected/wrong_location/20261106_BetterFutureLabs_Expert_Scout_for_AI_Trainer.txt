@@ -1,0 +1,91 @@
+Title: Expert Scout for AI Trainer
+Company: BetterFutureLabs
+Location: Remote, USA
+URL: 
+Posted: 2026-10-09
+Site: indeed
+Search query: AI for Materials
+----------------------------------------
+
+AI is changing fast, and companies need their employees to keep up. Many turn to universities for training. Universities do great work, but their instructors are often theorists rather than people who use these tools on the job every day.
+
+BetterFutureLabs built a training practice to solve that. Our programs are taught by Experts: people who work hands-on with AI every day and know how to teach it. They're part-time contractors we bring in program by program. We run some programs directly with companies, including Fortune 500 teams, and some with university partners.
+
+Finding the right Experts is a challenging part of every program, so we built an AI system to help. It searches our own network and online communities for signs that someone is a strong operator with real teaching experience.
+
+We're looking for a sharp, analytical person to work with that system: tune it for each program, vet the Experts it finds, and help us hire the best fit.
+
+**How it works**
+
+A typical program looks like this:
+
+* We win a program. You ingest everything we know about what the client needs: their documents, their goals and, later, the final course outline.
+* Our system suggests who to look for. It proposes 5-10 types of Experts who could teach the program. You review the suggested profiles and give feedback until they're right.
+* Our system finds candidates. It searches our network and online communities for strong operators who teach. You flag anyone who doesn't fit.
+* Our system writes the outreach. You launch it with an AI assistant in your browser, which sends the messages through LinkedIn and email. Then you paste the results back into our system so it can plan the next step.
+* You interview and recommend. You talk with the candidates who respond and appear to be a good fit, review their teaching samples, and recommend who we should hire.
+
+Our system handles most of the searching, so your time goes to the parts that need a person: shaping the profiles, talking with candidates and judging who can teach. If you source someone outside the system, that's great too.
+
+We've used this process to successfully staff a few programs already and the results have been very positive.
+
+**What you'll assess**
+
+Some trainings we provide are technical, some are business, most revolve around AI. Either way, the question is whether the potential expert can communicate clearly and compellingly. You'll judge:
+
+* Teaching quality. Do they know the material, and can they explain it well?
+* Communication style. Are they clear, engaging and easy to follow?
+* Professionalism. Are they ready to stand in front of a Fortune 500 team?
+
+You should be comfortable with technology, though you don't need to be a developer. If an Expert can make a hard topic clear to you, that's a good sign. We can use other tools to assess their technical knowledge.
+
+**What success looks like in 90 days**
+
+* You'll staff a full program on time, from course outline to signed contracts. A program usually requires 1-5 Experts with different areas of expertise and skills
+* The Experts you recommend get strong reviews from the client
+* The system finds better candidates because of your feedback
+
+**You'll thrive here if you**
+
+* Ask good questions and dig into the answers. We're open to a variety of backgrounds - for instance, journalists, researchers, history and English majors, and people from media are often great at this
+* Hold a high bar for professionalism and can spot it quickly
+* Write clearly and personally
+* Work comfortably with AI agents. Day to day you'll hand prompts between tools and check their work. No coding
+* Stay organized and keep client details confidential
+
+**This probably isn't for you if**
+
+* Judging professionalism isn't one of your strengths
+* You're not comfortable working in AI tools every day
+* You need set hours. Some days we'll need you to jump in for 10 hours, and some weeks will be quiet
+
+**Bonus**
+
+* Experience in edtech or corporate training
+* An analytical background that shows good judgment, like research, editorial, consulting or policy work
+
+**How the role grows**
+
+Right now the role is flexible and on demand. We're building the business, so the work comes in bursts: about 5-20 hours a week, and a busy week can be followed by a quiet couple of weeks.
+
+As we add programs, expect more hours and a steadier, more predictable schedule.
+
+**The details**
+
+* Remote, United States
+* Contract, about 5-20 hours a week to start
+* $40/hour
+* Start: ASAP
+* You'll work directly with our cofounders
+
+Pay: $40.00 per hour
+
+Expected hours: 5.0 – 20.0 per week
+
+Application Question(s):
+
+* Tell us about a time you had to decide whether someone was ready to represent your team in front of an important client or audience. What did you look for, and what did you decide?
+* Tell us about a time you had to figure out whether someone really knew their subject. What did you ask?
+* What's something you've done with AI tools - a project, an automation, something you vibe coded? What worked and what didn't?
+
+Work Location: Remote

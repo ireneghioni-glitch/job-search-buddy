@@ -1,0 +1,54 @@
+Title: Senior Scientist, Machine Learning Research
+Company: A-Alpha Bio
+Location: Seattle, WA, USA
+URL: 
+Posted: 2026-10-30
+Site: indeed
+Search query: Scientific Data Scientist Chemistry
+----------------------------------------
+
+A-Alpha Bio is an early-stage, rapidly growing biotechnology platform company headquartered in Seattle, WA. We are focused on building the foundational data layer for AI-driven protein engineering. We provide biopharma companies and model builders with access to ground truth experimental datasets, including affinity and structure, for training, benchmarking and validating AI protein models. In parallel, we apply our data and models directly with select partners to engineer next-generation dual-specific and molecular glue therapeutics, and to discover and optimize differentiated biologics.
+
+***A-Alpha Bio is headquartered in Seattle, WA, but remote applicants are welcome to apply. Candidates must reside in the United States.***
+
+**Starting Salary Range:** $164,000 - $206,000 annually
+
+**Exemption Status:** Exempt
+
+**Location Expectations**: Remote-Eligible (expected travel to Seattle HQ once per quarter)
+
+**Reporting To**: Director, Machine Learning Research
+
+**Role Description**
+
+A-Alpha Bio is seeking a Senior Scientist, Machine Learning Research to turn large-scale protein interaction data into insights and models that advance antibody and protein engineering. The role focuses on developing innovative AI/ML methods that learn from millions of protein-protein interaction data points to predict and engineer protein binding. The Senior Scientist will take a technical lead on challenging AI/ML projects within the ML Research team, including *de novo* design of antibodies or minibinders as well as models for affinity prediction and developability optimization. The Senior Scientist will work together with other ML Scientists to design and execute experiments (both *in silico* and *in vitro* with the help of wet-lab colleagues), support long-term AI/ML research initiatives, and communicate scientific results to the ML Research team and broader company, as well as to external collaborators and partners.
+
+**Key Responsibilities**
+
+* **Develop AI/ML methods.** Design and implement novel AI/ML approaches for the prediction and engineering of protein-protein interactions, drawing on experimental measurements, protein sequences, and structural information, and use these approaches to solve challenges in drug discovery and optimization.
+* **Evaluate rigorously.** Design benchmarks and evaluations that assess model performance, uncertainty, and generalization, using appropriate baselines and guarding against data leakage so that conclusions are scientifically defensible and reproducible.
+* **Deliver results.** Generate deliverables (such as data packages, model executables, and technical reports) to a level of quality suitable for use within the company and by external collaborators, in accordance with assigned timelines.
+* **Contribute code and data.** Expertly contribute to the shared company codebase and database, helping teammates understand judgements and decisions, authoring and reviewing merge requests, documenting methods, organizing data, and ensuring that new capabilities and data are effectively rolled out to the rest of the team.
+* **Advance our scientific capabilities.** Apply scientific discipline and critical thinking to propose and analyze experiments, stay current with emerging technologies and trends, and identify and develop innovative computational approaches that increase the value of AlphaSeq data for protein engineering.
+* **Lead, collaborate, and communicate.** Take a technical leadership role on assigned projects interfacing across departments, provide mentorship to colleagues, help write and publish technical blog articles or scientific papers, and represent A-Alpha Bio publicly at conferences and/or in scientific discussions with key collaborators.
+
+**Qualifications & Experience**
+
+Required
+
+* PhD in a quantitative or life sciences field (biology, chemistry, physics, computer science, etc.) with 4+ years of professional experience in software development and AI/ML, including 2+ years of hands-on experience with AI/ML using biological sequence and/or structure data; or Bachelor's degree in a quantitative or life sciences field with 12+ years of relevant experience, including 6+ years of professional experience in software development and AI/ML; or an equivalent combination of education and experience
+* Strong experience with deep learning, spanning modern software frameworks (PyTorch, JAX), model architectures and approaches (variational autoencoders [VAEs], transformers, graph neural networks [GNNs], diffusion, and flow matching), and common protein engineering tasks (protein language models, inverse folding, and protein structure prediction)
+* Strong proficiency with data science best practices, including wrangling and transforming data, model training, model selection, cross-validation, and deployment at scale
+* Excellent verbal and written communication skills, including the ability to explain methods, findings, and limitations to computational and experimental audiences, as well as to external collaborators and partners
+
+Preferred
+
+* Expertise with cloud computing, particularly Amazon Web Services (AWS)
+* Proficiency with best practices using large language models (LLMs) and agentic AI tools to assist in code generation and modeling
+* Experience analyzing large experimental datasets and making scientifically defensible decisions about data quality, statistical methods, and interpretation
+* Thorough understanding of concepts from biology, chemistry, and physics that govern molecular properties and interactions
+* Familiarity with the state of the art in antibody engineering, protein engineering, synthetic biology, or other high-throughput biology environments with particular emphasis on the relationship between sequence, structure, and function
+
+In 2018, A-Alpha Bio spun out of the University of Washington's Institute for Protein Design and Center for Synthetic Biology – both communities filled with brilliant and highly entrepreneurial scientists. Since the company's inception, we have built and scaled AlphaSeq, our high-throughput platform for quantitatively measuring protein-protein interactions at unprecedented scale. What began as a technology for generating large, standardized affinity datasets has grown into a broader data engine for AI-driven protein engineering. New members of the team should expect a fast-paced, highly dynamic, and interdisciplinary work environment. We are building a diverse, meritocratic, and supportive team that shares our values of speaking the truth, shooting for the moon, taking the reins, playing for the team, and improving the world.
+
+A-Alpha Bio is headquartered in a custom designed lab and office space in downtown Seattle's Belltown neighborhood. We are fortunate to be situated in a region that is renowned for its premier outdoor activities, including hiking, biking, climbing, skiing, kayaking, sailing, and more. At A-Alpha, you'll find many who love the outdoors, but also gamers, amateur chefs, explorers, sports fans, bakers, crafters, photographers, brewers, jetsetters, animal lovers, and artists. Whatever your passions, you belong at A-Alpha Bio!

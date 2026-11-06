@@ -1,0 +1,122 @@
+Title: Senior Data Analyst (m/f/d)
+Company: EIT RawMaterials
+Location: Brussels, Belgium
+URL: https://www.glassdoor.com/job-listing/j?jl=1010310593886
+Posted: 2026-10-30
+Site: glassdoor
+Search query: Materials Scientist
+----------------------------------------
+
+**Company Description**
+=======================
+
+**About EIT RawMaterials**
+
+As the world moves towards a greener future, the demand for raw materials—minerals and metals—is set to increase immensely over the next three decades. Europe faces a critical challenge in securing a stable supply of these essential resources. This challenge is where EIT RawMaterials steps in.
+
+EIT RawMaterials is at the forefront of driving innovation and sustainability in the raw materials sector. **As an Innovation Community within the European Institute of Innovation and Technology, we collaborate with over 300 partners across industry, academia, and research institutes.** Together, we forge dynamic, long-term partnerships to develop innovative solutions that meet Europe's growing demand for raw materials
+
+### **Position**
+
+**Role Overview**
+
+We are seeking an experienced and highly analytical **Senior Data Analyst (m/f/d)** to transform complex market and business data into actionable insights that drive strategic decision-making. The successful candidate will lead the design and delivery of advanced analytics solutions, develop impactful visualizations, and partner with stakeholders across the business to provide data-driven recommendations. This role combines deep analytical expertise, business acumen, and strong stakeholder management skills, with a particular focus on commodities, minerals, metals, and critical materials markets.
+
+**Tasks and Responsibilities**
+
+**1. Advanced Analytics, Reporting & Visualization**
+
+* Lead the design, development, and maintenance of interactive dashboards, reports, and analytical solutions using Power BI, Tableau, Qlik, Looker, or similar BI platforms.
+* Translate complex commodities market data into clear, compelling visual narratives that support executive and operational decision-making.
+* Define and maintain enterprise-wide reporting standards, visualization best practices, and dashboard design guidelines.
+* Develop scalable self-service BI solutions that empower business users to independently access and analyze data.
+* Continuously optimize reporting solutions, incorporating stakeholder feedback and evolving business requirements.
+* Drive adoption of analytics solutions through user engagement, training, and continuous improvement initiatives.
+
+**2. Data Analysis & Insight Generation**
+
+* Perform advanced exploratory and diagnostic analyses across commodity prices, market indices, supply-demand indicators, trade flows, and macroeconomic datasets.
+* Identify trends, patterns, correlations, risks, and market opportunities within raw materials, advanced materials, and critical minerals markets.
+* Develop meaningful KPIs, scorecards, and performance metrics to monitor market developments and business performance.
+* Deliver strategic ad hoc analyses to support leadership decisions, commercial initiatives, market intelligence activities, and corporate reporting.
+* Present analytical findings through concise reports, presentations, dashboards, and data storytelling techniques tailored to diverse audiences.
+* Provide evidence-based recommendations that support business growth, market positioning, and strategic planning.
+
+**3. Data Management, Modelling & Analytics Enablement**
+
+* Collaborate with data engineers, data scientists, and subject matter experts to ensure reliable, scalable, and efficient data pipelines.
+* Design and optimize data models, semantic layers, reporting datasets, and analytical frameworks supporting enterprise analytics.
+* Define and implement data quality standards, validation processes, and controls to ensure accuracy, consistency, and trust in analytics outputs.
+* Support the integration of new internal and external data sources, including APIs, market intelligence platforms, databases, and third-party feeds.
+* Document data definitions, transformation logic, business rules, and analytical methodologies to ensure transparency and knowledge sharing.
+* Identify opportunities to automate manual reporting processes and improve analytics efficiency.
+
+**4. Stakeholder Consulting & Business Partnership**
+
+* Act as a trusted analytics advisor to stakeholders across Strategy, Business Development, Procurement, Innovation, Finance, Market Intelligence, and Leadership teams.
+* Lead requirements gathering sessions and translate business needs into scalable analytical solutions.
+* Influence decision-making by providing objective analysis, insights, and recommendations grounded in data.
+* Present complex analytical concepts and findings to senior leadership and non-technical stakeholders in a clear and accessible manner.
+* Facilitate workshops, training sessions, and knowledge-sharing initiatives to increase data literacy across the organization.
+* Mentor junior analysts and contribute to developing analytical capabilities within the team.
+* Drive user adoption and engagement through regular feedback collection and enhancement of analytics products.
+
+**5. Governance, Innovation & Continuous Improvement**
+
+* Champion best practices in data visualization, data storytelling, analytics governance, and reporting standards.
+* Ensure compliance with data governance, security, privacy, and regulatory requirements.
+* Stay current with emerging technologies, methodologies, and market trends in business intelligence, analytics, and commodities markets.
+* Evaluate and pilot innovative analytical approaches, including advanced visualizations, predictive analytics, scenario modelling, and forecasting techniques.
+* Contribute to the long-term analytics roadmap and continuously improve the organization's data-driven decision-making capabilities.
+
+### **Qualifications & Experience**
+
+**Education**
+
+* Bachelor's or Master's degree in Computer Science, Data Science, Information Systems, Statistics, Economics, Engineering, Mathematics, or a related quantitative discipline.
+* Equivalent professional experience in analytics, business intelligence, or data visualization will also be considered.
+
+**Professional Experience**
+
+* **5+ years of experience** in Data Analytics, Business Intelligence, Market Intelligence, Commercial Analytics, or a related analytical role.
+* Experience working in consulting, professional services, market intelligence, research, commodities, resources, energy, mining, or related industries is highly desirable.
+* Strong experience analyzing commodity markets, pricing data, supply-demand dynamics, market indices, trading data, or risk-related datasets.
+* Experience within critical minerals, metals, advanced materials, raw materials, energy, or adjacent sectors is preferred.
+* Proven track record of delivering impactful business insights, advanced dashboards, and strategic analytical solutions.
+* Experience working directly with senior stakeholders and supporting executive decision-making.
+
+**Technical Skills**
+
+**Essential**
+
+* Advanced expertise in **Power BI** or equivalent visualization platforms.
+* Strong SQL skills with the ability to work across large and complex datasets.
+* Proficiency in **Python** (Pandas, NumPy, Plotly, Matplotlib, Seaborn) and/or **R**.
+* Strong understanding of data modelling concepts including star schema, semantic models, and KPI frameworks.
+* Experience working with databases, APIs, ETL/ELT processes, and cloud environments (Azure, AWS, or GCP).
+* Advanced Excel skills, including Power Query, Pivot Tables, data modelling, and complex formulas.
+* Strong knowledge of data quality management, validation techniques, and governance principles.
+
+**Nice to Have**
+
+* Time-series analysis, forecasting, and predictive modelling experience.
+* Experience with market data providers, commodity intelligence platforms, and financial data feeds.
+* Geospatial analytics and visualization expertise.
+* Familiarity with version control tools such as Git.
+* Knowledge of scenario modelling, risk analytics, and simulation techniques.
+* Exposure to machine learning applications supporting business and market analysis.
+
+**Other information**
+
+**Additional Information & Our Recruitment Process**
+
+* **Commitment to Diversity**: EIT RawMaterials is committed to diversity and inclusion. We encourage applications from all qualified individuals, regardless of background.
+* **Employment Type**: Temporary Position on a two-year contract with the possibility of extension.
+* **Position Location: Germany, Belgium**
+
+**The position will stay open until a successful candidate is chosen.**
+
+* **Application Review:** Our team thoroughly reviews each application. **Please make sure to submit your CV in English.**
+* **Initial Interview** (30 minutes): Meet with the hiring manager and recruitment team.
+* **Second Interview** (60 minutes): Second interview with a presentation on a relevant topic to the hiring manager and the HR team.
+* **Offer**: If successful, receive an offer to join our team.

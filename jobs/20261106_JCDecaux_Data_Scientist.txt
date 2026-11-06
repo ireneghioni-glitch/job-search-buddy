@@ -1,0 +1,51 @@
+Title: Data Scientist
+Company: JCDecaux
+Location: Brussels, Belgium
+URL: 
+Posted: 2026-11-03
+Site: glassdoor
+Search query: Data Scientist
+----------------------------------------
+
+**Prêt(e) à façonner le paysage urbain de demain ?**
+
+**Rejoignez JCDecaux, N°1 mondial de la communication extérieure !**
+
+Imaginez avoir un impact quotidien sur la vie de plus de 850 millions de personnes à travers le monde.
+
+Chez JCDecaux, c'est notre réalité !
+
+Depuis plus de 60 ans, nous réinventons les villes en concevant des solutions de communication innovantes et esthétiques, du mobilier urbain intelligent jusqu’aux écrans digitaux spectaculaires dans les aéroports.
+
+Présents dans plus de 80 pays avec une équipe de13.000 talents (dont 300 passionnés en Belgique et au Luxembourg), nous sommes à l'aube d'une nouvelle ère urbaine : plus intelligente, connectée et durable.
+
+Portés par nos valeurs "Stronger Together" et une stratégie climat ambitieuse, nous recherchons des esprits brillants et engagés pour innover avec nous.
+
+Choisir JCDecaux, c'est intégrer une entreprise solide, leader sur son marché, où la bienveillance, la formation continue et la fidélisation (10 ans d'ancienneté moyenne !) sont des réalités.
+
+**Description de fonction**
+
+* Analyser les mesures et traduire les résultats en actions concrètes et en axes d’amélioration. Modéliser les données lorsque cela est nécessaire et les préparer pour leur intégration dans nos outils, tels que notre système de planification et d’allocation.
+* Construire, calibrer et documenter nos modèles d’audience OOH (fréquentation par panneau et par heure, couverture et répétition, scoring de segmentation des audiences) sur la base de données de mobilité, de capteurs et de panneaux.  
+  Relier ces données à d’autres sources disponibles dans nos outils, telles que la météo, le trafic, les points d’intérêt, etc.
+* Analyser les jeux de données afin de définir et de contrôler les règles de qualité.  
+  Veiller à ce que les données restent fiables, faciles à maintenir et exploitables dans la durée.  
+  Documenter nos méthodologies afin de pouvoir les expliquer et les défendre auprès des agences, des annonceurs et des organismes de mesure.
+* Croiser les données d’audience et mesurer l’impact des campagnes : comparaison entre les groupes exposés et les groupes témoins, études de progression (lift studies), mesure des visites en magasin, etc.  
+  Adopter une approche fondée sur la protection des données dès la conception (privacy by design), conformément au RGPD et aux seuils d’agrégation.
+* À partir de données brutes, structurer et visualiser les informations sous forme de jeux de données et de graphiques facilement exploitables par l’ensemble des parties prenantes dans leur travail quotidien.
+* Être responsable du positionnement optimal, de l’analyse des données, de la gestion de l’inventaire et de la compréhension technique des capteurs Wi-Fi, afin d’assurer la collecte de données la plus efficace possible.
+* Collaborer avec les différents interlocuteurs internes et externes impliqués dans la collecte, l’analyse, la modélisation et l’utilisation des données.
+
+**Description du profil**
+
+* Vous êtes titulaire d’un bachelier ou d’un master en data science, informatique, statistiques, géomatique, physique, économie ou dans un domaine équivalent, ou vous disposez d’une expérience professionnelle équivalente.
+* Vous avez au moins 4 ans d’expérience professionnelle en tant que data scientist. Une expérience dans le secteur de l’OOH ou des médias constitue un atout, mais n’est pas indispensable.
+* Vous maîtrisez Python et SQL avancé, êtes à l’aise avec les entrepôts de données cloud tels que Snowflake ou BigQuery, les API et les pipelines de données, et utilisez Git.
+* Vous maîtrisez les applications Microsoft Office ainsi que les outils de visualisation de données tels que Power BI. Vous êtes capable de prendre rapidement en main de nouveaux logiciels.
+* Vous avez un réel intérêt pour les solutions d’intelligence artificielle appliquées aux données et êtes capable d’identifier les solutions permettant d’optimiser les processus et l’exploitation des données.
+* Vous combinez de solides compétences analytiques avec précision et efficacité, ainsi qu’une réelle curiosité pour les nouvelles avancées dans les domaines de la data et de l’intelligence artificielle.
+* Vous êtes organisé(e) et capable de naviguer efficacement entre différents outils et applications.
+* Vous êtes avant tout motivé(e) par une forte envie d’apprendre et par l’ambition d’évoluer au sein de l’organisation JCDecaux BeLux.
+* Vous maîtrisez parfaitement le français et le néerlandais, indispensables pour participer aux réunions, et vous avez une bonne connaissance de l’anglais, notamment pour préparer des présentations et communiquer avec les équipes internationales.
+* Vous rapporterez directement au/à la Head of Data & Insights.

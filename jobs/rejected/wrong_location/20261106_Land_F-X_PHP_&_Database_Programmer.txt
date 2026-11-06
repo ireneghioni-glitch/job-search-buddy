@@ -1,0 +1,99 @@
+Title: PHP & Database Programmer
+Company: Land F/X
+Location: San Luis Obispo, CA, USA
+URL: https://www.indeed.com/viewjob?jk=98da58787d80cbb9
+Posted: 2026-11-04
+Site: indeed
+Search query: AI for Materials
+----------------------------------------
+
+We are a software company looking for a skilled, organized, and detail-oriented PHP & Database Programmer to help develop, maintain, and improve our websites, Web-based applications, and internal systems. This position involves hands-on programming, including writing, testing, debugging, and maintaining code; developing new features; and troubleshooting technical issues. The ideal candidate has strong PHP development skills, enjoys solving technical problems, and can work independently while collaborating with other developers and departments.
+
+Our company develops and sells high-end professional design software – specifically, add-on programs for AutoCAD, SketchUp, and Revit – to landscape architects, irrigation designers, architects, and engineers. We started as a father-son duo working out of a garage and have grown into a company with more than 40 employees, providing best-in-class software to thousands of professionals in dozens of countries.
+
+Land F/X is a fully remote company, with employees working from home across multiple states. We’ve embraced remote work while continuing to develop excellent software, provide exceptional customer support, and maintain a collaborative team environment.
+
+**Applications will be accepted through December 1, 2026.** To ensure a fair and thorough review process, we ask for your patience as we carefully evaluate applications. Please understand that it may take some time before you hear from us regarding the status of your application.
+
+**Essential Duties/Functions:**
+
+* Develop, maintain, and improve the Company’s websites, Web-based applications, and internal systems using PHP, JavaScript, CSS, jQuery, MySQL, and other applicable technologies.
+* Write, test, debug, and maintain code in accordance with established Company standards and development practices.
+* Develop and maintain Web-based CAD dialog boxes and related functionality.
+* Develop and maintain the Company’s internal administrative systems (IAS), Customer Portal, CRM, and data entry systems.
+* Troubleshoot programming errors, database issues, and website or application performance problems.
+* Review existing code, implement updates and enhancements, and identify opportunities to improve functionality, performance, security, and reliability.
+* Collaborate with other developers and departments to understand project requirements, resolve technical issues, and implement appropriate solutions.
+* Manage assigned development tasks, meet established deadlines, and communicate progress, delays, or concerns to the Director of Web Development, Project Manager, Company executives, and other team members.
+* Provide reasonable estimates for assigned development work and identify potential technical challenges or dependencies.
+* Follow established coding standards, security requirements, source control procedures, and testing practices.
+* Research new technologies and development tools, including AI-based tools, and recommend improvements as appropriate.
+* Maintain technical documentation and appropriately document code changes and development work.
+* Assist with technical needs related to trade shows, conferences, marketing initiatives, and Company events as assigned, including occasional on-site work.
+* Perform other programming, website development, and related duties as assigned based on Company needs.
+
+  
+
+**Required Skills/Abilities:**
+
+* Strong proficiency in PHP, JavaScript, CSS, jQuery, MySQL, and Linux commands.
+* Strong knowledge of Git, source control, and standard development practices.
+* Strong understanding of front-end and back-end Web development, website architecture, and database-driven applications.
+* Experience with Web design, layout, and content management systems such as WordPress or Joomla.
+* Familiarity with appropriate IDEs, development tools, and debugging techniques.
+* Ability to write, review, troubleshoot, and maintain clean, efficient, and understandable code.
+* Understanding of website security, testing procedures, and development best practices.
+* Ability to identify technical issues, troubleshoot problems, and develop appropriate solutions.
+* Ability to effectively use AI-based development tools to assist with coding, troubleshooting, debugging, and improvement of development efficiency while ensuring accuracy and code quality.
+* Strong organizational, time-management, communication, and problem-solving skills.
+* Ability to work independently, collaborate with others, manage multiple assignments, and meet established deadlines.
+* Strong attention to detail, adaptability, and willingness to learn new technologies.
+
+  
+
+**Minimum Experience/Education:**
+
+* 3–5 years of professional PHP programming, website development, or related Web-application development experience.
+* Experience developing, maintaining, and troubleshooting PHP-based websites and database-driven applications.
+* Experience working with JavaScript, CSS, jQuery, MySQL, Linux environments, and Git.
+* Relevant educational background, degree, certificate, or equivalent practical experience preferred.
+
+  
+
+**Physical & Work Environment Requirements:**
+
+* Applicants must reside in and be legally authorized to work in the United States.
+* Remain in a stationary position for extended periods while working at a computer.
+* Operate a computer and standard office equipment, including repetitive hand movements (e.g., typing, using a mouse, etc.).
+* Read and interpret information from a computer screen for prolonged periods.
+* Communicate effectively (orally and in writing) using phone, email, messaging, and video conferencing tools.
+* Move within a workspace to access materials or equipment.
+* Rarely lift, carry, or move items weighing up to 50 pounds, including computer equipment or other work-related materials. Employees are encouraged to request assistance when needed.
+
+  
+
+**Benefits and Other Position Information:**
+
+* Position Type:Full-time
+* Starting Salary: $85,000 – $100,000 per year, depending on experience.
+* Along with a competitive salary, we offer a 401(k) plan; medical, dental, vision, and life insurance; paid vacation, sick leave, and holidays; and an annual bonus for qualifying full-time employees.
+* Land F/X employees also enjoy the flexibility of working from home and shorter workdays on Fridays.
+
+  
+
+**To Apply, Please Submit:**
+
+* Résumé.
+* Cover letter.
+* Desired rate of pay.
+* Earliest available start date.
+
+  
+
+**Disclaimer:**
+
+*This job description is intended to describe the general nature and level of work performed by employees assigned to this position. It is not intended to be an exhaustive list of all duties, responsibilities, qualifications, or working conditions associated with the position. Employees may be required to perform additional duties or responsibilities not specifically described herein, and the Company reserves the right to modify, assign, remove, or reassign duties and responsibilities at any time, with or without notice, consistent with business needs.*
+
+*The Company provides reasonable accommodations in accordance with applicable federal, state, and local laws, including the Americans with Disabilities Act (ADA) and the California Fair Employment and Housing Act (FEHA), to enable qualified individuals to perform the essential functions of the position.*
+
+*The FLSA classification identified for this position reflects the Company’s current understanding of the position’s status under applicable federal, state, and local wage and hour laws. The Company reserves the right to review and modify the*

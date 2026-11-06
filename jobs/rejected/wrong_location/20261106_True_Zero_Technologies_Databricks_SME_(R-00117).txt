@@ -1,0 +1,32 @@
+Title: Databricks SME (R-00117)
+Company: True Zero Technologies
+Location: Remote, USA
+URL: https://www.indeed.com/viewjob?jk=4a5b3bf8ea1bfa10
+Posted: 2026-10-22
+Site: indeed
+Search query: AI for Materials
+----------------------------------------
+
+True Zero Technologies, a veteran-owned small business, was founded on the principle that the purposeful enablement of people and technology in an organization directly ties to the quality of its outcomes. True Zero recognizes that those outcomes begin and end with our people, and that is what we have built a community of like-minded, driven, and passionate individuals and innovators who are aligned in a common goal of delivering top-tier services to our customers. Our culture and commitment have been recognized through numerous accolades, including being named one of the **Best Places to Work** in 2023 in two categories (“Prosperous and Thriving” ($5MM–$50MM in gross revenue) and “Mid-Atlantic Region” (DC, DE, MD, NC, VA, WV)), and again in 2025 as a **Best Places to Work** honoree. In addition, True Zero earned coveted spots on the **Inc. 5000** list of fastest-growing companies in America in **2022, 2023, and 2025**, a testament to our sustained growth driven by our people-first approach and unwavering dedication to excellence.
+
+### **Position Responsibilities**
+
+* Performance & Optimization: Optimize data pipelines, configure clusters, and implement best practices for cost and performance.
+* Governance & Security: Implement security protocols, such as Unity Catalog, IAM, and data access controls.
+* Technical Leadership: Act as a trusted advisor to engineering teams, mentor staff, and define technical roadmaps.
+* Collaboration: Work with data engineers and stakeholders to align technical solutions with business requirements.
+* Technical Expertise**:** Strong proficiency in Databricks, Apache Spark, Python/PySpark, and SQL.
+* Cloud Proficiency: Experience with cloud platforms, specifically AWS (S3, Glue) or Azure.
+* Data Modeling**:** Expertise in data modeling, data profiling, and ETL/ELT pipeline design
+* Architecture & Development**:** Design and implement scalable data pipelines, data models, and Lakehouse architectures.
+* Implement CI/CD pipelines, use tools like Azure DevOps or Git for version control, and automate routine tasks.
+* Integrate data from various cloud sources and services (AWS, Azure, GCP) such as Blob Storage, Data Lake Storage, and other databases.
+* Optimize Spark jobs & monitor system metrics to quickly troubleshoot issues related to the Databricks environment.
+
+### **Position Qualifications**
+
+* Requires 3-5 years of experience in data engineering, data warehousing, or data architecture roles.
+* US citizenship and ability to obtain and maintain a federal security clearance may be required
+* Bachelors degree is highly preferred
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

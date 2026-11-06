@@ -1,0 +1,102 @@
+Title: CX Knowledge Specialist
+Company: Harvey
+Location: nan
+URL: 
+Posted: 2026-10-24
+Site: glassdoor
+Search query: AI for Materials
+----------------------------------------
+
+**Location**
+------------
+
+Remote
+
+**Employment Type**
+-------------------
+
+Full time
+
+**Location Type**
+-----------------
+
+Remote
+
+**Department**
+--------------
+
+Customer Experience
+
+**Compensation**
+----------------
+
+* $88K – $132K • Offers Equity • Offers Bonus
+
+*Additionally, this role is eligible to participate in our equity plan and benefits program. Benefits include, but not limited to: Comprehensive health, dental and vision coverage, retirement benefits (401k match up to 4%), and flexible PTO.*
+
+  
+
+**Why Harvey**
+==============
+
+At Harvey, we’re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we’re reshaping how critical knowledge work gets done for decades to come.
+
+This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We’re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth — personal, professional, and financial — is unmatched.
+
+Our team moves fast, takes ownership, and is deeply committed to the mission — operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you.
+
+At Harvey, the future of professional services is being written today — and we’re just getting started.
+
+  
+
+**Role Overview**
+=================
+
+Harvey ships product every week, and every release changes what our customers, our support specialists, and our AI Support agent need to know. Today that knowledge lives across fragmented surfaces, and the gap between what's shipped and what's documented shows up directly in ticket volume, resolution time, and the quality of answers customers get.
+
+The CX Knowledge Specialist owns the source of truth: the articles, troubleshooting guides, and product knowledge that specialists and our AI Support agent answer from. You'll consolidate that knowledge into one well-structured foundation built for both people and AI, keep it accurate as the product moves, and use ticket, search, and agent data to decide what to fix next.
+
+You'll work alongside our Enablement Specialists, who turn that knowledge into training and get the team ready for each launch. This is a hands-on role for a strong writer and systems thinker who wants to build the knowledge layer an AI-first support organization runs on.
+
+  
+
+**What You’ll Do**
+==================
+
+* Audit today's fragmented content surfaces: inventory and tag what exists, flag what's duplicate or stale, and migrate it into one knowledge foundation.
+* Own the knowledge base: product support articles, troubleshooting guides, how-tos, and product best practices that specialists and the AI Support agent rely on.
+* Structure knowledge for both humans and AI. Apply taxonomy, metadata, and templates consistently, and write articles that retrieve and chunk cleanly for the AI Support agent as well as for specialists.
+* Keep knowledge current through every release. Track what Product ships, and update or create the affected articles before launch so they're ready for the Enablement Specialists' training and for the AI Support agent.
+* Close knowledge gaps at the source by owning the feedback loop. Triage reports of inaccurate, missing, or buried content from downstream teams, then update the source material.
+* Mine ticket signals, search logs, and agent escalations to find missing content, stale articles, and areas with high deflection potential, then prioritize fixes.
+* Build AI-assisted workflows for drafting, refreshing, and detecting stale content (prompts, automations, review queues) so knowledge scales without adding headcount.
+* Run review cycles, ownership assignments, versioning, and archiving so content stays accurate as the product changes weekly.
+* Serve as the day-to-day contact for SMEs in Product, Engineering, AI Support, and GTM Enablement to get content reviewed, validated, and adopted.
+
+**What You Have**
+=================
+
+* 5+ years of experience in knowledge management, support operations, technical writing, or content operations.
+* Hands-on experience with knowledge base platforms (Zendesk, Notion, or similar), including structuring, migrating, and maintaining content at scale.
+* Comfortable using LLMs in your daily workflow, and able to speak concretely to how you've used them to write, maintain, or improve content.
+* A systems thinker who likes structure, and a strong writer who can turn complex technical or legal-product details into clear, retrievable content.
+* Comfortable operating at Harvey's pace, where the product changes weekly and content needs to keep up without waiting for a perfect process.
+* Uses data (ticket trends, search behavior, QA findings) to decide what to write or fix next, rather than working from a static backlog.
+* Builds strong working relationships with cross-functional SMEs quickly, and can get content reviewed and adopted without direct authority.
+
+**Compensation**
+================
+
+$88,000 - $132,000 USD
+
+  
+
+### **Depending on your location, an Applicant Privacy Notice may apply to you. You can find all of our Applicant Privacy Notices** **here****.**
+
+#LI-CG1
+
+  
+
+*Harvey is an equal opportunity employer and does not discriminate on the basis of race, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information, veteran status, marital status, pregnancy or related condition, or any other basis protected by law.*
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made by emailing accommodations@harvey.ai

@@ -1,0 +1,66 @@
+Title: Data Scientist
+Company: Prophecy Labs
+Location: Brussels, Belgium
+URL: 
+Posted: 2026-11-04
+Site: glassdoor
+Search query: Data Scientist
+----------------------------------------
+
+Brussels
+
+Full time
+
+Posted on:
+
+July 14, 2022
+
+**Data Scientist**
+==================
+
+Apply to become a Data Scientist at Prophecy Labs!
+
+**Job Description**
+-------------------
+
+**The Job:**
+
+We are looking for a Data Scientist to join our team and work on a variety of interesting data projects and consulting missions. If you are passionate about Machine Learning and AI, this is the place for you.
+
+As a Data Scientist at Prophecy Labs, you will play a key role helping our clients in the process of generating value from data. You will not only be generating insights from data, but also making sure that the actions from those insights are timely, reliable and robust. Whether it’s investigating pricing models, market trends or classification tasks, you will work to solve real world problems for the industries transforming how we live.
+
+**What to expect at Prophecy Labs:**
+
+Prophecy Labs is a young startup founded by passionate Data Experts. Your team members will be experienced Data Scientists and Machine Learning Engineers from around the globe, each with a **critical mindset** and a **healthy dose of fun**. We value honesty, transparency, and open communication.
+
+Our offices are located in the center of **Brussels**, in the beautiful **Gare Maritime.** With our office,we strive to create the ideal breeding ground to nurture creativity and innovation. As a Consultant, you will occasionally be doing **on-site visits** at our clients. However, most of our work is done **remotely**.
+
+**The job requires:**
+
+* Masters degree or PhD in artificial intelligence, computer science, (applied) mathematics, statistics, statistics, bioinformatics, physics, engineering or any related field.
+* Proven experience in a field related to Data Science.
+* Solid proficiency in Python
+* Experience with working with both structured and unstructured data
+* Ability to turn business requirements into useful data science outcomes.
+* Experience with version control
+* You speak English fluently, a word of Dutch or French is a plus.
+* You approach problems with a pragmatic mindset
+
+**Nice to haves:**
+
+* You are excellent in Python, knowledge of R or Scala is a bonus.
+* You have experience with cloud technologies (e.g. GCP, Azure or AWS)
+
+Are you a bit overwhelmed by this list? Don't worry, we don't expect you to tick every box right from the start. Most of all we are looking for colleagues with the same passion for personal and team development as the rest of us.
+
+**What we offer you:**
+
+* An attractive compensation package with extralegal benefits (group and hospitalization insurance, mobility solutions, meal and eco vouchers) which we will keep competitive over time.
+* Challenging data and machine learning projects across industries
+* Excellent opportunities to develop, personally and professionally, and spread your wings within a young and flexible organization where diversity and inclusion are the standard.
+* Through our mentorship program you will have a dedicated mentor that will help you define your own growth path
+* A healthy work environment with a focus on well-being, connectivity, feedback, and open communication
+* Afterwork apero, lunch-time gym breaks, team lunches… When you want to let off some steam with the team, we’ve got you covered.
+* An individual budget for purchasing the hardware, tools and technology of your choosing. Your budget also allows you to invest in the latest training resources and certifications paths.
+
+Ready for a new adventure? Great! Apply now!

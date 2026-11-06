@@ -1,0 +1,107 @@
+Title: Executive Director, Digital Product Management -Research
+Company: Amgen
+Location: San Francisco, CA, USA
+URL: 
+Posted: 2026-10-24
+Site: glassdoor
+Search query: Materials Informatics
+----------------------------------------
+
+US - California - South San Francisco
+
+JOB ID: R-252246 LOCATION: US - California - South San Francisco ; US - California - Thousand Oaks WORK LOCATION TYPE: Remote DATE POSTED: Oct. 23, 2026 CATEGORY: Information Systems SALARY RANGE: -
+
+**Join Amgen’s Mission of Serving Patients**
+
+At Amgen, if you feel like you’re part of something bigger, it’s because you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do. Since 1980, we’ve helped pioneer the world of biotech in our fight against the world’s toughest diseases. Amgen is advancing a broad and deep pipeline and portfolio of medicines to treat heart disease, obesity and obesity-related conditions, rare diseases, inflammatory conditions, and cancer. As a member of the Amgen team, you’ll help make a lasting impact on the lives of patients as we research, manufacture, and deliver innovative medicines to help people live longer, fuller happier lives. Our award-winning culture is collaborative, innovative, and science based. If you have a passion for challenges and the opportunities that lay within them, you’ll thrive as part of the Amgen team. Join us and transform the lives of patients while transforming your career.
+
+**What you will do**
+
+Let’s do this. Let’s change the world. In this vital role, the Executive Director, Digital Product Management - Research will be the senior digital technology leader for Research. The Executive Director will translate Research strategy and portfolio priorities into a coherent technology, data and AI agenda that accelerates science, improves the quality and reuse of scientific data, and creates durable advantage in how Amgen discovers medicines. As a member of the Research Leadership Team, the Executive Director will help transform how science is done, and shape investment priorities to ensure that digital technologies are actively moving the portfolio forward from disease understanding and target selection through molecule design and synthesis, and translational safety. Success would include evidence of better scientific decisions and faster experimental learning.The Executive Director will own the technology environment for Research, including benchtop environment, electronic lab notebooks, scientific workflows, and the data products and platforms that connect Research disciplines. The successful candidate will lead a talented organization and serve as a trusted thought partner to scientific leaders, ensuring that Research teams have dependable, well-designed capabilities that enable better and faster science.
+
+  
+  
+
+**Responsibilities include:**
+
+* Research strategy, portfolio impact, and executive leadership
+* Set and continuously evolve the multi-year Research Technology, Data & AI strategy in partnership with Research, linking capability investments to the Research portfolio, scientific priorities, and measurable outcomes.
+* Serve on the Research Leadership Team as a strategic advisor and decision-maker; bring technology and data insight to portfolio choices, operating plans, capital decisions, and risk discussions.
+* Own portfolio prioritization and investment recommendations across the function, balancing scientific value, urgency, adoption, technical dependencies, risk, cost, and organizational capacity.
+* Establish clear outcomes, OKRs and value measures; use evidence to redirect investment, retire low-value solutions and scale what demonstrably advances the science.
+* Scientific technology, laboratory workflows, and data products
+* Own the technology foundation that enables Research scientists to do their best work: benchtop and instrument-adjacent technology, electronic lab notebooks, LIMS, and integrated scientific workflows.
+* Deliver reliable, scalable products that scientists want to use, improve workflows, and demonstrate measurable value.
+* Lead the modernization and integration of scientific data workflows from capture at source through analysis, reuse, and decision-making, with a strong emphasis on data quality, metadata, terminology, and fit-for-purpose governance.
+* Build a coherent portfolio of governed, reusable data products that connect experiments, observations, models, and knowledge across Research, making data discoverable, trustworthy, and ready for analytical reuse.
+* Advance digital capabilities across the Research portfolio, including disease understanding, target selection, small molecule discovery, large molecule discovery, DNA-encoded libraries, and antibody-drug conjugates, while enabling productive collaboration across scientific domains.
+* Ensure platforms and workflows are designed around scientist needs and continuously improve the end-to-end user experience.
+* Technology, data, and operating leadership
+* Lead and develop a high-performing organization spanning research informatics, laboratory and benchtop technology, digital products, and scientific data enablement.
+* Build strong partnerships with Research scientific leaders, the Technology and AI & Data organizations, and external collaborators; resolve cross-functional dependencies and material trade-offs.
+* Demonstrate robust technology investment discipline across platform rationalization, build-versus-buy decisions, and managing technical debt.
+* Set a high bar for product and delivery excellence: clear problem framing, scientist co-design, strong architecture, rigorous vendor management, reliable operations, adoption, lifecycle management, and realized value
+* Create a culture that combines scientific curiosity with accountability; one that moves quickly, learns from evidence, anticipates risk, and delivers dependable services to laboratories and research teams
+* Communicate strategy, investment decisions, performance, risks, and opportunities clearly to executive audiences, translating complex scientific and technical choices into decisive action
+  
+
+  
+
+**What we expect of you**
+
+We are all different, yet we all use our unique contributions to serve patients. The candidatewe seek is an experienced leader with the following qualifications. They will also embody the Amgen leadership attributes which are:
+
+  
+  
+
+* **Inspire:** Create a connected, inclusive, and inspiring work environment that empowers talent to thrive
+* **Accelerate:** Enable speed that matches the urgency of patient needs by encouraging progress over perfection
+* **Integrate:** Connect the dots to amplify the collective power of Amgen to drive results for patients, staff, and shareholders
+* **Adapt:** Lead through change by adapting to an ever-changing environment and defining a clear course of action to deliver results
+  
+
+  
+
+**Basic Qualifications:**
+
+* Doctorate degree & 6 years of technology experience OR
+* Master’s degree & 10 years of technology experience OR
+* Bachelor’s degree & 12 years of technology experience AND
+* 6 years of managerial experience directly managing people and/or leadership experience leading teams, projects, programs or directing the allocation of resources
+  
+
+  
+
+**Preferred Qualifications:**
+
+* 5+ years of progressive leadership experience, including direct leadership of senior leaders and/or responsibility for a substantial, multi-disciplinary organization
+* Experience leading technology, data, digital, informatics or computational capabilities in a research-intensive, life sciences environment
+* Scientific credibility that they can earn the trust of scientists and enable existing assumptions to be challenged
+* Understanding of drug discovery research lifecycle and builds credibility with scientists across relevant disciplines, such as small molecules, biologics, DELs, ADCs, disease biology, or translational science
+* Experience setting multi-year strategy in partnership with business functions and leading enterprise-scale changes across laboratory technology, scientific software, data platforms, scientific workflows, or research informatics
+* Experience in creating and scaling scientific data products, FAIR data practices, metadata and terminology capabilities, and integrated data-to-insight workflows
+* Technology and data judgment, with the ability to make informed decisions across cloud platforms, architecture, laboratory systems, data engineering, analytics, and vendor ecosystems
+* Ability to influence senior executives, lead through ambiguity, resolve consequential cross-functional trade-offs and create alignment without relying solely on formal authority
+* Executive communication and storytelling skills, with the ability to translate complex scientific, technical and investment choices into clear recommendations and action
+* Experience in biotechnology, pharmaceutical research or another highly regulated, technology-intensive environment strongly preferred
+  
+
+  
+
+**What you can expect of us**
+
+As we work to develop treatments that take care of others, we also work to care for your professional and personal growth and well-being. From our competitive benefits to our collaborative culture, we’ll support your journey every step of the way. The expected annual salary range for this role in the U.S. (excluding Puerto Rico) is $249,042 to $336,940. Actual salary will vary based on several factors including, but not limited to, relevant skills, experience, and qualifications. In addition to the base salary, Amgen offers a Total Rewards Plan, based on eligibility, comprising of health and welfare plans for staff and eligible dependents, financial plans with opportunities to save towards retirement or other goals, work/life balance, and career development opportunities that may include:
+
+  
+  
+
+* Comprehensive employee benefits package, including a Retirement and Savings Plan with generous company contributions, group medical, dental and vision coverage, life and disability insurance, and flexible spending accounts.
+* A discretionary annual bonus program, or for field sales representatives, a sales-based incentive plan
+* Stock-based long-term incentives
+* Award-winning time-off plans and bi-annual company-wide shutdowns
+* Flexible work models where possible. Refer to the Work Location Type in the job posting to see if this applies
+  
+
+  
+
+As an organization dedicated to improving the quality of life for people around the world, Amgen fosters an inclusive environment of ethical, committed and highly accomplished people who respect each other and live the Amgen values to continue advancing science to serve patients. Together, we compete in the fight against serious disease. Amgen is an Equal Opportunity employer. We make all employment decisions without regard to race, color, religion, sex or any other characteristic protected by applicable law. We provide reasonable accommodations to applicants and employees with disabilities, consistent with legal requirements. Please contact us to request accommodation. In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.Amgen does not have an application deadline for this position; we will continue accepting applications until we receive a sufficient number or select a candidate for the position. Sponsorship for this role is not guaranteed.

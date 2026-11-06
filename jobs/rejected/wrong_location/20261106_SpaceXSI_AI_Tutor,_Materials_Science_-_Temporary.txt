@@ -1,0 +1,64 @@
+Title: AI Tutor, Materials Science - Temporary
+Company: SpaceXSI
+Location: Remote, USA
+URL: 
+Posted: 2026-10-27
+Site: indeed
+Search query: AI for Materials
+----------------------------------------
+
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.  
+  
+SpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are building the full Super Intelligence stack: from our Colossus supercomputers, to Grok models, to our suite of applications, including Grok Bot, Grok Build, Grok Imagine, Grok Voice, and X. We're creating a powerful flywheel where more compute trains better models, better models power more useful products, and what we learn from people using those products shapes what we build next.
+
+#### **AI TUTOR, MATERIALS SCIENCE - TEMPORARY**
+
+In this role, you will help enhance Grok by providing high-quality data annotations, labels, and inputs focused on materials science. You will draw on your expertise in areas such as energy materials, semiconductors, nanomaterials, metals and alloys, biomaterials, polymers, ceramics, and glasses to evaluate model outputs, identify errors in structure-property reasoning or processing assumptions, and produce clear, rigorous analyses and explanations. Your work will help train Grok to distinguish flawed or inadequately justified materials science analyses from those that are scientifically accurate, well-grounded, and practically insightful.
+
+#### **RESPONSIBILITIES:**
+
+* Use proprietary software applications to annotate and label data for designated projects
+* Support the delivery of high-quality, accurate, and well-curated datasets that meet project standards
+* Collaborate with technical teams to develop and train new tasks, contributing to the successful implementation of innovative technologies and initiatives
+* Work closely with technical staff to improve the design, functionality, and efficiency of annotation tools and workflows
+* Advance materials science research by guiding AI models in solving complex scientific problems and supporting scientific discovery and practical applications
+* Select and solve problems across various subfields of materials science aligned with your expertise, providing detailed solutions and critically evaluating AI-generated responses
+* Interpret, analyze, and execute tasks accurately in accordance with established guidelines and project requirements
+
+#### **POSITION DETAILS:**
+
+This is a **temporary** position with SpaceXSI, for the length of time as stated, and is subject to change with minimal notice as business needs dictate
+
+* LENGTH OF POSITION: 6 months (extensions or conversion to a permanent role may be available based on business needs)
+* LOCATION: Remote (United States, United Kingdom, Canada, Australia, and India); for US-based candidates, please note that we are unable to hire in Wyoming and Illinois at this time
+
+#### **BASIC QUALIFICATIONS:**
+
+* Master's or Ph.D. in materials science, physics, chemistry, chemical engineering, or scientific discipline
+* English proficiency at CEFR C1 level or higher
+
+#### **PREFERRED SKILLS AND EXPERIENCE:**
+
+* Specialized expertise in one or more subfields of materials science, including but not limited to energy materials, semiconductors, nanomaterials, metals and alloys, biomaterials, polymers, elastomers, ceramics, glasses, or other interdisciplinary materials-related fields
+* Advanced expertise in materials science demonstrated through multiple publications in reputable, peer-reviewed journals or relevant patents, preferably including one or more first-author publications
+* Strong research skills and the ability to navigate scientific literature, specialized databases, and online information resources
+* Excellent communication, interpersonal, analytical, and organizational skills
+* Strong reading comprehension and critical-thinking skills, with the ability to exercise sound independent judgment when working with limited information
+* A strong interest in technological advancement, scientific progress, and innovation
+* Previous experience in AI tutoring, AI model evaluation, or related applications of artificial intelligence
+* Teaching or tutoring experience in academic or professional settings
+* Experience in technical writing, science journalism, scientific communication, or other professional writing roles
+
+#### **ADDITIONAL REQUIREMENTS:**
+
+* This role may be offered as a full-time or part-time position depending on role/business needs and candidate availability; full-time positions are preferred and require working standard business hours in your local time zone
+* We are unable to provide visa sponsorship
+* Must be willing to travel to a SpaceXSI site
+
+#### **COMPENSATION AND BENEFITS:**
+
+US-based candidates: $45/hour - $75/hour depending on factors including relevant experience, skills, education, geographic location, and qualifications. International candidates: Information will be provided to you during the recruitment process.
+
+Benefits vary based on employment type, location, and jurisdiction. Benefits for eligible US-based positions include health insurance, 401(k) plan, and paid sick leave. Specific details and role-specific information will be provided to you during the interview process.
+
+*SpaceXSI is an equal opportunity employer. For details on data processing, view our* *Recruitment Privacy Notice**.*

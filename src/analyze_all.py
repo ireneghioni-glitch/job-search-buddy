@@ -26,14 +26,17 @@ Usage:
     python src/analyze_all.py --extra-files 03_education_skills.md 04_projects.md
 """
 
+import shutil
 import argparse
 import json
 import re
 from datetime import datetime
 from pathlib import Path
+from datetime import datetime, timedelta
 
 from ollama_client import generate
 from profile_loader import load_profile
+from keyword_score import score_text as kw_score_text
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 JOBS_DIR = ROOT_DIR / "jobs"
@@ -147,9 +150,9 @@ def _score_to_rec(score: int) -> str:
         return "SKIP"
     if score < 50:
         return "WEAK FIT"
-    if score < 75:                          # era 65
+    if score < 75:
         return "WORTH APPLYING WITH TAILORING"
-    if score < 90:                          # era 80
+    if score < 90:
         return "GOOD FIT"
     return "STRONG FIT"
 
@@ -157,12 +160,6 @@ def _score_to_rec(score: int) -> str:
 def prefilter_job(job_text: str, job_title: str) -> tuple:
     """
     Heuristic pre-filter for obvious mismatches.
-
-    Returns:
-        (skip, max_score, reasons)
-        - skip (bool): if True, the LLM should not be called at all.
-        - max_score (int): cap to apply to the LLM's score (0-100).
-        - reasons (list[str]): human-readable reasons for the cap/skip.
     """
     reasons = []
     max_score = 100
@@ -234,7 +231,6 @@ def prefilter_job(job_text: str, job_title: str) -> tuple:
 
     # --- 5. Languages ---
     language_rules = [
-    # Dutch requirements — many phrasings
     (["vloeiend nederlands", "fluent dutch", "native dutch",
         "nederlands als moedertaal", "uitgebreide kennis van nederlands",
         "goede kennis van het nederlands", "kennis van het nederlands",
@@ -242,14 +238,12 @@ def prefilter_job(job_text: str, job_title: str) -> tuple:
         "dutch (native", "dutch and french", "dutch or french",
         "nederlandstalig", "nederlandstalige"],
         25, "Requires Dutch (candidate has A1)"),
-    # French requirements
     (["vloeiend frans", "fluent french", "native french", "français courant",
         "maîtrise du français", "excellent niveau en français",
         "connaissance du français", "français et néerlandais",
         "français ou néerlandais", "french (native",
         "french and dutch", "french or dutch", "francophone"],
         30, "Requires French (not in candidate profile)"),
-    # German
     (["vloeiend duits", "fluent german", "deutschkenntnisse",
         "german (native", "sehr gute deutschkenntnisse"],
         35, "Requires German"),
@@ -292,22 +286,18 @@ def prefilter_job(job_text: str, job_title: str) -> tuple:
         max_score = min(max_score, 30)
         reasons.append("Finance/banking/insurance domain without chemistry link")
 
-    # --- 8. PhD / doctoral positions: accept if in target domain, reject otherwise ---
+    # --- 8. PhD / doctoral positions ---
     phd_markers = ["phd position", "phd researcher", "phd vacancy",
                    "phd student", "doctoral position", "doctoral researcher",
                    "doctoraat", "promotion", "thèse de doctorat"]
-    
-    # Domains where a PhD is a great fit for the candidate
     phd_target_domains = [
         "materials science", "materials informatics", "computational chemistry",
         "cheminformatics", "chemical engineering", "process systems engineering",
         "formulation", "polymer", "catalysis", "rheology",
         "machine learning for chemistry", "ai for science", "data-driven chemistry"
     ]
-    
     is_phd = any(m in title_lower or m in text_lower[:500] for m in phd_markers)
     if is_phd:
-        # Check if it's in a target domain
         in_target_domain = any(d in text_lower for d in phd_target_domains)
         if not in_target_domain:
             max_score = min(max_score, 20)
@@ -324,7 +314,6 @@ def prefilter_job(job_text: str, job_title: str) -> tuple:
 # ---------------------------------------------------------------------------
 
 def parse_job_header(text: str) -> dict:
-    """Extract Title/Company/URL/Location from the header of a saved job file."""
     meta = {}
     labels = {"Title:": "title", "Company:": "company",
               "URL:": "url", "Location:": "location"}
@@ -336,7 +325,6 @@ def parse_job_header(text: str) -> dict:
 
 
 def parse_quick_response(text: str) -> dict:
-    """Parse SCORE / RECOMMENDATION / REASON lines from the quick-mode output."""
     score, rec, reason = None, None, ""
     m = re.search(r"SCORE:\s*(\d+)", text)
     if m:
@@ -351,11 +339,21 @@ def parse_quick_response(text: str) -> dict:
 
 
 def parse_full_response(text: str) -> dict:
-    """Parse fit score and recommendation from the full-mode output."""
     score, rec = None, None
-    m = re.search(r"##\s*Fit score\s*\n+\s*(\d+)", text)
-    if m:
-        score = int(m.group(1))
+    patterns = [
+        r"##\s*Fit score\s*\n+\s*(\d+)",
+        r"Fit score[:\s]+(\d+)",
+        r"score[:\s]+(\d+)",
+        r"\b(\d{1,3})\s*/\s*100",
+        r"\b(\d{1,3})\s*%",
+    ]
+    for pat in patterns:
+        m = re.search(pat, text, re.IGNORECASE)
+        if m:
+            val = int(m.group(1))
+            if 0 <= val <= 100:
+                score = val
+                break
     m = re.search(r"##\s*Recommendation\s*\n+\s*([A-Z ]+)", text)
     if m:
         rec = m.group(1).strip().upper()
@@ -368,18 +366,6 @@ def parse_full_response(text: str) -> dict:
 
 def analyze_one(job_path: Path, profile: str, quick: bool,
                 extra_files: list = None, strict: bool = False) -> dict:
-    """Analyze a single job file and write its report + metadata file.
-
-    Args:
-        job_path: Path to the job posting .txt file.
-        profile: The candidate profile text (already loaded).
-        quick: If True, use the quick triage prompt.
-        extra_files: List of extra profile filenames that were included in
-            the profile (for traceability in the metadata).
-        strict: If True, run the heuristic pre-filter. Jobs with obvious
-            mismatches (senior title, 5+ years, wrong degree, etc.) are either
-            skipped entirely or have their score capped.
-    """
     job_text = job_path.read_text(encoding="utf-8")
     header = parse_job_header(job_text)
     job_title = header.get("title", "")
@@ -395,7 +381,6 @@ def analyze_one(job_path: Path, profile: str, quick: bool,
             "reasons": reasons,
         }
 
-    # --- Branch A: pre-filter decided to skip entirely ---
     if strict and prefilter_info["skip"]:
         response = (
             "[PREFILTERED] This job was skipped without an LLM call due to "
@@ -408,7 +393,6 @@ def analyze_one(job_path: Path, profile: str, quick: bool,
             "reason": "; ".join(prefilter_info["reasons"]),
         }
     else:
-        # --- Branch B: normal LLM path ---
         if quick:
             prompt = USER_TEMPLATE_QUICK.format(profile=profile, job=job_text)
             system = SYSTEM_PROMPT_QUICK
@@ -419,11 +403,9 @@ def analyze_one(job_path: Path, profile: str, quick: bool,
         response = generate(MODEL, prompt, system=system, num_ctx=8192)
         parsed = parse_quick_response(response) if quick else parse_full_response(response)
         
-        # Recompute the label from the score — the LLM's label is often inconsistent
         if parsed.get("score") is not None:
             parsed["recommendation"] = _score_to_rec(parsed["score"])
 
-        # Apply the cap if strict mode set one
         if prefilter_info["cap"] is not None:
             current_score = parsed.get("score")
             if current_score is not None and current_score > prefilter_info["cap"]:
@@ -468,7 +450,6 @@ def analyze_one(job_path: Path, profile: str, quick: bool,
 
 
 def should_skip(meta_path: Path, current_mode: str, strict: bool) -> bool:
-    """True if this job was already analyzed in the same mode and strict setting."""
     if not meta_path.exists():
         return False
     try:
@@ -477,7 +458,6 @@ def should_skip(meta_path: Path, current_mode: str, strict: bool) -> bool:
         return False
     if meta.get("mode") != current_mode:
         return False
-    # In strict mode, re-analyze jobs that were previously analyzed without strict
     if strict and not meta.get("strict", False):
         return False
     return True
@@ -488,7 +468,6 @@ def should_skip(meta_path: Path, current_mode: str, strict: bool) -> bool:
 # ---------------------------------------------------------------------------
 
 def build_summary() -> Path:
-    """Read all *.meta.json and produce a single ranked summary report."""
     metas = []
     for p in sorted(OUTPUTS_DIR.glob("*.meta.json")):
         try:
@@ -504,12 +483,13 @@ def build_summary() -> Path:
         f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M')}",
         f"Total jobs analyzed: {len(metas)}",
         "",
-        "| Score | Rec | Company | Title | Prefilter | File |",
-        "|------:|-----|---------|-------|-----------|------|",
+        "| Score | KW | Rec | Company | Title | Prefilter | File |",
+        "|------:|---:|-----|---------|-------|-----------|------|",
     ]
     for m in metas:
         score = m.get("score")
         score_s = str(score) if score is not None else "?"
+        kw_s = str(m.get("keyword_score", "-"))
         rec = (m.get("recommendation") or "N/A")
         company = (m.get("company") or "N/A").replace("|", "-")
         title = (m.get("title") or "N/A").replace("|", "-")
@@ -523,7 +503,7 @@ def build_summary() -> Path:
         else:
             pre_s = "-"
         fname = m.get("job_file", "N/A")
-        lines.append(f"| {score_s} | {rec} | {company} | {title} | {pre_s} | `{fname}` |")
+        lines.append(f"| {score_s} | {kw_s} | {rec} | {company} | {title} | {pre_s} | `{fname}` |")
 
     lines += [
         "",
@@ -547,6 +527,37 @@ def build_summary() -> Path:
     out.write_text("\n".join(lines), encoding="utf-8")
     return out
 
+def cleanup_old_jobs(days: int = 30):
+    """Move older jobs (of X days) in the 'archive' directories."""
+    cutoff = datetime.now() - timedelta(days=days)
+    jobs_archived = 0
+    
+    # Crea le cartelle di archivio
+    (JOBS_DIR / "archive").mkdir(parents=True, exist_ok=True)
+    (OUTPUTS_DIR / "archive").mkdir(parents=True, exist_ok=True)
+
+    for job_path in JOBS_DIR.glob("*.txt"):
+        # Estrai la data dal nome del file (formato: YYYYMMDD_Azienda_Titolo.txt)
+        date_str = job_path.name[:8]
+        try:
+            job_date = datetime.strptime(date_str, "%Y%m%d")
+        except ValueError:
+            continue  # Salta i file che non iniziano con una data valida
+        
+        if job_date < cutoff:
+            # Sposta l'annuncio in jobs/archive
+            shutil.move(str(job_path), str(JOBS_DIR / "archive" / job_path.name))
+            jobs_archived += 1
+            
+            # Sposta anche i suoi file di analisi in outputs/archive
+            stem = job_path.stem
+            for ext in [".md", ".meta.json"]:
+                out_file = OUTPUTS_DIR / f"{stem}{ext}"
+                if out_file.exists():
+                    shutil.move(str(out_file), str(OUTPUTS_DIR / "archive" / out_file.name))
+                    
+    if jobs_archived > 0:
+        print(f"[INFO] Cleaning: {jobs_archived} old jobs successfully arcived.")
 
 # ---------------------------------------------------------------------------
 # Main
@@ -571,7 +582,20 @@ def main():
     parser.add_argument("--extra-files", nargs="*", default=[],
                         help="Additional profile files to include in the prompt "
                              "(e.g. 03_education_skills.md 04_projects.md).")
+    # IL PARAMETRO MAGICO
+    parser.add_argument("--kw-threshold", type=int, default=None,
+                        help="Skip LLM analysis for jobs whose keyword_score is "
+                             "below this threshold. Example: --kw-threshold 20")
     args = parser.parse_args()
+
+    OUTPUTS_DIR.mkdir(exist_ok=True)
+
+    # --- execute cleaning firts of all ---
+    cleanup_old_jobs(days=30) 
+    # -----------------------------------------------
+
+    if args.summary_only:
+        path = build_summary()
 
     OUTPUTS_DIR.mkdir(exist_ok=True)
 
@@ -587,6 +611,22 @@ def main():
     job_files = sorted(JOBS_DIR.glob("*.txt"))
     if args.filter:
         job_files = [p for p in job_files if args.filter.lower() in p.name.lower()]
+
+    # Applica il filtro magico
+    if args.kw_threshold is not None:
+        before = len(job_files)
+        kept = []
+        for p in job_files:
+            try:
+                kw = kw_score_text(p.read_text(encoding="utf-8"))
+                if kw["score"] >= args.kw_threshold:
+                    kept.append(p)
+            except Exception:
+                kept.append(p)  # keep on error
+        job_files = kept
+        print(f"[INFO] keyword pre-filter: {before} -> {len(job_files)} files "
+              f"(KW >= {args.kw_threshold})")
+
     if args.limit:
         job_files = job_files[:args.limit]
 
@@ -595,7 +635,7 @@ def main():
         return
 
     mode = "quick" if args.quick else "full"
-    print(f"[INFO] {len(job_files)} job files found.")
+    print(f"[INFO] {len(job_files)} job files to analyze.")
     print(f"[INFO] mode: {mode}{' + strict' if args.strict else ''}")
     if args.extra_files:
         print(f"[INFO] extra profile files: {', '.join(args.extra_files)}")
@@ -648,3 +688,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+'''
+# 1. Cancella tutti i vecchi annunci e le cartelle dei rifiutati
+rm -rf jobs/*
+
+# 2. Cancella tutti i vecchi report e i summary
+rm -rf outputs/*
+'''

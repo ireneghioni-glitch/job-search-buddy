@@ -1,0 +1,100 @@
+Title: Epidemiologist, Real-World Evidence (Remote US)
+Company: ICA.ai
+Location: Arlington, VA, USA
+URL: https://www.glassdoor.com/job-listing/j?jl=1010291339257
+Posted: 2026-10-10
+Site: glassdoor
+Search query: Materials Scientist
+----------------------------------------
+
+**Epidemiologist, Real-World Evidence - International Consulting Associates, Inc. (Remote)**
+--------------------------------------------------------------------------------------------
+
+**ABOUT ICA, INC.**
+
+International Consulting Associates, Inc. is a rapidly growing company, located in the D.C./Metro area. We were founded in 2009 to assist government clients with evaluating and achieving their objectives. We have become a trusted advisor helping our clients by offering cutting-edge innovation and solutions to complex projects. Our small company has grown significantly, and we're overjoyed at the opportunity to expand yet again!
+
+We are results-focused and have a proven track record supporting federal agencies and large government services primes in three main areas: Research and Data Analysis, Advanced-Data Science, and Strategic Services. We currently support multiple analytics and research programs across HHS.
+
+At ICA, we believe our success starts with our people. We foster a collaborative "one team" environment where work-life balance isn't just talked about – it's prioritized. We're building dynamic, highly skilled teams in a welcoming and supportive atmosphere. If you're passionate about using your technical expertise to make a difference, we want to talk to you.
+
+We are looking for an Epidemiologistto join our growing team!
+
+  
+
+**ROLE**
+
+  
+
+ICA's Health Technology Assessment (HTA) team supports federal clients in their mission to protect and promote public health by conducting Systematic Reviews (SRs) in a wide variety of clinical content areas. Joining the HTA team is an opportunity to help inform decisions related to pharmacological and medical devices and thus improve the lives and well-being of millions of people.
+
+  
+
+We are seeking a highly skilled epidemiologist with solid expertise in healthcare data and real-world evidence (RWE) generation, including hands-on experience working with different types and sources of RWD (especially electronic health record (EHR) and administrative claims data). The RWE Epidemiologist's primary responsibility will be to lead collaborations with clients and stakeholders in the use and evaluation of real-world data sources used to support evidence assessment for medical devices. Successful candidates will have a strong background in RWD analytics and the use of RWE in regulatory decision-making. Prior experience working in a fast-paced consulting environment is preferred.
+
+  
+
+**RESPONSIBILITIES**
+
+  
+
+* Understanding of RWD architecture, curation, and analysis methodologies across different types of health data to support scientifically robust and actionable research that aligns with regulatory expectations
+* Conduct assessments of varying scope on the relevance, reliability, quality, and feasibility of RWD sources to support RWE generation for regulatory decision-making
+* Ability to independently deliver detailed assessments of key research, pre-market, and regulatory materials relevant to RWE generation for medical devices
+* Identify and evaluate data curation, architecture, and bias considerations for RWE conducted across multiple healthcare data types
+* Ensure understanding of client needs for a variety of client requests
+* Conduct reviews of peer-reviewed research and regulatory materials to evaluate feasibility for future RWD studies
+* Collaborate with epidemiologists, data scientists, and non-technical stakeholders on RWE initiatives
+
+**QUALIFICATIONS/MINIMUM REQUIREMENTS**
+
+  
+
+* Hands-on experience conducting data curation activities and analysis of RWD data, including EHR and administrative claims data, with direct experience executing protocols
+* Master's degree required. Doctorate Degree preferred. Relevant fields to include epidemiology, biostatistics, health informatics, or related fields.
+* Mastery of key considerations, principles, and best practices for RWE generation
+* Experienced with EHR and Claims data
+* Deep understanding of regulatory guidance and decision-making related to use of RWE –
+* Ability to identify potential biases affecting RWD quality and reliability
+* Strong analytical, critical thinking and communication skills including technical writing and editing
+* Excellent writing skills/ability to summarize complex information in narrative form
+* Ability to work well alone or in small groups, as dictated by the project's needs
+* Ability to meet client deadlines for deliverables
+* Ability to shift priorities while contributing to or leading multiple projects
+* Prior experience in working with external stakeholders
+* Demonstrated qualitative and analytical skills with a strong understanding of data management, statistical, and research methodologies -
+* Knowledge or expertise with health care device safety topics preferred
+* **Must live in and be authorized to work in the United States**
+* **Must be able to obtain a Public Trust Clearance**
+
+  
+
+**PREFFERED ADDITIONAL QUALIFICATIONS**
+
+* Previous experience working and/or collaborating with researchers from federal government agencies whose mission relates to public health (e.g., FDA, NIH, CDC, HRSA, or other HHS agencies).
+
+**UNAUTHORIZED USE OF AI ASSISTIVE TECHNOLOGY:** All application materials must be your own original work, and interviews must be completed independently. The use of AI-generated content or AI-assisted technologies during the application or interview process is prohibited unless interviewers provide explicit permission for specific activities during a live technical assessment. Any unauthorized use of AI will result in disqualification from the hiring process.
+
+**BENEFITS**
+
+We invest in our team members so you can live your best life professionally and personally, offering a competitive salary and benefits
+
+* Health Insurance -**100% employer-paid premiums** – ICA covers the full cost of one of three offered medical plans
+* Dental Insurance
+* Vision insurance
+* Health Spending Account
+* Flexible Spending Account
+* Life and Disability insurance
+* 401(k) plan with company match
+* Paid Time Off (Vacation, Sick Leave and Holidays)
+* Education and Professional Development Assistance
+* Remote work from anywhere within the continental United States
+
+**LOCATION & TELEWORK**  
+This is a remote position. Candidates must be willing to travel to the office, in Arlington, VA, for the occasional team/client meetings. Five percent travel can be expected. Flexibility is expected of the employee to be available for client/team meetings if the employee lives outside the Eastern Time Zone.
+
+**ADDITIONAL INFORMATION**
+
+ICA is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender, gender identity or expression, national origin, genetics, disability status, protected veteran status, age, or any other characteristic protected by state, federal or local laws.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.

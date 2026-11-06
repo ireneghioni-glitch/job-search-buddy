@@ -1,0 +1,58 @@
+Title: Functioneel Analist | Data
+Company: Kwery
+Location: Antwerp, Belgium
+URL: 
+Posted: 2026-11-03
+Site: glassdoor
+Search query: Data Scientist
+----------------------------------------
+
+**Ben jij een analytische denker die graag de puzzel legt tussen business, data en IT?**
+
+Voor een **gevestigde en mensgerichte organisatie in Antwerpen** zoeken we een Functioneel analist, gespecialiseerd in data, die graag inzicht krijgt in complexe informatiestromen en deze weet te vertalen naar duidelijke, bruikbare datamodellen.
+
+Je komt terecht in een **hecht intern IT-team** waar samenwerking, kennisdeling en kwaliteit centraal staan. Je werkt mee aan projecten waarbij verschillende applicaties en systemen met elkaar verbonden worden en zorgt ervoor dat data correct, veilig en efficiënt beschikbaar is.
+
+Een ideale uitdaging voor iemand die **functionele analyse wil combineren met datamodellering!**
+
+**Hoe zal jouw takenpakket eruitzien?**
+---------------------------------------
+
+* Je analyseert **businessbehoeften en functionele requirements** en vertaalt deze naar duidelijke datamodellen en technische specificaties.
+* Je werkt mee aan **data- en integratieprojecten** waarbij verschillende applicaties worden gekoppeld aan centrale databronnen.
+* Je overlegt met business stakeholders, developers en externe partners om **datamappings, informatiestromen en integraties** correct uit te werken.
+* Je denkt mee over **datakwaliteit, databases en gegevensuitwisseling** binnen een moderne AWS-omgeving, met aandacht voor GDPR en security.
+* Je begeleidt **integratie- en gebruikerstesten** en ondersteunt de verdere optimalisatie van de systemen na implementatie.
+
+  
+
+**Wat verwachten zij van jou?**
+-------------------------------
+
+* Je hebt **enkele jaren relevante ervaring als Business Analist, Functioneel Analist of Data Analyst**, waarbij je actief met datamodellering hebt gewerkt.
+* Je beschikt over een **goede basiskennis van SQL** en hebt inzicht in databases, datastromen en systeemintegraties. Ervaring met MDM, AWS of AI-tools is een mooie troef.
+* Je bent **analytisch, nauwkeurig en communicatief sterk**. Je werkt graag samen met verschillende stakeholders en durft kritisch mee te denken over oplossingen.
+
+  
+
+**Wat bieden zij jou?**
+-----------------------
+
+* Een aantrekkelijk **brutoloon tussen €3.600 en €5.000 per maand**, afhankelijk van jouw ervaring.
+* Een **premium bedrijfswagen met tankkaart** of een interessant mobiliteitsbudget.
+* Een **jaarlijkse bonus van 7%** van jouw brutojaarsalaris, bovenop een eindejaarspremie.
+* Een **netto onkostenvergoeding van €125 per maand**, aangevuld met maaltijdcheques.
+* Maar liefst **32 vakantie- en ADV-dagen**, afhankelijk van jouw arbeidsduur.
+* **Tot 50% thuiswerk** en flexibele werkuren voor een gezonde work-life balance.
+* Een uitgebreide **groeps- en hospitalisatieverzekering**, met mogelijkheid om gezinsleden aan te sluiten.
+* Een **parkeerplaats in het centrum van Antwerpen**, die je ook tijdens het weekend mag gebruiken.
+* Een stabiele en mensgerichte werkomgeving met **persoonlijke begeleiding, opleidingen en doorgroeimogelijkheden**.
+* Een collegiaal IT-team waar **samenwerking, korte communicatielijnen en een fijne werksfeer** centraal staan.
+
+  
+
+**Klaar om jouw analytische skills in te zetten voor projecten met impact?** Ontdek deze uitdaging en zet de volgende stap in jouw carrière!
+
+  
+
+**Ontdek ook onze andere IT-vacatures via** **www.kwery.be/jobs****.**

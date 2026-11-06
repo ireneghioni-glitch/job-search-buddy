@@ -1,0 +1,60 @@
+Title: Artificial Intelligence (AI) Solutions Lead - AI and Automation
+Company: Emory University
+Location: Atlanta, GA, USA
+URL: 
+Posted: 2026-10-16
+Site: glassdoor
+Search query: AI for Materials
+----------------------------------------
+
+Discover Your Career at Emory University:
+
+Emory University is a leading research university that fosters excellence and attracts world-class talent to innovate today and prepare leaders for the future. We welcome candidates who can contribute to the excellence of our academic community.
+
+Description:
+
+The AI Solutions Lead advances responsible AI adoption across Emory University as the primary engagement lead for AI-related requests, consultations, pilots, and emerging opportunities - including Claude for Education, Claude Code, Claude Cowork, NebulaOne, and future approved services.
+
+This position is part of Emory's newly established AI & Automation Enablement function within OIT. Successful candidates will help build and scale enterprise AI capabilities, services, governance coordination, and AI-enabled solutions across academic, research, and administrative domains. Experience working across diverse stakeholder groups and leading through influence is highly desirable.
+
+KEY RESPONSIBILITIES:
+
+* Operates Emory's AI Concierge function, helping faculty, researchers, healthcare teams, administrative units, and technology organizations identify, evaluate, and implement high-value AI use cases.
+* The role focuses on stakeholder engagement, use case development, pilot execution, and value realization.
+* It does not perform platform administration, user provisioning, day-to-day service operations, or custom software engineering.
+* Leads intake, discovery, and consultation for AI-related requests, understanding business challenges, desired outcomes, and success measures.
+* Evaluates whether approved services can meet a need and recommends the right platform, pilot, or approach.
+* Provides advisory and implementation guidance, including no-code/low-code tools, so stakeholders can build and adopt solutions themselves, while surfacing reusable, enterprise-wide opportunities.
+* Partners with faculty, researchers, and administrative units to define use cases, gather requirements, and set success metrics.
+Leads planning, execution, and evaluation of pilots* - including charters, implementation plans, and scaling recommendations.
+* Coordinates with security, data governance, accessibility, procurement, legal, and compliance stakeholders to ensure requests are routed and reviewed appropriately.
+* Supports governance council discussions with business context and use case details.
+Operates and helps mature Emory's AI Concierge function - intake model, use case lifecycle, and engagement processes* - building on the foundation established by the Executive Director, and proposing refinements and improvements as the function matures.
+* Maintains a centralized inventory of requests, pilots, and outcomes; identifies patterns and gaps; develops business cases and executive updates on realized value.
+* Works closely with the AI Platform and Service Lead to transition successful pilots into operational services, including readiness, onboarding, and adoption planning.
+* Supports adoption and successful use of approved AI services through onboarding materials, FAQs, office hours, demonstrations, and other targeted enablement resources for units engaged in active use cases, pilots, and implementations.
+* Partners with the AI Platform and Service Lead and existing campus learning organizations (e.g., Center for Faculty Development, Center for AI Learning) where appropriate.
+* Scope is focused on adoption activities directly connected to active engagements and service delivery, rather than institution-wide training programs, community-of-practice administration, or champion network development.
+* May coordinate vendors, consultants, or cross-functional working groups.
+* Performs other related duties as needed in a function being built from the ground up.
+
+MINIMUM QUALIFICATIONS:
+
+* A bachelor's degree in business administration, information systems, IT, engineering, healthcare administration, or related field, and five years of progressively responsible experience in consulting, business analysis, technology implementation, product management, or digital transformation, OR an equivalent combination of education, training, and experience.
+* Experience leading cross-functional initiatives, facilitating stakeholder engagement, gathering requirements, and managing pilots or projects is required.
+* Demonstrated ability to build and mature new services, manage competing priorities, and operate in evolving governance environments.
+
+PREFERRED QUALIFICATIONS:
+
+* Familiarity with AI technologies and responsible AI practices
+* Higher ed, healthcare, or research experience
+* PMP, CBAP, Product Management, Agile, or AI-related certifications
+
+NOTE: Tasks related to this position can be performed remotely with only occasional supported visits to an Emory University location. Emory reserves the right to change this status with notice to employee.
+
+Additional Details:
+
+Emory is an equal opportunity employer, and qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status or other characteristics protected by state or federal law. Emory University does not discriminate in admissions, educational programs, or employment, including recruitment, hiring, promotions, transfers, discipline, terminations, wage and salary administration, benefits, and training. Students, faculty, and staff are assured of participation in university programs and in the use of facilities without such discrimination. Emory University complies with Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veteran's Readjustment Assistance Act, and applicable executive orders, federal and state regulations regarding nondiscrimination, equal opportunity, and affirmative action (for protected veterans and individuals with disabilities). Inquiries regarding this policy should be directed to the Emory University Department of Equity and Civil Rights Compliance, 201 Dowman Drive, Administration Building, Atlanta, GA 30322. Telephone: 404-727-9867 (V) | 404-712-2049 (TDD).
+  
+  
+Emory University is committed to ensuring equal access and providing reasonable accommodations to qualified individuals with disabilities upon request. To request this document in an alternate format or to seek a reasonable accommodation, please contact the Department of Accessibility Services at accessibility@emory.edu or call 404-727-9877 (Voice) | 404-712-2049 (TDD). We kindly ask that requests be made at least seven business days in advance to allow adequate time for coordination.

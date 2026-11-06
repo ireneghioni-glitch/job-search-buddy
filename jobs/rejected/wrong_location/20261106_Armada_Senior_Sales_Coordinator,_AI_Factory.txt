@@ -1,0 +1,132 @@
+Title: Senior Sales Coordinator, AI Factory
+Company: Armada
+Location: nan
+URL: 
+Posted: 2026-10-09
+Site: glassdoor
+Search query: AI for Materials
+----------------------------------------
+
+**About the Company**
+
+Armada is the hyperscaler for the edge, delivering modular AI infrastructure from first deployment to AI factory with speed, scale and sovereignty. Named one of Fast Company's Most Innovative Companies and to the CNBC Disruptor 50, Armada's solutions are deployed in over 60 countries globally for organizations ranging from energy to defense.
+
+With nearly $500 million in funding to date, Armada is backed by leading investors including Founders Fund, Lux, BlackRock and Microsoft (M12), alongside strategic partnerships with Microsoft, Dell, Palantir, NVIDIA, SpaceX, and Skydio. We are building the infrastructure layer for sovereign and edge AI - rugged, deployable compute for customers that cannot rely on centralized cloud.
+
+Working at Armada means taking ownership, driving autonomy, and delivering impact. You'll tackle challenges that haven't been solved before and help build something transformative from the ground up. What you do here will not only define your career but help further Armada's mission to bridge the digital divide for customers around the world.
+
+**About the Role**
+
+The AI Factory team plays a critical role in driving Armada's growth across a focused set of high value, highly complex strategic accounts. These include AI focused data center operators, colocation providers, NeoCloud platforms, and select renewable energy operators that control land, power, or stranded energy assets suitable for large scale AI infrastructure. This team consists of senior, strategic sellers with a strong track record selling large scale deals, as well as deeply technical Customer Engineering, and Value Engineering, and Partnership teams.
+
+We are hiring a Sales Coordinator to accelerate the team by providing key operational and administrative support across the sales team. You will ensure that our sales teams are focused and prepared, that our sales processes run smoothly, data is accurate, and communication between departments and clients is timely and professional.
+
+  
+
+**Location.** This role is remote-based on the continental US.
+
+**What You'll Do**
+
+**Deal Team Support**
+
+* Track follow-ups owed by the AI Factory Account Executives and make sure every one closes
+* Capture action items from deal meetings and chase them to completion
+* Run the NDA process end to end: request, route for signature, track status, and confirm an NDA is in place before any engineering engagement
+* Track documents and deliverables owed by counterparties, and manage data room access for prospective customers and partners
+* Assemble and send collateral packages such as base designs, deployment materials, and presentations, and track what was sent to whom
+* Maintain stakeholder trackers on multi-threaded deals so the team knows who is talking to whom at each counterparty
+* Schedule customer meetings, site visits, and internal deal reviews across time zones
+* Prepare meeting briefs and pre-read packets ahead of key customer and partner meetings
+
+**Travel and Events**
+
+* Book and coordinate travel for the AI Factory team
+* Coordinate logistics for customer site visits and facility tours with customers, partners, and Armada engineering
+* Coordinate logistics for AI Factory customer, investor, and executive events, including guest lists, invitations, vendors, and on-site details, in partnership with Armada's marketing and events team
+* Process travel, event, and vendor expenses and invoices
+
+**CRM and Data**
+
+* Log offline meetings in Salesforce on behalf of the Account Executives, ensure all recorded calls, activities, and contacts are logged correctly, and keep AI Factory deal checklist fields current
+* Improve forecast accuracy by ensuring all active deals are registered in Salesforce under the right time period, include validated exit criteria, and the appropriate forecast category
+* Review Salesforce updates and call logs, and approve, correct, or reject them
+* Keep offtake and financing partner contact records current
+
+  
+
+**What Success Looks Like**
+
+* Follow-ups and meeting action items owed by the team close on time, including leadership referrals
+* Every engineering engagement starts with an NDA in place
+* Counterparty documents and data room access are never the reason a deal waits
+* Salesforce reflects every meaningful customer interaction without Account Executives doing the data entry
+* Travel, site visits, and events run without sellers managing the logistics
+
+  
+
+**What We're Looking For**
+
+* 2-4 years of experience in sales coordination, transaction coordination, executive support, or project coordination, ideally at a B2B technology, infrastructure, or financial services company
+* Highly organized, with a track record of managing many parallel threads and following through without reminders
+* Clear, professional written communication with senior executives, customers, and investors
+* Discretion with confidential deal and investor information
+* Hands-on Salesforce experience; familiarity with Gong, Ironclad or DocuSign, virtual data rooms, and Chili Piper is a plus
+* Comfortable using AI tools to automate routine work and reviewing their output for accuracy
+* Flexible working hours to support a team spread across U.S., European, and Asia-Pacific time zones
+
+**Backgrounds We Value**
+
+* Sales, deal, or transaction coordination at a data center, energy, cloud infrastructure, capital projects, or infrastructure finance company
+* Supporting a small, senior sales team in a high-growth or startup environment
+* Executive assistant or chief of staff office experience on a fast-moving commercial team
+
+  
+
+**Compensation & Benefits**
+
+For U.S. Based candidates: To ensure fairness and transparency, the *starting* base salary range for this role for candidates in the U.S. are listed, varying based on location experience, skills, and qualifications. In addition to base salary, this role will also be offered equity and subsidized benefits *(details available upon request)*.
+
+We use a geographic pay structure based on cost-of-labor markets.
+
+* **Tier 1 (e.g., SF Bay Area, NYC, Seattle):** $30.61 – $38.26
+* **Tier 2 (most U.S. metro areas):** $26.62 – $33.27
+* **Tier 3 (other cities):** $25.28 - $31.61
+
+Final compensation will be determined by experience, scope, and level, and may vary from the posted range.
+
+  
+
+**Benefits**
+
+* Competitive base salary and equity
+* Medical, dental, and vision (subsidized cost)
+* Health savings accounts (HSA), flexible spending accounts (FSA), and dependent care FSAs (DCFSA)
+* Retirement plan options, including 401(k) and Roth 401(k)
+* Unlimited paid time off (PTO)
+* 14 paid company holidays per year
+
+  
+
+#LI-SM1
+
+#LI-Remote
+
+**You're a Great Fit if You're**
+
+* A go-getter with a growth mindset. You're intellectually curious, have strong business acumen, and actively seek opportunities to build relevant skills and knowledge
+* A detail-oriented problem-solver. You can independently gather information, solve problems efficiently, and deliver results with a "get-it-done" attitude
+* Thrive in a fast-paced environment. You're energized by an entrepreneurial spirit, capable of working quickly, and excited to contribute to a growing company
+* A collaborative team player. You focus on business success and are motivated by team accomplishment vs personal agenda
+* Highly organized and results-driven. Strong prioritization skills and a dedicated work ethic are essential for you
+
+  
+
+**Equal Opportunity Statement**
+
+At Armada, we are committed to fostering a work environment where everyone is given equal opportunities to thrive. As an equal opportunity employer, we strictly prohibit discrimination or harassment based on race, color, gender, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other characteristic protected by law. This policy applies to all employment decisions, including hiring, promotions, and compensation. Our hiring is guided by qualifications, merit, and the business needs at the time.
+
+  
+
+**Unsolicited Resumes and Candidates**
+
+Armada does not accept unsolicited resumes or candidate submissions from external agencies or recruiters. All candidates must apply directly through our careers page. Any resumes submitted by agencies without a prior signed agreement will be considered unsolicited and Armada will not be obligated to pay any fees.

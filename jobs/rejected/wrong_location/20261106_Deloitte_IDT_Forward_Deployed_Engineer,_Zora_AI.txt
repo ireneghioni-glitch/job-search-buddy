@@ -1,0 +1,63 @@
+Title: IDT Forward Deployed Engineer, Zora AI
+Company: Deloitte
+Location: Milwaukee, WI, USA
+URL: 
+Posted: 2026-10-21
+Site: indeed
+Search query: Materials Informatics
+----------------------------------------
+
+**The Team**  
+  
+This role sits within Zora AI™ by Deloitte, Deloitte's product-focused asset business for back office capabilities, part of Deloitte Consulting's Innovation & Delivery Transformation (I&DT) practice. I&DT brings an engineering- and innovation-led mindset to how Deloitte builds, delivers, and scales technology-enabled solutions.  
+  
+Forward Deployed Engineers operate at the intersection of client delivery, applied engineering, and product strategy - partnering with account and product teams pre-sale to qualify and shape opportunities, and with client and delivery teams post-sale to prove and accelerate agentic value, feeding real-world learnings back into the platform roadmap.  
+  
+**Position Summary**  
+  
+As a Product Focused Forward Deployed Engineer (pFDE) within Zora AI™ by Deloitte, you will work directly with clients, Deloitte Consulting's broader consulting practice, and Zora AI's product and engineering teams. Together, you'll advise, demonstrate and architect Zora AI's agentic use cases to meet client's needs - starting from Deloitte's Zora AI Platform and its inventory of Product based SKUs - into production-scale capabilities in each client's environment, powering performance improvement across financial, sourcing & procurement, Human resource and IT services domains.  
+  
+This is a techno-functional role: it requires both deep technical skill and deep functional domain knowledge, brought together to adapt agentic capabilities to the specific workflows, data, and nuances of each client. You'll operate at the intersection of client delivery, applied engineering, and product feedback: engaging with clients and core consulting teams both pre- and post-sale, and partnering with Zora AI's product and engineering teams to translate field learnings into reusable capabilities. The role draws on functional breadth rather than a single specialty, spanning many functional domains.  
+  
+Recruiting for this role ends on 10/22/2027.  
+  
+**Work you'll do**  
+
+* **Presales & solution shaping.** Partner with consulting teams and Zora AI's account and product teams during the sales cycle - running technical discovery, demonstrations, and use-case fit assessments that qualify client needs and shape a credible path to production value.
+* **Agentic use case development.** Work hand-in-hand with clients to build out agentic use cases on Digital Worker Workbench (DWW) - sometimes adapting and extending Deloitte's library of proven use cases, other times building greenfield to solve a client-specific problem for proofs of concepts.
+* **Client enablement & value realization.** Support client awareness, business case activities, and stay engaged post-launch to help identify expansion opportunities grounded in real usage.
+* **Field-to-product feedback.** Capture recurring client needs, patterns, and delivery learnings, and translate them into concrete agentic capability requests and reusable extensions for product and engineering teams.
+
+  
+The successful candidate would possess these skills:  
+
+* Client-facing credibility to translate technical tradeoffs and constraints into clear business decisions, carrying both technical and executive conversations within the same engagement
+* Genuine techno-functional profile - deep technical capability paired with deep functional domain fluency, applying both together to adapt agentic solutions to real client workflows
+* Strong functional domain knowledge spanning back office domains - such as finance, sourcing & procurement, human resources and IT services - with the versatility to apply it across multiple areas rather than a single specialty
+* Strong hands-on configuration skills, including proficiency in agentic concepts and comfort working with APIs, data integration patterns, and cloud-based services (e.g., AWS) to solution production-grade capabilities in client environments
+* Hands-on experience designing, adapting, or hardening agentic workflows - multi-agent coordination, tool invocation, memory/state management - using modern agent frameworks, with the judgment to take a working use case to a production-grade client deployment
+* Intellectual curiosity and a strong pull toward what's next - actively following how agentic frameworks, tooling, and techniques are evolving, and quick to adopt new approaches in a field where today's stack may look very different in six months
+* Judgment to size each engagement - recognizing when an agentic use case can be reused with light configuration, when it needs substantial extension, and when a client problem calls for building greenfield
+* Comfort supporting commercial and sales-adjacent activities such as demos, use-case fit assessments, and solution qualification, alongside post-sale delivery and value realization work
+* Ability to build trust and durable working relationships quickly with client stakeholders and account teams in predominantly virtual and distributed delivery environments
+* Excellent written and verbal communication skills, including the ability to develop client-facing materials, lead technical discovery conversations, and work effectively across distributed teams and international time zones
+
+  
+**Qualifications**  
+  
+**Required:**  
+
+* Bachelor's degree in Computer Science, Information Systems, Engineering, Health Informatics, or a related technical discipline
+* 4+ years of experience in software engineering, solution deployment, data engineering, or client-facing technical delivery roles
+* Ability to travel up to 25%, on average, based on client and business needs
+* Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.
+
+  
+**Preferred:**  
+
+* Master's degree in Computer Science, Engineering, Information Systems, or a related technical discipline
+
+  
+The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $159,100-$224,100.  
+  
+You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.

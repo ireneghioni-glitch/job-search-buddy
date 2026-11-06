@@ -1,0 +1,73 @@
+Title: Atomistic Materials Modeling Expert
+Company: AuraOne Human Data
+Location: nan
+URL: 
+Posted: 2026-10-14
+Site: glassdoor
+Search query: AI for Materials
+----------------------------------------
+
+Atomistic Materials Modeling Expert is a remote review track for evaluating AI outputs across atomistic materials modeling specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it.
+
+**Why this role matters**
+-------------------------
+
+Atomistic Materials Modeling specialist operations AI has to fit into an actual day at work. AuraOne uses experienced operators to grade outputs the way a senior peer would — checking workflow, policy, and the unwritten rules that decide whether a task actually gets done.
+
+**Responsibilities**
+--------------------
+
+* Review AI outputs against current atomistic materials modeling specialist operations workflows, playbooks, and firm policy for Atomistic Materials Modeling Expert assignments.
+* Grade tone, escalation logic, and stakeholder fit on a structured rubric.
+* Flag operational risk, missed escalations, and policy-adherence gaps with severity tags.
+* Capture the right next step so the modeling team can train on it.
+* Adjudicate disputed treatments against published playbooks or firm guidance.
+* Maintain reviewer-quality scores in inter-rater calibration cycles.
+
+**Qualifications**
+------------------
+
+* Direct working experience in atomistic materials modeling specialist operations on real teams for Atomistic Materials Modeling Expert work.
+* Comfort applying multi-page rubrics consistently across long batches.
+* Clear written reasoning that names the policy or workflow being applied.
+* Strong attention to detail and the ability to flag when a prompt itself is the problem.
+* Reliable async availability for at least 10 hours per week.
+
+**Example tasks**
+-----------------
+
+* Grade a model's response to a real atomistic materials modeling specialist operations ticket and rate workflow, tone, and escalation.
+* Flag a missed escalation with the right severity tag and corrected next step.
+* Adjudicate a disputed playbook call between two reviewers using firm guidance.
+* Audit a 25-row batch for rubric consistency and report drift to the program lead.
+
+**Nice to have**
+----------------
+
+* Prior experience training, calibrating, or QA-ing operations teams.
+* Familiarity with AI-assisted workflow tooling and its failure modes.
+* Bilingual experience for cross-region operations.
+
+**Skills**
+----------
+
+* Operational review
+* Policy adherence
+* Workflow judgment
+* Stakeholder communication
+* Atomistic Materials Modeling specialist operations
+
+**Work model**
+--------------
+
+Remote — US-eligible. Remote · Independent specialist contractor. Employment type: CONTRACTOR. Applicants must be authorized to work from US.
+
+**Compensation**
+----------------
+
+$84 / hr
+
+**Application process**
+-----------------------
+
+Apply through AuraOne's specialist intake for role-specific routing and review. Final project scope, schedule, and contractor terms are confirmed before placement.

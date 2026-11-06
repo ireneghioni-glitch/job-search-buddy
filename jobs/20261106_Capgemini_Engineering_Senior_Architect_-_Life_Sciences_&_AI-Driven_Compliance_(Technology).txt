@@ -1,0 +1,41 @@
+Title: Senior Architect - Life Sciences & AI-Driven Compliance (Technology)
+Company: Capgemini Engineering
+Location: Diegem, Belgium
+URL: https://www.glassdoor.com/job-listing/j?jl=1010314420720
+Posted: 2026-11-02
+Site: glassdoor
+Search query: Digital R&D Scientist
+----------------------------------------
+
+At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.
+
+**Your Role**
+-------------
+
+As a Senior Architect specialising in Life Sciences and AI-driven Compliance, Quality & Regulatory activities, you will play a key role in:
+
+* **Shaping our local CQR offering** by developing and driving Capgemini Engineering's Life Sciences compliance and regulatory strategy in Belgium, ensuring alignment with global frameworks and methodologies
+* **Bridging global and local expertise** by acting as the key connector between our global CQR practice and local client needs, translating global offerings into tangible, market-relevant solutions for Belgian and international Life Sciences clients
+* **Accelerating AI adoption in CQR** by identifying and implementing AI-driven approaches to compliance, quality, and regulatory activities, helping clients modernise their processes and stay ahead of an evolving regulatory environment
+* **Leading architectural design** by defining end-to-end solution architectures that integrate Data & AI capabilities within Life Sciences regulatory and quality frameworks, ensuring solutions are scalable, compliant, and future-ready
+* **Supporting business development** by contributing to proposals, client conversations, and thought leadership initiatives, positioning Capgemini Engineering as a trusted partner in AI-powered CQR transformation
+
+**Your Profile**
+----------------
+
+We are looking for a collaborative and driven professional who brings both technical depth and strategic thinking. You will be a strong fit if you:
+
+* Bring **at least 8 years of experience** in Life Sciences, with solid expertise spanning Compliance, Quality, and Regulatory domains, ideally within a consulting or architecture-focused role
+* Have a **strong architectural background** , with demonstrated experience designing and delivering complex solutions that combine regulatory requirements with digital and data-driven technologies
+* Possess **hands-on knowledge of Data & AI technologies** and their application within regulated environments, including understanding of relevant compliance considerations such as validation, auditability, and data integrity
+* Are able to **navigate complex stakeholder landscapes** , engaging confidently with both technical teams and senior client stakeholders, and translating regulatory and business needs into clear architectural solutions
+* Demonstrate a **collaborative and entrepreneurial mindset** , with the ability to contribute to building a practice, developing offerings, and working across global and local teams to deliver impact
+
+**What You'll Love About Working Here**
+---------------------------------------
+
+* **Career acceleration programs** – From associate to leaders and beyond, get support in your career at every stage with award-winning programs such as our leadership development program, Connected Manager, to accelerate your growth and develop your expertise.
+* **Mentoring programs** – Capgemini empowers individuals at all career stages with programs spanning STEM education to career reentry. We value mentorship for fostering professional growth and empowerment within our engineering community.
+* **Impact Together Week** – During this week, we volunteer for activities supporting a sustainable and inclusive future. Over 7,000 volunteers have contributed skills and time to help those in need.
+
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.

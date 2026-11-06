@@ -1,0 +1,103 @@
+Title: Computational Scientist 4
+Company: Pacific Northwest National Laboratory
+Location: Richland, WA, USA
+URL: 
+Posted: 2026-11-04
+Site: indeed
+Search query: Computational Chemistry
+----------------------------------------
+
+Overview:
+
+At PNNL, our core capabilities are divided among major departments that we refer to as Directorates within the Lab, focused on a specific area of scientific research or other function, with its own leadership team and dedicated budget.
+
+Our Science & Technology directorates include National Security, Integrated Discovery Sciences, and Energy and Environment. In addition, we have an Environmental Molecular Sciences Laboratory, a Department of Energy, Office of Science user facility housed on the PNNL campus.
+
+The Integrated Discovery Sciences Directorate (IDSD) leads fundamental research across biology, chemistry, earth and environmental sciences, materials science, advanced computing, artificial intelligence, quantum information science, mathematics, autonomy, and DOE national user facilities. Our vision is to accelerate scientific discovery by observing, understanding, simulating, predicting, and controlling dynamic biotic-abiotic processes and interactions within complex biological, chemical, material, and Earth systems. We intentionally connect disciplines to advance fundamental discovery science, develop transformative scientific capabilities, and address the nation's most important challenges in energy, environmental resilience, biotechnology, advanced manufacturing, health, and national security.
+
+Rockstar Rewards:
+
+Employees and their families are offered medical insurance, dental insurance, vision insurance, robust telehealth care options, several mental health benefits, free wellness coaching, health savings account, flexible spending accounts, basic life insurance, disability insurance\*, employee assistance program, business travel insurance, tuition assistance, relocation, backup childcare, legal benefits, supplemental parental bonding leave, surrogacy and adoption assistance, and fertility support. Employees are automatically enrolled in our company-funded pension plan\* and may enroll in our 401 (k) savings plan with company match\*. Employees may accrue up to 120 vacation hours per year and may receive ten paid holidays per year.
+
+* Research Associates excluded.
+
+\*\*All benefits are dependent upon eligibility.
+
+Click Here For Rockstar Rewards
+
+Responsibilities:
+
+The Atmospheric, Climate, and Earth Sciences Division is seeking a **Computer Scientist** who:
+
+* Designs and develops computers and computational systems, including both hardware and software, with a focus on architectures, languages, and applications.
+* Researches and advances theories of computation, including the design and efficiency of algorithms and how humans interact with computers and computing processes.
+* Develops work products including new theories and technical advances in the field.
+* Lead software engineering and development efforts for the Energy Research and Forecasting (ERF) model, a GPU-enabled, compressible atmospheric flow solver built on the AMReX adaptive mesh refinement framework.
+* Design, develop, and maintain performant, portable numerical algorithms for atmospheric dynamical cores, ensuring correctness and efficiency across CPU and GPU architectures.
+* Lead GPU hardware portability efforts, optimizing ERF for heterogeneous DOE exascale and pre-exascale systems (e.g., NVIDIA, AMD, and Intel GPU platforms).
+* Oversee deployment, build systems, continuous integration, and performance validation of AMReX-based models on DOE high-performance computing (HPC) systems (e.g., Frontier, Perlmutter, Aurora, and PNNL institutional computing resources).
+* Collaborate with the multi-institution ERF development team to extend model capabilities, including terrain representation, urban simulation, land surface modeling, atmospheric chemistry, aerosols, and cloud microphysics.
+* Mentor junior software engineers and postdoctoral researchers contributing to ERF and related AMReX-based codes; contribute to code review, documentation, and open-source software practices.
+* Author and co-author technical publications, scientific publications, software releases and present ERF capabilities at DOE program reviews and scientific conferences.
+
+Qualifications:
+
+Minimum Qualifications:
+
+* BS/BA and 7+ years of relevant experience -OR-
+* MS/MA and 5+ years of relevant experience -OR-
+* PhD with 3+ year of relevant experience
+
+Preferred Qualifications:
+
+* PhD in Computational Science, Engineering, Applied Mathematics, Atmospheric Science, or closely related field, plus demonstrated experience in scientific software development.
+* Demonstrated hands-on experience and leadership in developing production-quality scientific/engineering software in C++ for high-performance computing environments.
+* Proven experience porting and optimizing scientific codes for GPU architectures (CUDA, HIP, SYCL, or portable abstraction layers).
+* Experience deploying and validating large-scale simulation codes on DOE HPC systems.
+* Experience with the AMReXframework or comparable block-structured adaptive mesh refinement (AMR) libraries.
+* Experience developing, extending, or deploying the ERF model.
+* Strong software engineering practices: version control, testing/CI, code review, and technical documentation.
+* Excellent written and verbal communication skills, with a record of technical publications and/or open-source software contributions.
+* Expertise in compressible dynamical core numerics for atmospheric or geophysical flow modeling.
+* Track record of peer-reviewed publications on atmospheric models.
+* Experience mentoring students/postdocs and contributing to multi-institution DOE software projects.
+
+Hazardous Working Conditions/Environment:
+
+Not Applicable
+
+Additional Information:
+
+“Referral Eligible”
+
+Testing Designated Position (TDP):
+
+This is not a Testing Designated Position (TDP).
+
+About PNNL:
+
+Pacific Northwest National Laboratory (PNNL) is a world-class research institution powered by a highly educated, diverse workforce committed to the values of Integrity, Creativity, Collaboration, Impact, and Courage. Every year, scores of dynamic, driven people come to PNNL to work with renowned researchers on meaningful science, innovations and outcomes for the U.S. Department of Energy and other sponsors; here is your chance to be one of them!
+
+At PNNL, you will find an exciting research environment and excellent benefits including health insurance, and flexible work schedules. PNNL is located in eastern Washington State—the dry side of Washington known for its stellar outdoor recreation and affordable cost of living. The Lab’s campus is only a 45-minute flight (or ~3 hour drive) from Seattle or Portland, and is serviced by the convenient PSC airport, connected to 8 major hubs.
+
+Commitment to Excellence and Equal Employment Opportunity:
+
+Our laboratory is committed to fostering a work environment where all individuals are treated with fairness and respect while solving critical challenges in fundamental sciences, national security, and energy resiliency. We are an Equal Employment Opportunity employer.
+
+Pacific Northwest National Laboratory (PNNL) is an Equal Opportunity Employer. PNNL considers all applicants for employment without regard to race, religion, color, sex, national origin, age, disability, genetic information (including family medical history), protected veteran status, and any other status or characteristic protected by federal, state, and/or local laws.
+
+We are committed to providing reasonable accommodations for individuals with disabilities and disabled veterans in our job application procedures and in employment. If you need assistance or an accommodation due to a disability, contact us at careers@pnnl.gov.
+
+Drug Free Workplace:
+
+PNNL is committed to a drug-free workplace supported by Workplace Substance Abuse Program (WSAP) and complies with federal laws prohibiting the possession and use of illegal drugs.
+
+If you are offered employment at PNNL, you must pass a drug test prior to commencing employment. PNNL complies with federal law regarding illegal drug use. Under federal law, marijuana remains an illegal drug. If you test positive for any illegal controlled substance, including marijuana, your offer of employment will be withdrawn.
+
+HSPD-12 PIV Credential Requirement:
+
+As a national laboratory, PNNL is responsible for adhering to the Homeland Security Presidential Directive 12 (HSPD-12) and Department of Energy (DOE) Order 473.1A, which require new employees to obtain and maintain a HSPD-12 Personal Identify Verification (PIV) Credential. To obtain this credential, new employees must successfully complete the applicable tier of federal background investigation post hire and receive a favorable federal adjudication. The tier of federal background investigation will be determined by job duties and national security or public trust responsibilities associated with the job. All tiers of investigation include a declaration of illegal drug activities, including use, supply, possession, or manufacture within the last 1 to 7 years (depending on the applicable tier of investigation). Illegal drug activities include marijuana and cannabis derivatives, which are still considered illegal under federal law, regardless of state laws.
+
+For foreign national candidates:
+
+If you have not resided in the U.S. for three consecutive years, you are not eligible for the PIV credential and instead will need to obtain a favorable Local Site Specific Only (LSSO) Federal risk determination to maintain employment. Once you meet the three-year residency requirement thereafter, you will be required to obtain a PIV credential to maintain employment. The tier of federal background investigation required to obtain the PIV credential will be determined by job duties at the time you become eligible for the PIV credential.

@@ -1,0 +1,62 @@
+Title: Solution Manager Third-Party Security Solutions (m/f/d) 12-Month Maternity Leave Cover
+Company: Primion Technology GmbH
+Location: Belgium
+URL: 
+Posted: 2026-11-06
+Site: glassdoor
+Search query: Materials Informatics
+----------------------------------------
+
+Whether in a hospital, airport or high-security company: From planning and installation to maintenance, we ensure efficiency and cost-effectiveness with state-of-the-art technology for access control, time recording and visitor and security management.
+
+We are looking for a **Solution Manager Third-Party Security Solutions (m/f/d)** on a 12-month fixed-term contract to support our growing Solution Management team during a maternity leave period. You bring partner products into our security portfolio and make them work, technically and commercially. You are the daily link between our R&D and the development teams of our technology partners. You keep integrations moving, settle disagreements early and make sure what ships is something our customers can use. You use AI tools as a normal part of your work to research, write specifications and build prototypes faster.
+
+### **Key Responsibilities**
+
+* **Partner integration**
+  + Run the integration of third-party products, such as video, intrusion detection or building management, with our access control and time recording systems.
+  + Be the main contact for partner developers and Primion R&D. Agree on interfaces, scope and timelines, and keep both sides informed.
+  + Write requirements, user stories and acceptance criteria. Take part in sprint reviews and integration tests.
+  + Spot blockers between teams early and resolve them before they delay a release.
+* **Market and partner scouting**
+  + Look for products that close gaps in our portfolio and compare them in a structured way.
+  + Maintain the partner pipeline and prepare feasibility checks and gap analyses.
+* **Business and go-to-market**
+  + Contribute to business cases, pricing and partner agreements together with senior colleagues.
+  + Create sales material and train Sales and Service on new partner solutions.
+  + Track how partner solutions perform and propose improvements.
+
+### **Key Qualifications**
+
+* Degree in business informatics, computer science, industrial engineering or a comparable qualification.
+* 2 to 4 years of experience in product management, product ownership, technical project management or solution engineering, ideally with software integrations or APIs.
+* You use AI tools every day and can show how they changed the way you work.
+* Your technical depth allows you to read API documentation, discuss integration design with developers and estimate effort.
+* You communicate effectively with technical stakeholders and partners, building productive working relationships while confidently representing business requirements.
+* You are able to familiarise yourself quickly with complex topics and progressively take ownership of ongoing work.
+* Business fluent English language skills; German language skills are a plus.
+* Interest in security technology; experience with access control or physical security is a plus.
+
+### **Your Benefits**
+
+**What makes working with us great?**
+
+We take care of you while you take care of your business! We listen better and take a closer look. Our aim is to build long-term relationships based on mutual respect and trust.  
+  
+That's why we offer you:
+
+* **A Full Year of Real Product Ownership:** Take responsibility from day one and spend a full year working on product integrations, partner ecosystems and market-facing solutions in a company that ranks among the leading providers in its industry.
+* **Work Across Europe:** Collaborate daily with R&D teams, technology partners, Sales and Service organizations across Europe. Build an international network and gain exposure to diverse markets, technologies and customer needs.
+* **Diverse Stakeholders, Real Impact:** Work at the intersection of technology, business and partnerships. Your decisions help shape how third-party solutions become part of our security portfolio and reach customers.
+* **Learn from Experienced Product Leaders:** Gain hands-on experience in product management, partner management, software integrations and go-to-market activities while working closely with experienced colleagues across multiple disciplines.
+* **International & Cross-Functional Collaboration:** Become part of an agile, international team where Product Management, R&D, Sales, Service and Marketing work closely together to bring innovative solutions to market.
+* **Flexible Working:** Balance collaboration and focus time through flexible working hours and remote-working.
+* **Time to Recharge:** Enjoy 30 days of annual vacation to rest, travel and maintain a healthy work-life balance.
+* **Modern Technology Environment:** Work with modern collaboration tools, AI-supported workflows and innovative security technologies that make a real difference to customers worldwide.
+* **Additional Benefits:** Benefit from a company pension scheme, capital-forming benefits and occupational health programmes that support your long-term wellbeing.
+
+#### **Have we piqued your interest?**
+
+Then we look forward to receiving your application!
+
+If you have any questions in advance, please call Anna Hallmeier on 07573 952 228.

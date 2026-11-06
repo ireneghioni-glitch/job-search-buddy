@@ -1,0 +1,104 @@
+Title: Expert Mentor – AI-Driven Polymer Composites & Materials Informatics
+Company: Nano Science and Technology Consortium (NSTC)
+Location: Remote, USA
+URL: 
+Posted: 2026-11-03
+Site: indeed
+Search query: Materials Informatics
+----------------------------------------
+
+NSTC | NanoSchool is seeking a highly qualified and experienced **Freelance Workshop Mentor** to conduct an advanced, hands-on research workshop titled:
+
+**AI-Driven Polymer Composites: Microstructure Analysis, Property Prediction & Inverse Design**
+
+We invite applications from PhD-qualified researchers, postdoctoral fellows, professors, scientists, and industry experts with strong expertise in polymer composites, materials informatics, artificial intelligence, and machine learning.
+
+The selected mentor will be responsible for delivering research-oriented online sessions, demonstrating computational workflows, and providing practical guidance to an international audience of researchers, academicians, PhD scholars, and industry professionals.
+
+Key Responsibilities
+
+* Conduct advanced, interactive online workshop sessions with hands-on demonstrations.
+* Deliver practical training in AI/ML applications for polymer composite research.
+* Demonstrate microstructure analysis and quantitative characterization using microscopy images.
+* Guide participants through machine learning-based mechanical and thermal property prediction.
+* Explain structure–property relationships and data-driven materials optimization.
+* Demonstrate inverse design approaches for identifying suitable polymer composite formulations.
+* Prepare presentations, research datasets, Python notebooks, and hands-on exercises.
+* Provide scientific explanations, technical support, and answers to participant queries.
+* Coordinate with the NSTC program team for workshop planning, content review, and successful session delivery.
+
+**Required Technical Expertise**
+
+Candidates should demonstrate strong expertise in the following areas:
+
+* Polymer composites, nanocomposites, and advanced materials characterization.
+* SEM image analysis, microstructure quantification, and image processing.
+* Materials informatics and computational materials science.
+* Artificial intelligence and machine learning for materials research.
+* Mechanical, thermal, and physicochemical property prediction.
+* Python programming, Scikit-learn, Pandas, and Google Colab.
+* ImageJ/Fiji or similar microscopy image analysis tools.
+* Structure–property relationships, feature engineering, and predictive modeling.
+* Inverse materials design and formulation optimization.
+
+**Eligibility Criteria**
+
+**Mandatory Qualifications**
+
+* Completed PhD in Materials Science, Polymer Science, Polymer Engineering, Chemical Engineering, Nanotechnology, or a closely related discipline.
+* Demonstrated research expertise in polymer composites or related advanced materials.
+* Practical knowledge of AI/ML-based materials characterization or property prediction.
+* Ability to independently conduct hands-on computational demonstrations.
+* Strong technical communication and presentation skills in English.
+
+**Preferred Qualifications**
+
+* Postdoctoral, academic, or industrial research experience.
+* Publications in reputed peer-reviewed scientific journals.
+* Experience conducting international workshops, research training programs, or technical webinars.
+* Expertise in Python-based materials informatics and machine learning workflows.
+
+Workshop Engagement Details
+
+* **Workshop Format:** Live, mentor-led online training.
+* **Duration:** 3 days, approximately 60–90 minutes per session.
+* **Working Arrangement:** Freelance, project-based engagement.
+* **Schedule:** As per workshop requirements and mutually agreed availability.
+* **Compensation:** Professional remuneration per workshop/session, finalized before engagement.
+
+**Please Note:** This is a freelance mentorship opportunity, not a full-time or permanent employment position.
+
+Application Process
+
+Interested candidates should submit:
+
+* Updated CV or academic profile.
+* PhD qualification and current professional designation.
+* Relevant research experience and selected publications.
+* Expertise in polymer composites, AI/ML, and computational tools.
+* Previous workshop or training experience, if applicable.
+* Availability and expected remuneration.
+
+**Workshop Details:**  
+https://nanoschool.in/aiws/ai-driven-polymer-composites-microstructure-analysis-property-prediction-inverse-design/
+
+**Organization Website:**  
+https://nanoschool.in/
+
+Pay: From $20.00 per hour
+
+Expected hours: 5.0 per week
+
+Benefits:
+
+* Flexible schedule
+
+Education:
+
+* Doctorate (Preferred)
+
+Experience:
+
+* Mentoring: 5 years (Required)
+
+Work Location: Remote

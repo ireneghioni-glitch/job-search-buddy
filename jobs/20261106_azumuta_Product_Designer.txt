@@ -1,0 +1,59 @@
+Title: Product Designer
+Company: azumuta
+Location: Ghent, Belgium
+URL: https://www.glassdoor.com/job-listing/j?jl=1010308112018
+Posted: 2026-10-28
+Site: glassdoor
+Search query: AI for Materials
+----------------------------------------
+
+### **About Azumuta**
+
+Manufacturing is entering its biggest transformation in decades.
+
+The next generation of manufacturing won’t be driven by software alone. It will be powered by AI that fundamentally changes how work gets done on the factory floor. We’re building a future where work instructions are generated automatically from engineering data, AI agents assist operators in real time, quality documentation is created autonomously, and repetitive administrative work simply disappears.
+
+**We’re not digitizing existing processes anymore. We’re redesigning manufacturing execution from the ground up.**
+
+Founded in 2016, Azumuta has grown into one of Europe’s leading Manufacturing SaaS scale-ups, working with some of the world’s most innovative manufacturers across industries including aerospace & defense, industrial machinery, automotive, electronics and medical devices.
+
+We’re building what manufacturing will look like over the next decade. If that excites you, you’ll fit right in.
+
+### **Your mission**
+
+Make Azumuta intuitive to use and easy to understand. You bring product and brand design together, shaping both the product experience and how we present it to the world. From a shop floor workflow to our website or a sales presentation, you make every touchpoint feel clear, consistent and distinctly Azumuta.
+
+### **️ What you will do**
+
+* Design product features and workflows with product and engineering, from early ideas to shipped interfaces.
+* Turn complex, technical shop floor workflows into intuitive experiences that help people get their work done.
+* Bring our product’s value to life through clear, compelling visuals for our website, pricing page, marketing campaigns and sales materials.
+* Create reusable assets and a practical process for keeping sales and marketing materials aligned with the latest product developments.
+* Build and evolve a consistent visual language across our product and brand.
+* Collaborate with product, engineering, sales, marketing and customer success to understand user needs and business priorities.
+* Help shape how we design with AI—from working with agents in our codebase to designing directly in code and evaluating new tools.
+
+**Job requirements**
+--------------------
+
+### **You’d Be a Great Fit If You…**
+
+* You have a few years of experience in product, UI or brand design, with a portfolio that shows your craft and thinking.
+* You enjoy working at a fast pace, turning ideas into work we can ship, and improving it through feedback.
+* Figma is familiar territory, and AI is already part of your design process. You experiment with AI agents, emerging design tools or designing directly in code—and can explain what works for you and why.
+* You are curious about complex workflows and enjoy making them clear and intuitive. Manufacturing experience is not required; an interest in the industry is.
+* You have a strong visual eye and can explain the reasoning behind your design decisions.
+* You speak English fluently. Dutch or French is a plus.
+* You enjoy working alongside your teammates in the office and collaborating in person.
+
+### **What’s In It for You?**
+
+On top of a **competitive salary,** we offer a range of benefits to support your well-being and growth. And…
+
+* Real ownership, with a visible impact on both our product and brand.
+* A team with strong technical and AI expertise to collaborate with, learn from and explore new approaches together.
+* An in-office culture at our new office at Campus Rommelaere in Ghent.
+
+**Apply**
+
+Send us your portfolio and the brand you admire. We look forward to seeing your work.

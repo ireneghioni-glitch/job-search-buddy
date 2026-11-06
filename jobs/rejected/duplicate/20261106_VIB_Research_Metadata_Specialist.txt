@@ -1,0 +1,84 @@
+Title: Research Metadata Specialist
+Company: VIB
+Location: Ghent, Belgium
+URL: 
+Posted: 2026-10-31
+Site: glassdoor
+Search query: Scientific Data Scientist
+----------------------------------------
+
+**About VIB**
+-------------
+
+VIB is a leading life sciences research institute with a unique collaborative model spanning nine research centers and four partner universities. Our mission is to advance life sciences for the benefit of society through scientific excellence, innovation, and collaboration.
+
+At the VIB Data Core, we empower scientists by delivering advanced infrastructure and services that tackle complex challenges in data storage, management, and computing.
+
+**About the role**
+------------------
+
+Life-science data reaches its full value only when it is well described, connected and reusable. At VIB Data Core, you will help make that possible.
+
+As our Research Metadata Specialist, you shape how life-science data is described, connected and exchanged across VIB's data platforms, institutional systems and external repositories. You link datasets to the information that gives them meaning: samples, experiments, projects and publications. You make that information structured, machine-readable and consistent, so it supports scientific reuse, institutional reporting, automation and responsible AI.
+
+You work closely with researchers, data stewards, developers and repository teams, and you turn their needs into practical metadata models, mappings and validation rules.
+
+**What you will do**
+
+* Design and maintain metadata models that connect diverse life-science data (omics, imaging, spatial, etc.) with their scientific and administrative context.
+* Select and apply the right standards, controlled vocabularies, ontologies and persistent identifiers, together with domain experts.
+* Build and maintain mappings between local systems, the central data platform, external repositories, literature databases and institutional reporting.
+* Develop and maintain lightweight, API-based workflows to retrieve and transform metadata and apply mappings, working with developers to integrate the resulting metadata into target systems.
+* Define quality requirements and validation rules, and help automate them.
+* Coordinate the review, testing, versioning and documentation of metadata models and templates.
+* Support and train developers, data stewards and users and use their feedback to keep improving templates and workflows.
+
+**Your profile**
+----------------
+
+We welcome applicants from different backgrounds and career paths. If you meet most of the essential requirements, we encourage you to apply.
+
+**You bring:**
+
+* A Master's degree in bioinformatics, data science, information science, life sciences or a related field, or equivalent experience.
+* Several years of experience with metadata in life-science research, across a range of data types.
+* Experience designing or maintaining metadata schemas, data models or mappings.
+* A practical understanding of metadata standards, vocabularies, persistent identifiers and provenance, and how they support FAIR data.
+* The ability to read API documentation, work with JSON or XML, and use or adapt scripts.
+* Familiarity with Git and with testing and documenting changes.
+* A structured, collaborative way of working, with clear communication and documentation.
+
+**Strong assets:**
+
+* Experience with research repositories, bibliographic databases, data deposition or federated data platforms.
+* Experience with ontologies or semantic technologies such as RDF or JSON-LD.
+* Experience building reusable metadata transformation or validation tools.
+
+**Our offer**
+-------------
+
+* A permanent, full-time position in an international, research-driven organization.
+* The chance to shape how research metadata is managed and reused across VIB.
+* A varied role, split between strategic projects (such as Open Science and European data initiatives) and the day-to-day running of our metadata, data deposition and archiving services.
+* Room to grow in FAIR data, semantic interoperability and knowledge graphs, through training and through national and European initiatives.
+* Flexible working, with up to two days per week from home.
+
+The position is based in Ghent and includes travel about two to three times a year.
+
+**How to apply**
+----------------
+
+Please apply via the VIB online application form (https://jobs.vib.be/apply/138262). A complete application file (English) should contain the following documents:
+
+* your cover/motivation letter
+* your CV
+* 2 references (optional)
+
+In case of questions, please email recruiting@vib.be .
+
+**Get to know VIB**
+
+* https://vib.be
+* https://datacore.sites.vib.be/en
+* Listen to our podcast 'Called to Science'
+* Follow us on LinkedIn.

@@ -1,0 +1,63 @@
+Title: A/AI Machine Learning Engineering Stf - E4
+Company: Lockheed Martin
+Location: Remote, USA
+URL: https://www.indeed.com/viewjob?jk=ab6051b1dbea3ae2
+Posted: 2026-10-07
+Site: indeed
+Search query: Materials Scientist
+----------------------------------------
+
+**Standard Job Description**
+----------------------------
+
+For more than 15 years, Lockheed Martin has pioneered cutting-edge quantum technology spanning navigation, communications, and sensing, while leveraging the power of advanced quantum computing. To continue advancing these transformation capabilities, Lockheed Martin QuIC combines enterprise-level engineering rigor with the speed of innovation, empowering delivery of defense-ready quantum capabilities to outpace future threats.
+
+We are seeking a Senior Quantum Compute Scientist to:
+
+* Perform research, analysis, design, and development of emerging technologies, techniques, and systems for data analytics and exploitation using quantum computing.
+* Lead the conception, modeling, simulation, implementation, and testing of quantum based algorithms and applications, driving them from idea through validated prototype.
+* Collaborate closely with AI/ML development teams to create performance modeling algorithms for quantum hardware and to leverage high performance compute clusters for testing and optimization of designs.
+* Produce high quality technical documentation, including reports, proposals, and presentation materials, and communicate results effectively to internal teammates, external customers, and industry partners.
+* Write proposals for new research and development contracts. Guide technical development projects, ensuring milestones are met while fostering strong, collaborative relationships across multiple business areas, with internal and external customers, suppliers, and academic or industry collaborators.
+
+The successful candidate will combine strong analytical abilities with excellent written and verbal communication skills, thrive in a dynamic, multidisciplinary environment, and demonstrate the capacity to lead complex technical initiatives.
+
+**Standard Job Description:** Responsible for developing, integrating, and deploying autonomy and artificial intelligence algorithms for mission systems, supporting the technology development life cycle from requirements generation through development, integration, and testing, as well as research in some organizations.Develops, integrates, and implements algorithms to enable perception, motion/mission planning, controls, etc. functionality in LM products and platforms; Translates requirements and applies requirements to development code, integrating autonomy, AI or machine learning algorithms to LM products and platforms; Determines software methods to best acquire and execute knowledge; Implements algorithms into software to train systems to recognize patterns and perform specific functions; Responsible for various phases of developing and maintaining autonomy software from requirements generation, software design and development to integration, testing, troubleshooting and debugging, and implementation; Review test outcomes, conducts troubleshooting, and works to debug issues; Develops human-machine interface scenarios, breaking missions into tasks; Documents interface requirements and implements human-machine interfaces. Proficient in AI prompting as it applies to this position and practice.
+
+**Basic Qualifications**
+------------------------
+
+* Strong understanding of the physics and mathematics associated with Quantum Computing and the design and development of algorithms and applications of Quantum Computing
+* Strong technical writing, presentation and overall communication skills for reports, proposals, technical presentations, and interaction with customers, team members, suppliers, and academic/industry collaborators
+* Strong communication skills to discuss concepts with experts and non-experts
+* Must be able to work independently with minimal supervision in a geographically distributed team environment
+* U.S. Citizen with willingness and ability to obtain security clearance
+
+**Desired Skills**
+------------------
+
+* 3+ years of demonstrated quantum compute algorithm design experience
+* PhD in Physics, Applied Math, or related area of study clearance
+
+**Pay Information**
+
+**GeoZone Definition:** GeoZones are geographic groupings created by Lockheed Martin to align compensation ranges with regional labor markets and cost-of-labor differences across the United States. Locations are assigned a Geo Zone based on the primary work location of the role.
+
+* Full-time salary range (GEOZONE 1): $150800.00 - $280000.00
+  + Includes metropolitan areas such as Sunnyvale CA; Pal Alto, CA; New York City metropolitan area; Newark, New Jersey; etc.
+* Full-time salary range (GEOZONE 2): $135700.00 - $251900.00
+  + Includes metropolitan areas such as Denver, CO; King of Prussia, PA; Stratford, CT; Moorestown, NJ; etc.
+* Full-time salary range (GEOZONE 3): $120600.00 - $224000.00
+  + Includes metropolitan areas such as Dallas–Fort Worth, TX; Orlando, FL; Grand Prairie, TX; Marietta, GA; etc.
+* Full-time salary range (GEOZONE 4): $108600.00 - $201600.00
+  + Includes metropolitan areas such as Camden, AR; Lexington, KY; Lufkin, TX; etc.
+
+At Lockheed Martin, we know mission success starts with taking care of our people. Our Total Rewards program is designed to attract top talent, support your well-being, and help you grow—both professionally and personally.
+
+The salary range for this position is as listed on the requisition. Please note that the salary information listed is a general guideline only.  
+Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market(work location) and business considerations when extending an offer.
+
+**Benefits offered:** Medical, Dental, Vision, Flexible work arrangements and schedules (e.g., 4x10), 401(k) match, Paid time off, Holidays, Parental Leave, EAP, Flexible Spending Accounts, Education Assistance, Life Insurance, Short-Term Disability, and Long-Term Disability.
+
+* Annual short-term and/or long-term incentive compensation programs may be offered depending on the position. Payments under these annual programs are not guaranteed and can vary from year to year and are tied to a range of performance metrics.
+* For (Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.

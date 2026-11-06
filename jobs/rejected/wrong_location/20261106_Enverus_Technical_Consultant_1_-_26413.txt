@@ -1,0 +1,78 @@
+Title: Technical Consultant 1 - 26413
+Company: Enverus
+Location: nan
+URL: https://www.glassdoor.com/job-listing/j?jl=1010306905058
+Posted: 2026-10-27
+Site: glassdoor
+Search query: AI for Materials
+----------------------------------------
+
+**Why YOU want this position**
+
+At Enverus, we’re committed to empowering the global quality of life by helping our customers make energy affordable and accessible to the world.  
+  
+We are the most trusted energy-dedicated SaaS company, with a platform built to maximize value from generative AI, and our innovative solutions are reshaping the way energy is consumed and managed. By offering anytime, anywhere access to analytics and insights, we’re helping our customers make better decisions that help provide communities around the world with clean, affordable energy.  
+  
+The energy industry is changing fast. But we’ve continued to lead the way in energy technology, creating intelligent connections across the entire energy ecosystem, from renewables, power and utilities, to oil and gas and financial institutions. Our solutions create more efficient production and distribution, capital allocation, renewable energy development, investment and sourcing, and help reduce costs by automating crucial business operations. Of course, this wouldn’t be possible without our people, which is why we have built a team of individuals from a diverse range of backgrounds.  
+  
+Are you ready to help power the global quality of life? Join Enverus, and be a part of creating a brighter, more sustainable tomorrow.
+
+The Test, Training and Adoption Lead is a member of the Delivery Team, bridging project delivery, quality assurance, customer training, and change management. This role drives customer understanding and adoption of new solutions by coordinating testing, documenting business processes, developing training materials, and leading knowledge transfer throughout the project lifecycle. The ideal candidate is organized, detail-oriented, and collaborates effectively with project managers, developers, configuration and quality assurance teams, and customer stakeholders.
+
+**Performance Objectives**
+
+*Project preparation*
+
+* Develop testing, training, and adoption plans, including schedules, responsibilities, readiness requirements, and completion criteria.
+* Review requirements, user stories, workflows, and business process documentation.
+* Identify areas requiring additional customer communication, training, or support.
+
+*Build and configuration*
+
+* Maintain user stories, business process documentation, and workflow diagrams.
+* Plan and support Over-the-Shoulder validation and Work in Progress sessions, defining participants, topics, schedules, and expected outcomes.
+* Support unit testing and document results, issues, and follow-up actions.
+* Communicate interim releases and provide knowledge transfer on new functionality.
+
+*System and end-to-end testing*
+
+* Develop end-to-end test scenarios and scripts based on approved requirements and representative customerworkflows.
+* Execute system tests prior to formal customer testing and confirm requirements are configured as expected.
+* Coordinate end-to-end demonstrations and validation sessions, and provide sample scripts to support customer testing.
+* Document results, defects, and risks, and work with development and quality assurance teams to resolve issues.
+
+*Release and quality coordination*
+
+* Serve as project test lead, coordinating testing activities and reporting on progress, release readiness, risks, and open issues.
+* Manage defect review, assignment, verification, and status updates, ensuring defect records are complete and accurate.
+* Coordinate build releases with development and quality assurance, perform smoke testing, and prepare release notes.
+* Package, publish, and communicate releases, including contents, known issues, and follow-up actions, per project procedures.
+* Support project managers with release schedules, test-cycle exit criteria, and readiness decisions.
+
+*Training and adoption*
+
+* Develop customer training plans, schedules, demonstrations, job aids, and process guides.
+* Deliver and support training sessions, answering process and functionality questions.
+* Gather user feedback, identify additional coaching needs, and communicate adoption concerns to the project team.
+* Support change management during and after implementation, helping customers adapt to new processes and functionality.
+
+*Knowledge transfer and documentation*
+
+* Maintain current project documentation, including decisions, process updates, test outcomes, defects, and releases.
+* Ensure clear, consistent communication between the project team and customer stakeholders.
+* Support handoff by documenting open items, known issues, and next steps, and create reference materials for post-project use.
+
+**Competitive Candidate Profile**
+
+* Bachelor’s degree in business, information systems, education, project management, or a related field, or equivalent experience.
+* Experience in software implementation, quality assurance, customer training, business analysis, or change management.
+* Experience developing test scenarios, test scripts, training materials, or process documentation.
+* Excellent written and verbal communication skills, with the ability to engage technical and nontechnical stakeholders.
+* Strong organizational skills and attention to detail, with the ability to manage multiple deadlines and escalate risks promptly.
+
+*Preferred qualifications*
+
+* Experience supporting enterprise software implementations.
+* Experience with end-to-end, system, user acceptance, or unit testing, defect tracking, and release management.
+* Familiarity with workflow diagrams, user stories, and business process mappinng.
+* Experience delivering virtual or in-person training and applying change management and user adoption practices.

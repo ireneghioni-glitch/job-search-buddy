@@ -1,0 +1,102 @@
+Title: Application Development Scientist
+Company: Eastman Chemical Company
+Location: Zwijnaarde, Belgium
+URL: 
+Posted: 2026-10-27
+Site: glassdoor
+Search query: Formulation Scientist
+----------------------------------------
+
+Job Requisition ID: 57709
+
+Founded in 1920, Eastman is a global specialty materials company that develops innovative solutions for transportation, building and construction, consumer products and speciality markets. Through materials science, technology innovation, and customer collaboration, Eastman creates products that improve performance and enable sustainable growth. As a globally inclusive company, Eastman employs approximately 13,000 people around the world and serves customers in more than 100 countries. The company had 2025 revenue of approximately $8.8 billion and is headquartered in Kingsport, Tennessee, USA. For more information, visit www.eastman.com.
+
+  
+
+The Ghent South site is a strategic manufacturing and technology center within Eastman’s Advanced Materials Interlayers (AMI) business. The site develops and manufactures PVB interlayers used in laminated-glass applications for the automotive and architectural industries. The Application Development team combines materials science, processing expertise, and application knowledge to develop next-generation products and customer-focused solutions.
+
+  
+
+**Application Development Scientist**
+-------------------------------------
+
+We are seeking an **Application Development Scientist – Formulation, Extrusion & Performance** to join the AMI Application Development team in Ghent South.
+
+The scientist will help develop the next generation of PVB interlayer technologies, supporting both near-term business opportunities and longer-term innovation platforms for automotive and architectural glazing applications.
+
+This role sits at the intersection of materials, processing, and applications. The successful candidate will act as the technical translator between customer requirements, sheet performance, extrusion processing, formulation design, and raw-material characteristics. The ideal candidate combines a strong foundation in polymer science with practical experience in formulation and extrusion technology and is equally comfortable discussing rheology with process engineers, material properties with suppliers, and application requirements with customers.
+
+A key focus is to develop a fundamental, mechanistic understanding of how resin characteristics, additives, and formulation changes influence rheological and visco-elastic behavior during extrusion. This understanding will be used to explain and optimize critical sheet properties such as thickness and gauge uniformity, dimensional stability, shrink behavior, optical quality, and lamination performance, and to connect these properties to acoustic, impact, and other customer-relevant performance requirements.
+
+The role also works in the opposite direction: engaging with customers to identify unmet needs and translating customer and market requirements into application CTQs, sheet specifications, process conditions, formulation targets, and raw-material requirements.
+
+**Key Responsibilities**
+------------------------
+
+* Develop and document fundamental mechanistic understanding of the relationships between material properties, formulation composition, rheology, extrusion behavior, sheet properties, lamination processes, and final application performance.
+* Evaluate the impact of raw-material and formulation changes on rheology, visco-elastic behavior, processability, sheet quality, and customer performance.
+* Translate customer and market requirements into measurable application CTQs and material, formulation, process, and product specifications.
+* Engage directly with customers and partner with Marketing and Sales to understand application and market requirements, identify unmet needs, and translate them into new-product definitions and technology-development programs.
+* Design, execute, and interpret laboratory studies, pilot trials, and manufacturing-scale development programs.
+* Drive technology development from concept generation through laboratory validation, pilot testing, manufacturing implementation, and commercial deployment.
+* Identify and develop intellectual property arising from technology programs, document inventions, and collaborate with internal experts to assess and pursue appropriate patent protection.
+* Collaborate with manufacturing, process engineering, research, commercial teams, suppliers, and customers to develop robust, differentiated technical solutions.
+* Communicate technical findings, recommendations, and project progress through clear written documentation and presentations.
+
+**What we are looking for**
+---------------------------
+
+**Technical competencies**
+--------------------------
+
+* Strong foundation in polymer science, materials science, chemical engineering, chemistry, or a related discipline.
+* Strong understanding of polymer rheology, visco-elastic behavior, and structure-process-property-performance relationships.
+* Knowledge of formulation development, additive interactions, polymer extrusion, and process optimization.
+* Ability to connect material behavior during processing with sheet properties, customer processing, and final application performance.
+* Experience with experimental design, statistical analysis, data interpretation, scale-up, and technical problem solving.
+
+**Professional competencies**
+-----------------------------
+
+* Strong analytical and systems-thinking skills, with the ability to translate complex technical challenges into practical solutions.
+* Curiosity, learning agility, and a passion for innovation and customer-focused application development.
+* Effective written and verbal communication and the ability to collaborate across technology, manufacturing, marketing, sales, supplier, and customer organizations.
+* Demonstrates self-awareness, acts on feedback, aligns priorities and behavior with organizational needs, and contributes constructively to teamwork, decisions, and initiative execution.
+* Ability to clearly articulate and defend technical and business value propositions with internal and external stakeholders, adapting the message, level of detail, and communication style to the audience.
+* Strong project execution, prioritization, initiative, and accountability.
+* Willingness and ability to travel up to 20% of the time, including customer, supplier, and Eastman site visits.
+
+**Preferred Qualifications**
+============================
+
+* PhD degree in Polymer Science, Materials Science, Chemical Engineering, Chemistry, or a related field.
+* Experience in polymer processing, formulation development, extrusion technology, or application development within an industrial R&D, manufacturing-support, or technology environment.
+* Knowledge of laminated-glass systems is an advantage.
+
+**Why join Eastman?**
+---------------------
+
+Join a highly skilled technology team developing advanced interlayer solutions for the automotive and architectural industries. You will work across the full value chain, from customer needs and application CTQs to formulations, extrusion processes, sheet properties, customer processing, and end-use performance. This is an opportunity to convert scientific understanding into material and process innovations, support commercialization, and help shape the future of Eastman’s PVB interlayer technologies.
+
+  
+
+**What we Offer?**
+
+* A full-time, permanent role at our Ghent South site, where safety, quality, and environmental responsibility matter.
+* The opportunity to turn materials science into practical innovation, connecting formulation and extrusion with sheet properties and performance in automotive and architectural glazing applications.
+* A varied role with room to take initiative and collaborate with colleagues across application development, manufacturing, process engineering, and commercial teams.
+* A structured onboarding and a team mentor.
+* Flexible working hours and the possibility to work from home up to one day per week.
+* Opportunities to develop your technical expertise and grow within an international organization.
+* A salary and benefits package in line with the chemical industry, including meal vouchers, eco vouchers, an internet allowance, and a cafeteria plan.
+* A range of insurance and retirement benefits, including hospitalization and outpatient insurance, a pension plan, and private accident insurance.
+* 20 statutory vacation days, 18 additional days off through working-time reduction, and seniority days where applicable.
+* An on-site company restaurant with affordable meals.
+* Team events and initiatives throughout the year that support connection and recognition.
+
+**Interested?**  
+Send your application via **https://jobs.eastman.com**
+
+*Eastman is an equal opportunity employer and is committed to creating a highly engaged workforce, where everyone can contribute to their fullest potential each day.*
+
+**Job Segment:** Chemical Research, Chemical Engineer, Application Developer, Process Engineer, Developer, Engineering, Technology

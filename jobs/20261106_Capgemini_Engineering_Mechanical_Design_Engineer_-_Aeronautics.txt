@@ -1,0 +1,42 @@
+Title: Mechanical Design Engineer | Aeronautics
+Company: Capgemini Engineering
+Location: Diegem, Belgium
+URL: https://www.glassdoor.com/job-listing/j?jl=1010318453439
+Posted: 2026-11-06
+Site: glassdoor
+Search query: Digital R&D Scientist
+----------------------------------------
+
+At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life-saving robots, our digital and software technology experts think outside the box as they provide unique R&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.
+
+**YOUR ROLE**
+-------------
+
+In this role you will play a key role in:
+
+* Leading and coordinating a draughtsman in the production of detailed design drawings, ensuring that specifications are clearly defined and accurately translated into compliant technical documentation
+* Coordinating closely with support disciplines including finite element analysis (FEA), CFD, and test engineers to ensure seamless integration of simulation and testing activities into the product development process
+* Acting as the technical reference point for project managers on products under development, contributing to planning coordination and providing expert answers to technical questions throughout the project lifecycle
+* Applying solid mechanical engineering knowledge to the design and specification of mechanical components including screws, springs, gears, shafts, and other fundamental mechanical elements, with a good understanding of basic structural mechanics and hydraulics
+* Leveraging numerical calculation tools — in particular **Python** — to perform optimisations, parametric studies, and other numerical analyses, bringing a structured and rigorous approach to problem-solving
+* Organising and structuring problem-solving approaches in a methodical way, collaborating effectively with cross-functional teams to identify root causes and deliver robust engineering solutions
+
+**YOUR PROFILE**
+----------------
+
+* You hold an engineering degree in Mechanical Engineering or a related discipline, and bring 3 to 5 years of experience in mechanical design and product development, ideally in a complex industrial environment
+* You have strong mechanical engineering knowledge, including a good understanding of fundamental mechanical components (screws, springs, gears, shafts, etc.), basic structural mechanics, and basic hydraulics, combined with the ability to specify detailed design requirements clearly and accurately
+* You are proficient in **Python** and comfortable with numerical calculation techniques including optimisations and parametric studies, enabling you to bring a data-driven and analytical approach to engineering challenges
+* You demonstrate strong problem-solving skills, with the ability to organise and structure your approach in a methodical and rigorous way, and to collaborate effectively with FEA, CFD, and test engineering teams
+* You are professionally proficient in both **French and English** (mandatory)
+  
+
+**What you'll love about working here:**
+
+  
+
+* **Digital Campuses and Academy** – Our engineering academy offers more than 60,000 hours of training, alongside our digital campus covering GenAI, data, and sustainability. Whether you're looking to deepen your Python and numerical simulation expertise or explore new engineering methodologies, we support your learning journey at every step.
+* **Communities** – Our Framework drives career development and elevates Capgemini's capabilities across various domains. These communities form the pillars of our Engineering Career Framework, connecting you with peers and experts worldwide and enabling you to grow your influence and technical expertise in mechanical design.
+* **Environmental Sustainability** – Our teams around the world pave the way for a sustainable future, from building electric and hydrogen cars to solar airships and advanced mechanical systems. Join us and contribute to products and projects that truly make a difference.
+
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fuelled by its market leading capabilities in AI, cloud and data, combined with its deep industry expertise and partner ecosystem. The Group reported 2023 global revenues of €22.5 billion.

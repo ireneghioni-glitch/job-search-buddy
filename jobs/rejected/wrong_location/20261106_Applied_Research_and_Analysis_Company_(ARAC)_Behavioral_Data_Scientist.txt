@@ -1,0 +1,105 @@
+Title: Behavioral Data Scientist
+Company: Applied Research and Analysis Company (ARAC)
+Location: Remote, USA
+URL: https://www.indeed.com/viewjob?jk=1fa33af43edae1fe
+Posted: 2026-10-08
+Site: indeed
+Search query: Materials Scientist
+----------------------------------------
+
+**Behavioral Data Scientist**
+
+**Job Overview**
+
+Join our team as a Behavioral Data Scientist, where you'll use data to uncover actionable insights into human behavior and decision-making. We're seeking an inquisitive, analytically rigorous, and self-driven scientist to join our Behavioral Science Research Team (BSRT). You'll design, plan, interpret, and report on complex clinical and social behavioral science studies, and translate the findings into clear, compelling deliverables for both scientific and non-scientific audiences.
+
+This role sits at the intersection of research design, survey methodology, statistics, and communication. It suits someone who can move fluidly between designing a rigorous study, programming the survey, running the analysis, and writing it up for a regulatory submission, journal, or client-facing report. It's also an opportunity to grow: as our team expands, you'll help mentor and build a team of researchers.
+
+**Responsibilities**
+
+* Design, plan, and execute complex clinical and social behavioral science studies, including experimental, longitudinal, cohort, and survey-based research, with a focus on studies that support regulatory submissions.
+* Serve as Principal Investigator (PI) on IRB-reviewed studies. This includes preparing protocols, informed consent materials, amendments, and continuing reviews, and overseeing human subjects protections throughout each study.
+* Develop survey instruments and program, test, and field surveys using web-based survey platforms.
+* Conduct literature reviews, surveys, and experiments to identify barriers to behavior change, factors affecting public health, and opportunities to improve product development and market performance.
+* Recommend and execute appropriate descriptive and inferential statistical techniques for complex research questions, aligning statistical methodology with study design from the outset.
+* Analyze and interpret data to identify patterns, insights, and key learnings about human behavior.
+* Translate complex academic literature, statistical findings, and technical research into compelling, actionable insights for non-scientific and regulatory audiences.
+* Produce white papers, technical reports, journal articles, blog posts, and presentation materials on behavioral findings and recommendations.
+* Collaborate cross-functionally with behavioral and social scientists, statisticians, and stakeholders in the design and conduct of research studies.
+* Mentor junior researchers and help grow the research team as the company expands.
+* Ensure data privacy compliance and ethical data collection practices throughout all research activities.
+
+**Qualifications**
+
+*Education and experience*
+
+* Master's degree required, Ph.D. preferred, in Statistics, Psychology, Behavioral Sciences, or a related field.
+* 2–5 years of experience conducting regulatory research, preferably from a client-side and/or consulting perspective.
+* IRB Principal Investigator experience, or the ability to step into the PI role quickly.
+
+*Research design and methods*
+
+* Strong knowledge of experimental design, longitudinal and cohort studies, descriptive survey research, and in-market consumer surveys.
+* Ability to align study design, sampling, and analysis plans with research and regulatory objectives.
+
+*Survey research and programming*
+
+* Hands-on experience developing questionnaires and programming surveys in web-based platforms (e.g., Qualtrics, Decipher, or similar).
+* Familiarity with survey methodology best practices, including questionnaire design, skip logic, quality checks, and data cleaning.
+
+*Statistical analysis*
+
+* Advanced statistical analysis skills, including hypothesis testing and inferential statistics applied to behavioral and clinical data.
+* Proficiency with statistical software (e.g., R, SAS, SPSS, or Stata).
+
+*Communication and collaboration*
+
+* Strong technical and academic writing skills, with a demonstrated ability to produce publication-quality reports, white papers, or journal articles.
+* Ability to interpret complex data and translate it into practical regulatory and business recommendations.
+* Ability to present complex insights clearly and compellingly to audiences ranging from scientific peers to non-technical stakeholders.
+* Strong collaboration and interpersonal skills for working in cross-functional teams.
+
+*Who you are*
+
+* Inquisitive, self-driven, and proactive. You spot what needs doing and take ownership without waiting to be asked.
+* Eager to keep learning and to help grow and develop a team of researchers.
+
+**Benefits**
+
+* Medical and Dental Insurance
+* SIMPLE IRA Plan
+* Vacation
+* Sick Leave
+* Paid Parental Leave
+
+**About the Company**
+
+Applied Research and Analysis Company (ARAC) is a leading U.S.-based behavioral science research firm. It designs, executes, and presents scientifically sound, customizable studies for manufacturers, regulatory agencies, and industry consultants. Its expertise includes consumer-focused research for product development and innovation, and regulatory science supporting marketing authorization applications, with a record of successful U.S. product authorizations and applications.
+
+ARAC specializes in Module 5 & 6 studies. These include label and claim development and comprehension, human factors/usability testing, and clinical and behavioral studies such as randomized experimental, longitudinal, actual use, TPPI, and post-market surveillance studies.
+
+ARAC won the 2024 Golden Leaf award for "Most Outstanding Service to Industry." It has a fully staffed in-house team of psychologists, behavioral scientists, statisticians, survey methodologists, and medical monitoring staff, offering tailored research solutions with integrity and an exceptional client experience.
+
+ARAC is an Equal Opportunity / Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, gender identity, sexual orientation, or protected veteran status.
+
+Pay: $75,901.06 - $95,364.73 per year
+
+Benefits:
+
+* Flexible schedule
+* Health insurance
+* Paid time off
+* Parental leave
+* Relocation assistance
+* Retirement plan
+
+Education:
+
+* Master's (Required)
+
+Experience:
+
+* Regulatory Research : 2 years (Preferred)
+* Principal Investigator: 2 years (Preferred)
+
+Work Location: Remote

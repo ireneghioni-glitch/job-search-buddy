@@ -1,0 +1,56 @@
+Title: Clinical Subject Matter Expert (Remote)
+Company: GovCIO
+Location: Remote, USA
+URL: 
+Posted: 2026-11-03
+Site: indeed
+Search query: Materials Informatics
+----------------------------------------
+
+Overview:
+
+GovCIO is currently hiring for a Clinical Subject Matter Expert to serve as the clinical authority on a team that designs and delivers health IT capabilities for Veteran community care, where Veterans receive care from providers outside the VA system and staff coordinate that care from consult through episode closeout. This role documents how community care works day-to-day, translates it into clear, testable requirements our technical team can build to, and validates that what we deliver holds up under a real clinic workload. This position is fully remote within the United States.
+
+Responsibilities:
+
+Serves as the clinical and operational authority for community care referral and care coordination workflows on a health IT delivery team. Documents current-state clinical and administrative processes, converts them into user stories, acceptance criteria, business rules, and process diagrams that a technical team can implement, and validates delivered functionality through clinical user acceptance testing. Ensures system behavior reflects governing VHA policy and field standard operating procedures. Acts as the translator between frontline clinical practice, program leadership, and engineering. Generally reports to a Program Manager.
+
+* Documents community care workflows end to end, including consult receipt and team assignment, eligibility verification and authorization, standardized episode of care (SEOC) selection, administrative screening and clinical triage, care coordination planning, referral and medical documentation exchange with community providers, appointment scheduling and follow-up, and episode of care closeout.
+* Surfaces the operational reality behind written procedures, including manual workarounds, undocumented service levels, and work performed outside the system today.
+* Translates clinical and operational knowledge into build-ready artifacts, including user stories, acceptance criteria, business rules, decision tables, and process diagrams.
+* Ensures system behavior reflects governing policy, including VHA Directives 1230, 1231, and 1232, the field standard operating procedures beneath them, consult status and action rules, cancellation and resubmission limits, contact-attempt requirements, and community care wait-time and drive-time eligibility standards.
+* Participates in requirements refinement, design reviews, and sprint demonstrations as the clinical reviewer, and identifies decisions that would not hold up under a real coordinator workload.
+* Defines and executes clinical user acceptance testing using scenarios drawn from actual case types, and determines whether delivered functionality is fit for field use.
+* Defines reporting and dashboard requirements from the coordinator and supervisor point of view, including the clinical definitions behind each metric.
+* Convenes and translates for a broader subject matter expert group covering adjacent functions such as scheduling, eligibility and authorization, and provider data, so that requirements are not limited to a single vantage point.
+* Supports training and field readiness by identifying what staff need in order to use delivered functionality effectively.
+* Serves as the bridge between clinical intent and the data and analytics team so that metrics and reporting rest on correct clinical definitions.
+
+Qualifications:
+
+**Required Skills and Experience**
+
+* Bachelor's degree with 8+ years of experience or (commensurate experience)
+* Registered Nurse with 5+ years of clinical healthcare experience (or commensurate experience).
+* Active, unrestricted Registered Nurse license in a United States state or territory.
+* Two or more years of direct, hands-on work in VA community care referral coordination, consult management, community care scheduling, or community care eligibility and authorization. This experience must be current or within the last twelve months.
+* Daily working use of the VA referral management system (HSRM) and of VistA/CPRS, or of Millennium/PowerChart Referral Management at a Federal Electronic Health Record site.
+* Working knowledge of the Consult Toolbox, standardized episodes of care (SEOCs), and the Request for Services process.
+* Applied working knowledge of VHA Directives 1230, 1231, and 1232 and the Community Care Field Guidebook as they govern day-to-day consult and referral practice, and of community care eligibility standards under the MISSION Act.
+* Demonstrated ability to write clearly for an audience outside your own discipline, evidenced by work products such as procedures, job aids, training material, standard work, or briefing documents.
+* Ability to work remotely with reliable connectivity during core Eastern Time business hours.
+* Clearance Required: Ability to obtain and maintain a favorably adjudicated VA Public Trust background investigation.
+
+**Preferred Skills and Experience**
+
+* Bachelor of Science in Nursing, or a graduate degree in nursing, health informatics, healthcare administration, or public health.
+* Experience contributing to system design, requirements definition, user story writing, user acceptance testing, or agile ceremonies.
+* Experience across more than one community care function, for example coordination plus scheduling, or coordination plus eligibility and authorization.
+* Experience working in more than one VA electronic health record environment.
+* Experience with community care reporting and dashboards, for example EPRS, VSSC, Power BI, Tableau, or CDW-sourced reporting.
+* Experience as a super user, preceptor, trainer, or site champion during a system rollout or upgrade.
+* Nursing informatics certification (for example ANCC Informatics Nursing), Certified Scrum Product Owner or ScrumMaster, SAFe, Lean or Six Sigma, or Project Management Professional. None of these is required.
+* Prior experience supporting a federal health program as a contractor.
+* Existing VA Public Trust adjudication, which may shorten onboarding.
+
+Posted Salary Range: USD $110,000.00 - USD $130,000.00 /Yr.

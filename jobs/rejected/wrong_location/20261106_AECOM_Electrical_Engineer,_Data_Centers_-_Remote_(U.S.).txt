@@ -1,0 +1,76 @@
+Title: Electrical Engineer, Data Centers - Remote (U.S.)
+Company: AECOM
+Location: Chicago, IL, USA
+URL: https://www.glassdoor.com/job-listing/j?jl=1010309685966
+Posted: 2026-10-29
+Site: glassdoor
+Search query: Materials Scientist
+----------------------------------------
+
+**Company Description**
+
+**Work with Us. Change the World.**
+
+At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world’s most complex challenges and build legacies for future generations.
+
+There has never been a better time to be at AECOM. With accelerating infrastructure investment worldwide, our services are in great demand. We invite you to bring your bold ideas and big dreams and become part of a global team of over 50,000 planners, designers, engineers, scientists, digital innovators, program and construction managers and other professionals delivering projects that create a positive and tangible impact around the world.
+
+We're one global team driven by our common purpose to deliver a better world. Join us.
+
+ **Job Description**
+
+We are seeking an **Electrical Engineer** with expertise in the design and delivery of colocation and hyperscale data center facilities. The ideal candidate will be responsible for designing electrical systems in large-scale data centers. The ideal candidate will have a strong background in electrical engineering and experience working with high-density data centers.
+
+This position offers the flexibility of a remote work schedule and can be based from a variety of locations in the US where AECOM has an office.
+
+Although the position is primarily remote periodic travel may be required for client meetings, key project milestones, onsite collaboration sessions, or other business‑critical activities. Travel is expected to be occasional and scheduled in advance.
+
+**AECOM** is a leader in the global data center consulting industry with robust teams in the Americas, Europe, Africa, Asia, and Australia. In this role, you will have the opportunity to work with our teams around the world on high-profile, fast-paced data center projects for global clients. This is a hands-on, client-facing role with an opportunity for upward career mobility.
+
+**Key Responsibilities:**
+
+* Design and implement electrical systems for hyper-scale data centers, including medium and low-voltage power distribution, backup power systems, and emergency systems.
+* Responsible for electrical calculations and development of drawings in accordance to client specifications and industry standards.
+* Develop and maintain electrical schematics, bills of materials, and installation drawings
+* Ensure compliance with industry standards, codes, and regulations, including National Electric Code (NEC)
+* Collaborate with other engineers and stakeholders to develop specifications, design criteria, and project budgets
+* Stay up-to-date with advancements in electrical engineering and data center technologies.
+
+  
+**Qualifications**
+
+**Minimum Qualifications:**
+
+* Bachelor's Degree in electrical engineering with 6+ years of MEP design experience.
+* Experience with colocation and hyperscale data center projects.
+* Experience working in Revit and ACC
+* Experience working in power system analysis such as SKM, or ETAP
+* Strong knowledge of National Electrical Code (NEC), Building codes including IBC and IECC
+* Professional Engineer License (P.E.)
+
+**Preferred Qualifications:**
+
+* Familiarity with mission critical infrastructure standards, and data center design requirements.
+* Experience with data center design and construction, including design criteria and industry standards.
+* Excellent communication and interpersonal skills.
+
+  
+**Additional Information**  
+
+* Relocation is not available for this role
+* Sponsorship for U.S. employment authorization is not available now or in the future for this position.
+* **THIS POSTING IS FOR A CURRENT VACANCY, AND AECOM INTENDS TO FILL THIS POSITION BY JANUARY 18, 2027**
+
+At AECOM, we are committed to maintaining a secure and trustworthy recruitment process and take any fraudulent hiring activity seriously. ***To support this commitment, all newly hired employees are required to attend an in-person Day 1 onboarding at an AECOM office location as a condition of employment.***
+
+**About AECOM**
+
+AECOM is proud to offer comprehensive benefits to meet the diverse needs of our employees. Depending on your employment status, AECOM benefits may include medical, dental, vision, life, AD&D, disability benefits, paid time off, leaves of absences, voluntary benefits, perks, flexible work options, well-being resources, employee assistance program, business travel insurance, service recognition awards, retirement savings plan, and employee stock purchase plan.
+
+AECOM is the global infrastructure leader, committed to delivering a better world. As a trusted professional services firm powered by deep technical abilities, we solve our clients’ complex challenges in water, environment, energy, transportation and buildings. Our teams partner with public- and private-sector clients to create innovative, sustainable and resilient solutions throughout the project lifecycle – from advisory, planning, design and engineering to program and construction management. AECOM is a Fortune 500 firm that had revenue of $16.1 billion in fiscal year 2025. Learn more at aecom.com.
+
+**What makes AECOM a great place to work**
+
+You will be part of a global team that champions your growth and career ambitions. Work on groundbreaking projects - both in your local community and on a global scale - that are transforming our industry and shaping the future. With cutting-edge technology and a network of experts, you’ll have the resources to make a real impact. Our award-winning training and development programs are designed to expand your technical expertise and leadership skills, helping you build the career you’ve always envisioned. Here, you’ll find a welcoming workplace built on respect, collaboration and community—where you have the freedom to grow in a world of opportunity.
+
+As an Equal Opportunity Employer, we believe in your potential and are here to help you achieve it. All your information will be kept confidential according to EEO guidelines.

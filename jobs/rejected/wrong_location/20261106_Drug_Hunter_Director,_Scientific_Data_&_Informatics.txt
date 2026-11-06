@@ -1,0 +1,56 @@
+Title: Director, Scientific Data & Informatics
+Company: Drug Hunter
+Location: Boston, MA, USA
+URL: 
+Posted: 2026-10-08
+Site: indeed
+Search query: Scientific Data Scientist Chemistry
+----------------------------------------
+
+**About the Role**
+
+Drug Hunter is a B2B scientific intelligence platform for biotech/pharma R&D scientists that empowers them to discover the medicines of the future. We serve >250 R&D institutions, including most of the top global biotech & pharma companies. We're a mission-driven, product-focused company backed by top-tier investors and trusted by the world's leading R&D organizations.
+
+The Director, Scientific Data & Informatics will own the integrity, structure, and evolution of Drug Hunter’s scientific data across our knowledge platform and scientific databases. You will lead the scientific data team within our Technical organization and be the bridge between our scientists and our engineers.
+
+**Key Responsibilities**
+
+* Serve as the primary internal subject-matter expert for cheminformatics and scientific data, with sufficient breadth across bioinformatics and drug discovery data to guide data decisions spanning chemistry and biology.
+* Own the scientific strategy for how Drug Hunter acquires, represents, integrates, normalizes, and maintains scientific data, partnering with Engineering on the architecture and systems that operationalize that strategy and Science on both automated and manual data curation processes.
+* Define how chemical entities are represented, registered, standardized, and resolved across sources, and establish curation standards, controlled vocabularies, QA rules, and tooling that allows data curation to take place at scale
+* Define approaches for extracting structured scientific information from unstructured content, including chemical structures, text, and tables from literature and patents, and establish how extracted information should be linked to canonical entities.
+* Own the scientific semantics, entity resolution, and ontology strategy that unifies compound synonyms, target and gene nomenclature, disease terms, organizations, assays, and other scientific concepts across sources, including approaches for handling ambiguity and conflicting source assertions.
+* Evaluate scientific data sources across chemistry, biology, DMPK, drug, and clinical domains, assessing their coverage, scientific quality, overlap, limitations, licensing considerations, and update characteristics, and determine how they should contribute to Drug Hunter's data.
+* Establish standards for scientific data quality, provenance, validation, completeness, and freshness, and ensure the Data team has effective processes for identifying and resolving data-quality issues.
+* Partner closely with Science to translate scientific expertise and curation decisions into consistent, maintainable data models, standards, and processes.
+* Partner with Engineering to define data models and technical approaches that accurately represent complex scientific information and support the Drug Hunter platform, jointly evaluating architectural decisions and trade-offs where data and application systems intersect.
+* Partner with Product Management to translate scientific and technical requirements into project specifications for the data team and communicate the trade-offs the technical decisions carry.
+* Evaluate build-versus-buy decisions for scientific datasets, chem- and bio-informatics capabilities, and data tooling, partnering with Engineering where decisions involve shared technical infrastructure or application architecture.
+* Lead the Data team in translating scientific data priorities into executable projects, remaining sufficiently involved in day-to-day work to understand progress, technical challenges, dependencies, and workload.
+* Provide scientific and technical leadership, mentorship, and direction to the Data team, creating, hiring, and managing roles as needed.
+
+  
+**Requirements**  
+
+* PhD in cheminformatics, bioinformatics, computational biology, structural biology, or a related quantitative life-science field.
+* 10+ years working with scientific data in drug discovery, biotech, or life science data/informatics companies, including 3+ years leading people or a data function
+* Working cheminformatics literacy (molecular representations, structure standardization, substructure/similarity search concepts, RDKit or similar tools)
+* Fluency in bioinformatics, with a deep working knowledge of biological databases and ontologies, target and pathway biology, and gene/protein identifier mapping
+* Strong data modeling skills and hands-on proficiency in Python and SQL; experience with data pipelines and modern data tooling
+* Understanding of the drug discovery process from target to clinic, and ability to converse fluently with medicinal chemsits and biologists
+* Clear communicator who can move seamlessly between scientific details and engineering/product trade-offs
+
+  
+**Benefits**
+
+Drug Hunter provides industry-leading benefits, including the following:
+
+* Competitive salary, variable compensation, and equity
+* Broad range of medical, dental, vision, and life insurance plans for employees and their dependents, including generous coverage for a platinum PPO healthcare plan
+* Short-term disability and long-term disability insurance
+* Cancer and critical illness coverage
+* Up to 14 weeks paid parental leave (after 1 yr tenure) and childcare FSA plan
+* 401(k) + employer match
+* Home office set up stipend for fully remote employees
+* Learning and development support
+* Generous and flexible vacation and leave policies
