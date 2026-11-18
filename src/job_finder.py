@@ -18,8 +18,6 @@ import pandas as pd
 from jobspy import scrape_jobs
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-JOBS_DIR = ROOT_DIR / "jobs"
-SEARCHES_FILE = ROOT_DIR / "searches.txt"
 
 NOISE_TITLE_KEYWORDS = [
     "forklift", "driver", "die cutter", "stitcher", "shipping",
@@ -95,13 +93,13 @@ def sanitize_filename(name: str, max_length: int = 80) -> str:
         name = name[:max_length].rstrip("._- ")
     return name or "unknown"
 
-def process_and_save_jobs(jobs_list: list[dict], query: str):
+def process_and_save_jobs(jobs_list: list[dict], query: str, jobs_dir: Path):
     """Applies filters and saves unique jobs to disk."""
-    JOBS_DIR.mkdir(exist_ok=True)
-    REJECTED_DIR = JOBS_DIR / "rejected"
+    jobs_dir.mkdir(exist_ok=True)
+    rejected_dir = jobs_dir / "rejected"
 
     def save_to_rejected(text, filename, reason):
-        folder = REJECTED_DIR / reason
+        folder = rejected_dir / reason
         folder.mkdir(parents=True, exist_ok=True)
         (folder / filename).write_text(text, encoding="utf-8")
 
@@ -130,11 +128,11 @@ def process_and_save_jobs(jobs_list: list[dict], query: str):
 
         timestamp = datetime.now().strftime("%Y%m%d")
         filename = f"{timestamp}_{sanitize_filename(company)}_{sanitize_filename(title)}.txt"
-        filepath = JOBS_DIR / filename
+        filepath = jobs_dir / filename
 
         if len(str(filepath)) > 250:
             filename = f"{timestamp}_{sanitize_filename(company)[:30]}_{sanitize_filename(title)[:30]}.txt"
-            filepath = JOBS_DIR / filename
+            filepath = jobs_dir / filename
 
         if filepath.exists():
             save_to_rejected(full_text, filename, "duplicate")
@@ -181,17 +179,27 @@ def main():
     parser = argparse.ArgumentParser(description="Master Job Scraper.")
     parser.add_argument("--sites", nargs="+", default=["indeed", "glassdoor"],
                         help="JobSpy sites to use (e.g., linkedin indeed glassdoor google)")
-    parser.add_argument("--results", type=int, default=10, help="Results per JobSpy site")
+    parser.add_argument("--profile", default="irene", help="Nome del profilo (es. irene)")
+    parser.add_argument("--results", type=int, default=5, help="Results per JobSpy site")
     parser.add_argument("--query", help="Run a single ad-hoc query instead of the file.")
     parser.add_argument("--location", default="Brussels, Belgium", help="Location for ad-hoc query.")
     parser.add_argument("--hours", type=int, default=168, help="Max age in hours for ad-hoc query.")
     parser.add_argument("--limit", type=int, default=None, help="Limit number of queries to run")
+    
     args = parser.parse_args()
+
+    # dynamic paths definitions
+    profile_dir = ROOT_DIR / "profiles" / args.profile
+    jobs_dir = profile_dir / "jobs"
+    searches_file = profile_dir / "searches.txt"
+
+    # Create profile directory if it doesn't exist yet
+    profile_dir.mkdir(parents=True, exist_ok=True)
 
     if args.query:
         entries = [{"query": args.query, "location": args.location, "hours_old": args.hours}]
     else:
-        searches_path = Path(SEARCHES_FILE)
+        searches_path = Path(searches_file)
         if not searches_path.exists():
             print(f"[ERROR] {searches_path} not found.")
             return
@@ -223,7 +231,7 @@ def main():
                 location=location,
                 results_wanted=args.results,
                 hours_old=hours_old,
-                fetch_description=True,
+                fetch_description=True
             )
             if df is not None and not df.empty:
                 all_jobs.extend(df.to_dict("records"))
@@ -232,13 +240,13 @@ def main():
 
         # Filter and Save
         if all_jobs:
-            saved, skipped, failed = process_and_save_jobs(all_jobs, query)
+            saved, skipped, failed = process_and_save_jobs(all_jobs, query, jobs_dir)
             print(f"[DONE] Saved: {saved} | Rejected/Skipped: {skipped} | Failed: {failed}")
         else:
             print("[INFO] No jobs found.")
 
         # Polite delay between queries
-        time.sleep(5)
+        time.sleep(20)
 
 if __name__ == "__main__":
     main()

@@ -4,10 +4,6 @@ keyword_score.py
 ================
 Deterministic keyword-based scoring of job postings against the candidate
 profile.
-
-This is a second, LLM-independent score. It does NOT replace the LLM triage
-in analyze_all.py; it complements it. If both agree (LLM high + keyword high),
-the signal is strong. If they disagree, the posting deserves a manual read.
 """
 
 import argparse
@@ -16,8 +12,6 @@ import re
 from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-JOBS_DIR = ROOT_DIR / "jobs"
-OUTPUTS_DIR = ROOT_DIR / "outputs"
 
 KEYWORD_FAMILIES = [
     # --- Core data science / programming (weight 3) ---
@@ -138,9 +132,10 @@ def score_text(text: str) -> dict:
 def load_job_text(path: Path) -> str:
     return path.read_text(encoding="utf-8")
 
-def write_meta_score(job_path: Path, kw: dict) -> None:
+# AGGIORNATA: ora accetta outputs_dir
+def write_meta_score(job_path: Path, outputs_dir: Path, kw: dict) -> None:
     stem = job_path.stem
-    meta_path = OUTPUTS_DIR / f"{stem}.meta.json"
+    meta_path = outputs_dir / f"{stem}.meta.json"
     if not meta_path.exists():
         return
     try:
@@ -154,11 +149,17 @@ def write_meta_score(job_path: Path, kw: dict) -> None:
 
 def main():
     parser = argparse.ArgumentParser(description="Deterministic keyword scoring.")
+    parser.add_argument("--profile", default="irene", help="Nome del profilo (es. irene, giovanni)")
     parser.add_argument("--job", default=None, help="Score a single file")
     parser.add_argument("--top", type=int, default=None, help="Show top N")
     parser.add_argument("--update-meta", action="store_true", help="Write to .meta.json")
     parser.add_argument("--show-hits", action="store_true", help="Show matched families")
     args = parser.parse_args()
+
+    # --- DYNAMIC PATHS ---
+    profile_dir = ROOT_DIR / "profiles" / args.profile
+    jobs_dir = profile_dir / "jobs"
+    outputs_dir = profile_dir / "outputs"
 
     if args.job:
         p = Path(args.job)
@@ -171,14 +172,14 @@ def main():
         print(f"  positive: {', '.join(kw['positive_hits']) or '(none)'}")
         print(f"  negative: {', '.join(kw['negative_hits']) or '(none)'}")
         if args.update_meta:
-            write_meta_score(p, kw)
+            write_meta_score(p, outputs_dir, kw) # Passiamo outputs_dir
         return
 
-    if not JOBS_DIR.exists():
-        print(f"[ERROR] jobs directory not found: {JOBS_DIR}")
+    if not jobs_dir.exists():
+        print(f"[ERROR] jobs directory not found: {jobs_dir}")
         return
 
-    job_files = sorted(JOBS_DIR.glob("*.txt"))
+    job_files = sorted(jobs_dir.glob("*.txt"))
     if not job_files:
         print("[INFO] no job files found in jobs/")
         return
@@ -188,7 +189,7 @@ def main():
         kw = score_text(load_job_text(p))
         results.append((p, kw))
         if args.update_meta:
-            write_meta_score(p, kw)
+            write_meta_score(p, outputs_dir, kw) # Passiamo outputs_dir
 
     results.sort(key=lambda x: -x[1]["score"])
     if args.top:

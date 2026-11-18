@@ -9,9 +9,10 @@ It will attempt to fetch the text from the URL. If that fails (due to Cloudflare
 it will prompt you to paste the text manually.
 
 Usage:
-    python3 src/manual_adder.py
+    python3 src/manual_adder.py --profile irene
 """
 
+import argparse
 import re
 from pathlib import Path
 from datetime import datetime
@@ -19,7 +20,6 @@ import requests
 from bs4 import BeautifulSoup
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-JOBS_DIR = ROOT_DIR / "jobs"
 
 def sanitize_filename(name: str, max_length: int = 80) -> str:
     name = re.sub(r'[<>:"/\\|?*]', "-", name)
@@ -57,9 +57,16 @@ def fetch_url_text(url: str) -> str:
         return ""
 
 def main():
-    JOBS_DIR.mkdir(exist_ok=True)
+    parser = argparse.ArgumentParser(description="Manually add a job posting.")
+    parser.add_argument("--profile", default="irene", help="Nome del profilo (es. irene, giovanni)")
+    args = parser.parse_args()
+
+    # Define dynamic paths
+    profile_dir = ROOT_DIR / "profiles" / args.profile
+    jobs_dir = profile_dir / "jobs"
+    jobs_dir.mkdir(parents=True, exist_ok=True)
     
-    print("=== MANUAL JOB ADDER ===\n")
+    print(f"=== MANUAL JOB ADDER (Profile: {args.profile}) ===\n")
     
     url = input("URL dell'annuncio (obbligatorio): ").strip()
     if not url:
@@ -108,12 +115,12 @@ def main():
     )
 
     filename = f"{timestamp}_{sanitize_filename(company)}_{sanitize_filename(title)}.txt"
-    filepath = JOBS_DIR / filename
+    filepath = jobs_dir / filename
 
     # Handle long filenames
     if len(str(filepath)) > 250:
         filename = f"{timestamp}_{sanitize_filename(company)[:30]}_{sanitize_filename(title)[:30]}.txt"
-        filepath = JOBS_DIR / filename
+        filepath = jobs_dir / filename
 
     if filepath.exists():
         print(f"\n[WARN] File already exists: {filename}")
@@ -125,7 +132,7 @@ def main():
     filepath.write_text(full_text, encoding="utf-8")
     print(f"\n[SUCCESS] Annuncio salvato in: {filepath.name}")
     print("Ora puoi lanciare l'analisi con:")
-    print(f"python3 src/analyze_all.py --filter \"{sanitize_filename(company)[:10]}\" --extra-files 02_experiences.md 06_cv_master.md")
+    print(f"python3 src/analyze_all.py --profile {args.profile} --filter \"{sanitize_filename(company)[:10]}\" --extra-files 02_experiences.md 06_cv_master.md")
 
 if __name__ == "__main__":
     main()

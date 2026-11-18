@@ -2,28 +2,11 @@
 """
 analyze_all.py
 ==============
-Batch analyzer for all job postings in jobs/.
+Batch analyzer for all job postings in the specific profile's jobs/ folder.
 
 Iterates over every .txt file in jobs/, analyzes each against the candidate
 profile using the local Ollama model, saves individual reports in outputs/,
 and generates a single summary report sorted by fit score.
-
-Supports:
-- Resume: skips jobs already analyzed (unless --reset).
-- Quick mode: shorter prompt, only fit score + recommendation + reason.
-- Strict mode: heuristic pre-filter that skips or caps scores for obvious
-  mismatches (senior titles, 5+ years, wrong degree, specialized skills).
-- Summary-only: regenerate the summary from existing analyses.
-- Extra profile files: include additional profile files in the prompt.
-
-Usage:
-    python src/analyze_all.py --quick              # triage all jobs quickly
-    python src/analyze_all.py --quick --strict     # triage with pre-filter (recommended)
-    python src/analyze_all.py --limit 5            # test on 5 jobs
-    python src/analyze_all.py --filter capgemini   # only matching filenames
-    python src/analyze_all.py --summary-only       # regenerate summary
-    python src/analyze_all.py --reset              # re-analyze everything
-    python src/analyze_all.py --extra-files 03_education_skills.md 04_projects.md
 """
 
 import shutil
@@ -39,8 +22,6 @@ from profile_loader import load_profile
 from keyword_score import score_text as kw_score_text
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-JOBS_DIR = ROOT_DIR / "jobs"
-OUTPUTS_DIR = ROOT_DIR / "outputs"
 
 MODEL = "qwen3:8b"
 
@@ -128,7 +109,6 @@ Score the fit. Check the red flags first. Reply in the exact format specified, n
 # ---------------------------------------------------------------------------
 
 def _extract_min_years(text: str) -> int | None:
-    """Extract the minimum years of experience mentioned in the posting, if any."""
     patterns = [
         r"(?:minimum|min\.?|at least)\s+(?:of\s+)?(\d+)\s*\+?\s*years",
         r"(\d+)\s*\+\s*years",
@@ -158,9 +138,6 @@ def _score_to_rec(score: int) -> str:
 
 
 def prefilter_job(job_text: str, job_title: str) -> tuple:
-    """
-    Heuristic pre-filter for obvious mismatches.
-    """
     reasons = []
     max_score = 100
     title_lower = job_title.lower()
@@ -364,7 +341,7 @@ def parse_full_response(text: str) -> dict:
 # Core analysis
 # ---------------------------------------------------------------------------
 
-def analyze_one(job_path: Path, profile: str, quick: bool,
+def analyze_one(job_path: Path, profile: str, outputs_dir: Path, quick: bool,
                 extra_files: list = None, strict: bool = False) -> dict:
     job_text = job_path.read_text(encoding="utf-8")
     header = parse_job_header(job_text)
@@ -417,8 +394,8 @@ def analyze_one(job_path: Path, profile: str, quick: bool,
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     stem = job_path.stem
-    report_path = OUTPUTS_DIR / f"{stem}.md"
-    meta_path = OUTPUTS_DIR / f"{stem}.meta.json"
+    report_path = outputs_dir / f"{stem}.md"
+    meta_path = outputs_dir / f"{stem}.meta.json"
 
     report_path.write_text(
         f"# Analysis: {job_path.name}\n\n"
@@ -467,9 +444,9 @@ def should_skip(meta_path: Path, current_mode: str, strict: bool) -> bool:
 # Summary
 # ---------------------------------------------------------------------------
 
-def build_summary() -> Path:
+def build_summary(outputs_dir: Path) -> Path:
     metas = []
-    for p in sorted(OUTPUTS_DIR.glob("*.meta.json")):
+    for p in sorted(outputs_dir.glob("*.meta.json")):
         try:
             metas.append(json.loads(p.read_text(encoding="utf-8")))
         except Exception as e:
@@ -523,54 +500,49 @@ def build_summary() -> Path:
         "",
     ]
 
-    out = OUTPUTS_DIR / "_summary.md"
+    out = outputs_dir / "_summary.md"
     out.write_text("\n".join(lines), encoding="utf-8")
     return out
 
-def cleanup_old_jobs(days: int = 30):
-    """Move older jobs (of X days) in the 'archive' directories."""
+def cleanup_old_jobs(jobs_dir: Path, outputs_dir: Path, days: int = 30):
     cutoff = datetime.now() - timedelta(days=days)
     jobs_archived = 0
     
-    # Crea le cartelle di archivio
-    (JOBS_DIR / "archive").mkdir(parents=True, exist_ok=True)
-    (OUTPUTS_DIR / "archive").mkdir(parents=True, exist_ok=True)
+    (jobs_dir / "archive").mkdir(parents=True, exist_ok=True)
+    (outputs_dir / "archive").mkdir(parents=True, exist_ok=True)
 
-    for job_path in JOBS_DIR.glob("*.txt"):
-        # Estrai la data dal nome del file (formato: YYYYMMDD_Azienda_Titolo.txt)
+    for job_path in jobs_dir.glob("*.txt"):
         date_str = job_path.name[:8]
         try:
             job_date = datetime.strptime(date_str, "%Y%m%d")
         except ValueError:
-            continue  # Salta i file che non iniziano con una data valida
+            continue
         
         if job_date < cutoff:
-            # Sposta l'annuncio in jobs/archive
-            shutil.move(str(job_path), str(JOBS_DIR / "archive" / job_path.name))
+            shutil.move(str(job_path), str(jobs_dir / "archive" / job_path.name))
             jobs_archived += 1
             
-            # Sposta anche i suoi file di analisi in outputs/archive
             stem = job_path.stem
             for ext in [".md", ".meta.json"]:
-                out_file = OUTPUTS_DIR / f"{stem}{ext}"
+                out_file = outputs_dir / f"{stem}{ext}"
                 if out_file.exists():
-                    shutil.move(str(out_file), str(OUTPUTS_DIR / "archive" / out_file.name))
+                    shutil.move(str(out_file), str(outputs_dir / "archive" / out_file.name))
                     
     if jobs_archived > 0:
-        print(f"[INFO] Cleaning: {jobs_archived} old jobs successfully arcived.")
+        print(f"[INFO] Cleaning: {jobs_archived} old jobs successfully archived.")
 
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
 def main():
-    parser = argparse.ArgumentParser(description="Batch-analyze all jobs in jobs/.")
+    parser = argparse.ArgumentParser(description="Batch-analyze all jobs for a specific profile.")
+    parser.add_argument("--profile", default="irene", help="Nome del profilo (es. irene, giovanni)")
     parser.add_argument("--quick", action="store_true",
                         help="Quick triage mode: only score, recommendation, reason.")
     parser.add_argument("--strict", action="store_true",
                         help="Enable heuristic pre-filter: skip or cap scores for "
-                             "obvious mismatches (senior titles, 5+ years, wrong degree, "
-                             "specialized skills). Recommended.")
+                             "obvious mismatches.")
     parser.add_argument("--limit", type=int, default=None,
                         help="Analyze at most N jobs (for testing).")
     parser.add_argument("--filter", default=None,
@@ -580,39 +552,39 @@ def main():
     parser.add_argument("--summary-only", action="store_true",
                         help="Skip analysis, just regenerate the summary.")
     parser.add_argument("--extra-files", nargs="*", default=[],
-                        help="Additional profile files to include in the prompt "
-                             "(e.g. 03_education_skills.md 04_projects.md).")
-    # IL PARAMETRO MAGICO
+                        help="Additional profile files to include in the prompt.")
     parser.add_argument("--kw-threshold", type=int, default=None,
-                        help="Skip LLM analysis for jobs whose keyword_score is "
-                             "below this threshold. Example: --kw-threshold 20")
+                        help="Skip LLM analysis for jobs whose keyword_score is below this threshold.")
     args = parser.parse_args()
 
-    OUTPUTS_DIR.mkdir(exist_ok=True)
+    # --- DYNAMIC PATHS ---
+    profile_dir = ROOT_DIR / "profiles" / args.profile
+    jobs_dir = profile_dir / "jobs"
+    outputs_dir = profile_dir / "outputs"
+    
+    # Create folders if they don't exist
+    jobs_dir.mkdir(parents=True, exist_ok=True)
+    outputs_dir.mkdir(parents=True, exist_ok=True)
 
-    # --- execute cleaning firts of all ---
-    cleanup_old_jobs(days=30) 
-    # -----------------------------------------------
+    print(f"[INFO] Profile: {args.profile}")
+
+    # --- CLEANUP ---
+    cleanup_old_jobs(jobs_dir=jobs_dir, outputs_dir=outputs_dir, days=30)
 
     if args.summary_only:
-        path = build_summary()
-
-    OUTPUTS_DIR.mkdir(exist_ok=True)
-
-    if args.summary_only:
-        path = build_summary()
+        path = build_summary(outputs_dir)
         print(f"[DONE] summary written to {path}")
         return
 
-    if not JOBS_DIR.exists():
-        print(f"[ERROR] jobs directory not found: {JOBS_DIR}")
+    if not jobs_dir.exists():
+        print(f"[ERROR] jobs directory not found: {jobs_dir}")
         return
 
-    job_files = sorted(JOBS_DIR.glob("*.txt"))
+    job_files = sorted(jobs_dir.glob("*.txt"))
     if args.filter:
         job_files = [p for p in job_files if args.filter.lower() in p.name.lower()]
 
-    # Applica il filtro magico
+    # Keyword filter
     if args.kw_threshold is not None:
         before = len(job_files)
         kept = []
@@ -622,10 +594,9 @@ def main():
                 if kw["score"] >= args.kw_threshold:
                     kept.append(p)
             except Exception:
-                kept.append(p)  # keep on error
+                kept.append(p)
         job_files = kept
-        print(f"[INFO] keyword pre-filter: {before} -> {len(job_files)} files "
-              f"(KW >= {args.kw_threshold})")
+        print(f"[INFO] keyword pre-filter: {before} -> {len(job_files)} files (KW >= {args.kw_threshold})")
 
     if args.limit:
         job_files = job_files[:args.limit]
@@ -639,6 +610,7 @@ def main():
     print(f"[INFO] mode: {mode}{' + strict' if args.strict else ''}")
     if args.extra_files:
         print(f"[INFO] extra profile files: {', '.join(args.extra_files)}")
+    
     if args.quick:
         print("[INFO] estimated time: ~30-60s per job on CPU.")
     else:
@@ -649,11 +621,13 @@ def main():
         profile_files = ["01_profile.md", "02_experiences.md", "06_cv_master.md"] + args.extra_files
     else:
         profile_files = None
-    profile = load_profile(files=profile_files)
+    
+    # Load profile from the specific profile directory
+    profile = load_profile(profile_dir=profile_dir, files=profile_files)
 
     n_done, n_skipped, n_failed, n_prefiltered = 0, 0, 0, 0
     for i, job_path in enumerate(job_files, start=1):
-        meta_path = OUTPUTS_DIR / f"{job_path.stem}.meta.json"
+        meta_path = outputs_dir / f"{job_path.stem}.meta.json"
         if not args.reset and should_skip(meta_path, mode, args.strict):
             print(f"[{i}/{len(job_files)}] [SKIP] {job_path.name}")
             n_skipped += 1
@@ -661,8 +635,8 @@ def main():
 
         print(f"[{i}/{len(job_files)}] [RUN ] {job_path.name}")
         try:
-            meta = analyze_one(job_path, profile, quick=args.quick,
-                               extra_files=args.extra_files, strict=args.strict)
+            meta = analyze_one(job_path, profile, outputs_dir=outputs_dir, 
+                               quick=args.quick, extra_files=args.extra_files, strict=args.strict)
             note = ""
             pre = meta.get("prefilter", {})
             if pre.get("skip"):
@@ -682,18 +656,8 @@ def main():
     print(f"\n[DONE] analyzed={n_done}, skipped={n_skipped}, "
           f"prefiltered={n_prefiltered}, failed={n_failed}")
 
-    summary_path = build_summary()
+    summary_path = build_summary(outputs_dir)
     print(f"[DONE] summary written to {summary_path}")
-
 
 if __name__ == "__main__":
     main()
-
-
-'''
-# 1. Cancella tutti i vecchi annunci e le cartelle dei rifiutati
-rm -rf jobs/*
-
-# 2. Cancella tutti i vecchi report e i summary
-rm -rf outputs/*
-'''
