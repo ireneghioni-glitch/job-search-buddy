@@ -617,13 +617,8 @@ def main():
         print("[INFO] estimated time: ~1-3 min per job on CPU.")
     print("[INFO] use Ctrl+C to interrupt. Progress is saved per job.\n")
 
-    if args.extra_files:
-        profile_files = ["01_profile.md", "02_experiences.md", "06_cv_master.md"] + args.extra_files
-    else:
-        profile_files = None
-    
-    # Load profile from the specific profile directory
-    profile = load_profile(profile_dir=profile_dir, files=profile_files)
+    # Load profile from the specific profile director
+    profile = load_profile(profile_dir=profile_dir, extra_files=args.extra_files)
 
     n_done, n_skipped, n_failed, n_prefiltered = 0, 0, 0, 0
     for i, job_path in enumerate(job_files, start=1):

@@ -1,37 +1,46 @@
 # src/profile_loader.py
-"""
-profile_loader.py
-=================
-Load the candidate profile from the profile directory.
-
-This module concatenates the Markdown files that describe the candidate into
-a single string, ready to be injected into a prompt for the local LLM.
-"""
+"""Load the candidate profile by concatenating the Markdown documents
+stored in the profile subfolder, plus any extra files requested."""
 
 from pathlib import Path
 
-def load_profile(profile_dir: Path, files=None) -> str:
-    """Load and concatenate profile files into a single string.
+PROFILE_DOCS_DIR = "profile"
+
+
+def load_profile(profile_dir: Path, extra_files=None) -> str:
+    """Load and concatenate the profile Markdown files into one string.
+
+    By default, loads every ``*.md`` file in ``<profile_dir>/profile/``,
+    sorted by filename and skipping ``*.example.md`` templates. Extra files
+    are appended afterwards.
 
     Args:
-        profile_dir: The path to the specific profile directory (e.g., profiles/irene).
-        files: Optional list of filenames to load. If None, uses default files.
+        profile_dir: Path to the profile folder (e.g. profiles/irene).
+        extra_files: Optional list of extra filenames to append. Relative
+            names are resolved inside the docs subfolder; absolute paths
+            are used as-is.
 
     Returns:
-        A single string containing all requested profile files.
+        A single string with all documents, separated by blank lines.
     """
-    DEFAULT_FILES = [
-        "01_profile.md",
-    ]
-
-    files = files or DEFAULT_FILES
+    docs_dir = profile_dir / PROFILE_DOCS_DIR
     parts = []
-    
-    for name in files:
-        path = profile_dir / name
-        if not path.exists():
-            print(f"[WARN] file not found: {path}")
-            continue
-        parts.append(f"### {name}\n\n{path.read_text(encoding='utf-8')}")
-        
+
+    # 1) Default documents: discover them instead of hardcoding a list.
+    if docs_dir.is_dir():
+        for path in sorted(docs_dir.glob("*.md")):
+            if path.name.endswith(".example.md"):
+                continue
+            parts.append(f"### {path.name}\n\n{path.read_text(encoding='utf-8')}")
+
+    # 2) Extra files (e.g. from --extra-files).
+    for name in extra_files or []:
+        candidate = Path(name)
+        if not candidate.is_absolute():
+            candidate = docs_dir / candidate
+        if candidate.is_file():
+            parts.append(f"### {name}\n\n{candidate.read_text(encoding='utf-8')}")
+        else:
+            print(f"[WARN] file not found: {candidate}")
+
     return "\n\n".join(parts)
