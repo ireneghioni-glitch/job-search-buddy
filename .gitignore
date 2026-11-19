@@ -15,8 +15,14 @@ job-venv/
 htmlcov/
 test_job_posting.py
 
-# Ignore profile file with personal
-profile/01_profile.md
+# Personal profile documents (sensitive data): ignore real .md, keep templates
+profiles/*/profile/*.md
+!profiles/*/profile/*.example.md
+profiles/*/searches.txt
+
+# Operational artifacts per profile (created by scripts)
+profiles/*/jobs/
+profiles/*/outputs/
 
 # Ignore educational md files 
 systematic_method_for_software_development.md
